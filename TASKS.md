@@ -10,11 +10,11 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 - [ ] Finalise and stabilise canonical spine files (00–06).
 - [ ] Write first three “gold-standard” Codex terms using 01_TERM_TEMPLATE:
-  - [ ] Prayer
-  - [ ] Love (Agape)
-  - [ ] Scripture
-- [ ] Add explicit misuse-prevention sections to each.
-- [ ] Review all three against 06_TESTS_AND_INVARIANTS.md.
+  - [x] Prayer
+  - [x] Love (Agape)
+  - [x] Scripture
+- [x] Add explicit misuse-prevention sections to each.
+- [x] Review all three against 06_TESTS_AND_INVARIANTS.md.
 
 ---
 

@@ -164,6 +164,11 @@ Agape stabilises and propagates healed attractor landscapes across relational fi
 
 ---
 
+### Fails the Cross If…
+Love is used to avoid truth, erase boundaries, spiritualise harm, demand self-erasure, or maintain unjust systems rather than bearing costly, truthful love in the pattern of Christ.
+
+---
+
 ## Scripture (Γραφή / Scriptura)
 
 ### One-Line Definition
@@ -245,9 +250,3 @@ Scripture provides a stable convergence coordinate that protects discernment fro
 
 ### Fails the Cross If…
 Scripture is used to dominate, silence, exclude, or justify harm rather than to bear truthful, cruciform love that protects the vulnerable and forms the Church in Christ.
-
----
-
-### Fails the Cross If…
-Love is used to avoid truth, erase boundaries, spiritualise harm, demand self-erasure, or maintain unjust systems rather than bearing costly, truthful love in the pattern of Christ.
-
