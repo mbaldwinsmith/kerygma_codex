@@ -6,7 +6,7 @@ Atonement is the cruciform repair of distorted reality in which Christ absorbs d
 ---
 
 ## Formal Operator
-Atonement is the cruciform repair operator that absorbs distortion into truthful love, re-couples fractured communion, and restores coherence without bypassing suffering.
+As a refinement of **Sacrifice**, atonement is the cruciform repair operator that absorbs distortion into truthful love, re-couples fractured communion, and restores coherence without bypassing suffering.
 
 D (distortion) + Cross-shaped love → D′ (transmuted),  H → H′,  Field_coherence ↑ (without retaliation)
 

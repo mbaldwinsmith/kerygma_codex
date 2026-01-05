@@ -125,3 +125,25 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Create contributor guidelines.
 - [ ] Add versioning and changelog.
 - [ ] Establish stewardship practices.
+
+---
+
+## Cross-Reference Refactor Pass — Batch 1 (Fundamental Practices)
+
+- [x] Updated cross-references in:
+  - `07_fundamental_practices/prayer.md`
+  - `07_fundamental_practices/love_agape.md`
+  - `07_fundamental_practices/scripture.md`
+  - `07_fundamental_practices/grace.md`
+  - `07_fundamental_practices/atonement.md`
+  - `07_fundamental_practices/justification.md`
+  - `07_fundamental_practices/metanoia.md`
+  - `07_fundamental_practices/sanctification.md`
+- [x] Linking patterns applied:
+  - Formal Operator grounding/refinement links (Grace, Atonement, Sacrifice, Love, Tradition, Prayer).
+  - Input/output links for consent safeguards and downstream formation (Spiritual Direction, Confession, Metanoia, Sanctification).
+  - Misuse guardrail links to authority/justice and conscience terms where relevant.
+- [ ] Remaining for next batch:
+  - High-risk pastoral terms: `authority.md`, `priesthood.md`, `conscience_synderesis.md`, `spiritual_direction.md`
+  - Core salvation flow terms: `eucharist.md`, `confession.md`
+  - Other foundational practices: `baptism.md`, `faith_pistis.md`, `koinonia_communion.md`, `nepsis.md`, `ascesis.md`, `fasting.md`, `hesychia.md`, `judgement_krisis.md`, `mercy.md`

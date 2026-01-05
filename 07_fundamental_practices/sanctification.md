@@ -4,7 +4,7 @@
 Sanctification is grace-led, iterative convergence toward the Christ-pattern that stabilises healed coherence over time without turning formation into a merit ladder.
 
 ### Formal Operator
-Sanctification is an iterative convergence operator in grace that repeatedly aligns the human system with the Logos grammar, deepening stability in truthful love under pressure.
+Sanctification is an iterative convergence operator in **Grace** that repeatedly aligns the human system with the Logos grammar, deepening stability in truthful love under pressure.
 
 xₙ₊₁ = ℒ(xₙ),  σ (signal-to-noise ratio) ↑,  attractor_stability ↑,  coherence ↑
 
