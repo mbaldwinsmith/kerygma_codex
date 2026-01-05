@@ -31,6 +31,19 @@ Before generating any content, treat the following files as binding canon:
 - **06_TESTS_AND_INVARIANTS.md**  
   Acceptance tests all new Codex material must satisfy.
 
+- **TASKS.md**  
+  The living workbench defining current priorities, phases, and stewardship tasks.
+
+---
+
+## Default Workflow
+
+If you are unsure what to work on next, consult **TASKS.md** and select the highest-priority incomplete task.
+
+After completing any task, you must update **TASKS.md** to reflect progress, add new discovered tasks, and record follow-up needs.
+
+No work is considered complete until **TASKS.md** has been updated.
+
 ---
 
 ## Non-Negotiables
