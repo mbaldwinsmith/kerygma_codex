@@ -29,6 +29,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Koinonia
   - [x] Glorification
 - [x] Update Fundamental Practices index with all defined practices.
+- [x] Refresh Fundamental Practices index to include every file in 07_fundamental_practices.
 - [x] Add explicit misuse-prevention sections to each.
 - [x] Review all three against 06_TESTS_AND_INVARIANTS.md.
 

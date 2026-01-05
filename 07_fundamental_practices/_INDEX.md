@@ -24,15 +24,48 @@ This is a garden of chapels, not a rulebook.
 
 | Practice | File |
 |--------|------|
-| Prayer | `prayer.md` |
-| Love (Agape) | `love_agape.md` |
-| Scripture | `scripture.md` |
-| Justification | `justification.md` |
-| Metanoia (Repentance) | `metanoia.md` |
-| Hesychia (Stillness) | `hesychia.md` |
-| Nepsis (Watchful sobriety) | `nepsis.md` |
+| Adoption | `adoption.md` |
+| Apostolicity | `apostolicity.md` |
 | Ascesis (Ascetic practice) | `ascesis.md` |
+| Atonement | `atonement.md` |
+| Authority | `authority.md` |
+| Baptism | `baptism.md` |
+| Confession | `confession.md` |
+| Conscience (Synderesis) | `conscience_synderesis.md` |
+| Conversion | `conversion.md` |
+| Depravity | `depravity.md` |
+| Discernment (Diakrisis) | `discernment_diakrisis.md` |
+| Election | `election.md` |
+| Eucharist | `eucharist.md` |
+| Faith (Pistis) | `faith_pistis.md` |
 | Fasting | `fasting.md` |
+| Glorification | `glorification.md` |
+| Grace | `grace.md` |
+| Hamartia (Sin) | `hamartia_sin.md` |
+| Hesychia (Stillness) | `hesychia.md` |
+| Icon | `icon.md` |
+| Incarnation | `incarnation.md` |
+| Judgement (Krisis) | `judgement_krisis.md` |
+| Justification | `justification.md` |
+| Koinonia (Communion–Fellowship) | `koinonia_communion.md` |
+| Liturgy | `liturgy.md` |
+| Love (Agape) | `love_agape.md` |
+| Mercy | `mercy.md` |
+| Metanoia (Repentance) | `metanoia.md` |
+| Nepsis (Watchful sobriety) | `nepsis.md` |
+| Obedience | `obedience.md` |
+| Original Sin | `original_sin.md` |
+| Prayer | `prayer.md` |
+| Predestination | `predestination.md` |
+| Priesthood | `priesthood.md` |
+| Propitiation | `propitiation.md` |
+| Regeneration | `regeneration.md` |
+| Sanctification | `sanctification.md` |
+| Scripture | `scripture.md` |
+| Sophia (Wisdom) | `sophia_wisdom.md` |
+| Spiritual Direction | `spiritual_direction.md` |
+| Tradition | `tradition.md` |
+| Vigil | `vigil.md` |
 
 ### File Naming Convention
 
@@ -46,7 +79,7 @@ This preserves stability, readability, and future multilingual expansion.
 
 ## Ordering Logic
 
-These practices are ordered not by difficulty, but by *dependence and safety*:
+These core practices are ordered not by difficulty, but by *dependence and safety*:
 
 1. **Prayer** — establishes consenting presence with God  
 2. **Love (Agape)** — stabilises relational coherence  
