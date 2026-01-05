@@ -8,7 +8,7 @@ Prayer is conscious, consenting presence with God that iteratively aligns the hu
 ---
 
 ### Formal Operator
-Prayer is an iterative convergence operator that couples the human system to the Logos grammar, and may intentionally extend that coupling toward others in love (intercession).
+Prayer is an iterative convergence operator that couples the human system to the Logos grammar, and may intentionally extend that coupling toward others in love (intercession), participating in the ongoing mediation of Christ for the world.
 
 xₙ₊₁ = ℒ(xₙ)
 
@@ -58,7 +58,7 @@ Sustained prayer increases coherence by reshaping attractor landscapes and stabi
 - Can reinforce spiritual performance anxiety  
 - Can become compulsive self-monitoring  
 - Can be used to bypass grief, trauma, or rest  
-- Can become coercive if enforced  
+- Can become coercive or harmful if enforced
 - Can be weaponised to silence lament or anger
 
 ---
@@ -82,4 +82,4 @@ Sustained prayer increases coherence by reshaping attractor landscapes and stabi
 ---
 
 ### Fails the Cross If…
-Prayer becomes a performance, a pressure, a technique for spiritual superiority, a bypass of suffering, or a tool of control rather than truthful, consenting presence with God under the reality of the Cross.
+Prayer becomes a performance, a pressure, a technique for spiritual superiority, a bypass of suffering, or a tool of control rather than truthful, consenting presence with God under the reality of the Cross and the wounds of the world.
