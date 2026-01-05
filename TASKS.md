@@ -26,6 +26,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Justification
   - [x] Sanctification
   - [x] Koinonia
+  - [x] Theosis
   - [x] Glorification
 - [x] Update Fundamental Practices index with all defined practices.
 - [x] Refresh Fundamental Practices index to include every file in 07_fundamental_practices.

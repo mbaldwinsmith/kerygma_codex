@@ -64,6 +64,7 @@ This is a garden of chapels, not a rulebook.
 | Scripture | `scripture.md` |
 | Sophia (Wisdom) | `sophia_wisdom.md` |
 | Spiritual Direction | `spiritual_direction.md` |
+| Theosis | `theosis.md` |
 | Tradition | `tradition.md` |
 | Vigil | `vigil.md` |
 
