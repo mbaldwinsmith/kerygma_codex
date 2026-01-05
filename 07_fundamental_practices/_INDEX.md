@@ -27,7 +27,12 @@ This is a garden of chapels, not a rulebook.
 | Prayer | `prayer.md` |
 | Love (Agape) | `love_agape.md` |
 | Scripture | `scripture.md` |
+| Justification | `justification.md` |
+| Metanoia (Repentance) | `metanoia.md` |
 | Hesychia (Stillness) | `hesychia.md` |
+| Nepsis (Watchful sobriety) | `nepsis.md` |
+| Ascesis (Ascetic practice) | `ascesis.md` |
+| Fasting | `fasting.md` |
 
 ### File Naming Convention
 
@@ -46,7 +51,12 @@ These practices are ordered not by difficulty, but by *dependence and safety*:
 1. **Prayer** — establishes consenting presence with God  
 2. **Love (Agape)** — stabilises relational coherence  
 3. **Scripture** — anchors shared truth and memory  
-4. **Hesychia** — refines stillness within an already-safe grammar  
+4. **Justification** — grounds safety in grace, not performance  
+5. **Metanoia (Repentance)** — reorients desire toward truthful love  
+6. **Hesychia** — refines stillness within an already-safe grammar  
+7. **Nepsis** — sustains watchful sobriety without anxiety  
+8. **Ascesis** — trains attention and desire under consent  
+9. **Fasting** — a bounded, safeguarded practice of surrender  
 
 Future practices will be placed where they best support gentleness, safety, and truthful love under pressure.
 
