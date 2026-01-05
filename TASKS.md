@@ -44,7 +44,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 ## Phase 3 — Ecclesial Ecology
 
 - [ ] Formalise ecclesial and communal terms:
-  - [ ] Liturgy
+  - [x] Liturgy
   - [x] Baptism
   - [x] Eucharist
   - [x] Confession
@@ -52,6 +52,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [ ] Tradition
 - [ ] Define distributed healing and safeguarding pathways.
 - [ ] Integrate sacramental accessibility guidance across Baptism, Confession, and Eucharist.
+- [ ] Draft communal accessibility guidance for liturgical participation (sensory, neurodivergent, and disability-aware accommodations).
 - [ ] Update the Fundamental Practices index to include all sacramental practices.
 
 ---
