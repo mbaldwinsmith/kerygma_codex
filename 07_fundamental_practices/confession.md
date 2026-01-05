@@ -65,7 +65,7 @@ As a refinement of **Justification**, **Metanoia**, and **Koinonia**, Confession
 **Misuse-prevention notes**
 - Confession is never forced; consent is a spiritual and ethical requirement.
 - It is not surveillance or control; it is a healing truth-telling in grace.
-- Power imbalance invalidates consent; leaders must never extract disclosure.
+- Power imbalance invalidates consent; leaders must never extract disclosure or require vulnerability as proof of faithfulness.
 - Confidentiality is sacred; only lawful safeguarding exceptions apply.
 - Shame is not a tool of holiness; mercy is the atmosphere of confession.
 
