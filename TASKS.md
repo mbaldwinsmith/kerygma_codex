@@ -15,6 +15,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Scripture
 - [ ] Draft Core Operator terms as Fundamental Practices:
   - [x] Justification
+- [x] Update Fundamental Practices index with all defined practices.
 - [x] Add explicit misuse-prevention sections to each.
 - [x] Review all three against 06_TESTS_AND_INVARIANTS.md.
 
