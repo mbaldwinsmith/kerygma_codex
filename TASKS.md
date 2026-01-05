@@ -48,9 +48,10 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Baptism
   - [x] Eucharist
   - [x] Confession
-  - [ ] Authority
+  - [x] Authority
   - [ ] Tradition
 - [ ] Define distributed healing and safeguarding pathways.
+- [ ] Draft governance and accountability patterns for delegated authority (consent, transparency, reporting, external review).
 - [ ] Integrate sacramental accessibility guidance across Baptism, Confession, and Eucharist.
 - [ ] Draft communal accessibility guidance for liturgical participation (sensory, neurodivergent, and disability-aware accommodations).
 - [ ] Update the Fundamental Practices index to include all sacramental practices.
