@@ -30,7 +30,7 @@ Eucharist refines and stabilises:
 - The human systems Hᵢ = (G, L, P, A)
 - Bread and cup as embodied, non-magical signs of Christ’s self-giving
 - A gathered community with consented participation
-- Prayer, thanksgiving, and remembrance within the Church’s shared grammar
+- Prayer, thanksgiving, and remembrance within the Church’s shared grammar (**Prayer**, **Scripture**, **Tradition**)
 - Safeguarding, pastoral care, and clear invitation without coercion
 
 ---
@@ -41,6 +41,7 @@ Eucharist refines and stabilises:
 - Deepened mutual coupling and shared coherence
 - Sustained sanctifying convergence over time
 - Embodied memory of Christ’s self-giving love under pressure
+- Shared peace and stability (**Peace / Eirene**)
 
 ---
 
@@ -64,7 +65,7 @@ Eucharist refines and stabilises:
 ---
 
 ## What It Can Damage (If Misused)
-- Sacramental gatekeeping that withholds care from the weak
+- Sacramental gatekeeping that withholds care from the weak (see **Priesthood**)
 - Purity tests or performance thresholds that weaponise “worthiness”
 - Coercive participation that violates consent or bodily autonomy
 - Shame-based exclusion that deepens trauma and alienation

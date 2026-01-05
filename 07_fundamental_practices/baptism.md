@@ -4,7 +4,7 @@
 Baptism is the public, embodied initiation of a person into the Grace field and the healed convergence path in Christ, a cruciform belonging that grounds, names, and begins life in the Church.
 
 ### Formal Operator
-Baptism is an ecclesial initiation operator that publicly embeds the person in the Grace field and binds them to the healed convergence grammar of Christ through embodied water-sign and communal confession.
+Grounded in **Grace** and **Atonement**, baptism is an ecclesial initiation operator that publicly embeds the person in the Grace field and binds them to the healed convergence grammar of Christ through embodied water-sign and communal confession.
 
 H → H₍initiated in Grace-field₎  with  A → A₍healed-convergence path₎,  belonging ↑,  isolation_noise ↓
 
@@ -23,6 +23,7 @@ Baptism activates and stabilises the core operators by making the gift of God’
 - Activation of the healed convergence path in Christ
 - Entry into communal care, discipleship, and sacramental life
 - A visible covenantal marker of mercy, not merit
+- Opened participation toward ongoing communion (**Koinonia**) and table fellowship (**Eucharist**)
 
 ### Layer Effects
 | Layer | Δ Effect |

@@ -6,7 +6,7 @@ Spiritual direction is companioned discernment in grace that walks alongside a p
 ---
 
 ## Formal Operator
-Spiritual direction is a companioned discernment operator that clarifies attractors, supports conscience, and guides gentle convergence toward Christ without authority over the soul.
+Spiritual direction is a companioned discernment operator, grounded in **Grace** and **Prayer**, that clarifies attractors, supports conscience, and guides gentle convergence toward Christ without authority over the soul.
 
 SD(H_p, H_c) : (G, L, P, A, σ)_p → (G′, L′, P′, A′, σ′)_p where
 - companioned discernment: Discernment (Diakrisis) is held with a trusted companion (H_c) in grace
@@ -67,7 +67,7 @@ As a refinement of **Grace**, **Discernment (Diakrisis)**, **Conscience**, **Met
 - Psychological dependency on a director or leader
 - Surveillance spirituality and confession extraction
 - Spiritual bypass of trauma, illness, or clinical needs
-- Shame-driven “God told me” manipulation
+- Shame-driven “God told me” manipulation (see **Authority**)
 
 **Misuse-prevention notes**
 - Spiritual direction is companioned discernment, not authority over souls.
