@@ -76,11 +76,14 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 ## Phase 4 — Discernment & Wisdom
 
 - [ ] Formalise:
+  - [x] Judgement (Krisis / Iudicium)
   - [ ] Discernment (Diakrisis)
   - [x] Wisdom (Sophia)
   - [ ] Conscience
   - [ ] Spiritual Direction
 - [ ] Add pastoral misuse warnings.
+- [ ] Draft safeguarding-and-discernment integration guidance for judgement/discipline processes (consent, proportionality, due process, and trauma-aware boundaries).
+- [ ] Draft shared decision-making safeguards for communal discernment (accountability, documentation, and external review when harm is alleged).
 
 ---
 
