@@ -60,6 +60,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Tradition
   - [x] Apostolicity
   - [x] Election (Ἐκλογή / Electio)
+  - [x] Priesthood (Ἱερωσύνη / Sacerdotium)
 - [ ] Draft governance and accountability patterns for delegated authority (consent, transparency, reporting, external review).
 - [ ] Draft mission-integration guidance for apostolic sending (healing, justice, and mercy in local and global contexts).
 - [ ] Draft election-and-vocation integration guidance for sent-ness, intercession, and grace-bearing beyond the community.
@@ -77,6 +78,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Draft pastoral repair guidance for people harmed by “total depravity” preaching (re-dignification, consented teaching, trauma-aware catechesis).
 - [ ] Draft pastoral repair guidance for people harmed by inherited-guilt preaching (re-dignification, consented teaching, trauma-aware catechesis).
 - [ ] Draft baptismal catechesis integration for Original Sin (gift-field belonging, initiation into healed convergence).
+- [ ] Add Priesthood to the Fundamental Practices index and cross-link it with authority, confession, and sacramental safeguards.
 
 ---
 
