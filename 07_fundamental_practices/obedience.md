@@ -4,7 +4,7 @@
 Obedience is consented, truth-responsive alignment to Christ that protects conscience and agency while enacting faithful love under pressure.
 
 ### Formal Operator
-Grounded in **Discernment (Diakrisis)** and bounded by **Conscience / Synderesis**, obedience is a coherence-preserving alignment operator that coordinates desire, conscience, and action with the Logos grammar (ℒ) under pressure, without coercion or domination.
+Grounded in **Truth** and **Discernment (Diakrisis)** and bounded by **Conscience / Synderesis**, obedience is a coherence-preserving alignment operator that coordinates desire, conscience, and action with the Logos grammar (ℒ) under pressure, without coercion or domination.
 
 Obedience = align(desire, conscience, action) → ℒ under consent, safeguarding, and truth-testing
 
@@ -19,6 +19,7 @@ As a refinement of **Faith**, **Nepsis**, **Koinonia**, and **Ascesis**, Obedien
 ### Inputs
 - Consent freely given and revocable
 - A discerned call of Christ (**Scripture**, **Prayer**, conscience, and wise counsel)
+- Reality-aligned naming of limits and motives (**Truth**)
 - Clear safeguarding boundaries and non-coercive community support
 - Awareness of limits, trauma history, and embodied signals
 - The human system H = (G, L, P, A)
@@ -29,6 +30,7 @@ As a refinement of **Faith**, **Nepsis**, **Koinonia**, and **Ascesis**, Obedien
 - Greater freedom to love under pressure
 - Stabilised participation in communal life without domination
 - Increased signal-to-noise ratio (σ) in discernment
+- Reality-aligned clarity that protects consent (**Truth**)
 - Stabilised peace through consented alignment (**Peace / Eirene**)
 
 ### Layer Effects
@@ -56,6 +58,7 @@ As a refinement of **Faith**, **Nepsis**, **Koinonia**, and **Ascesis**, Obedien
 - Obedience is **never** coercion; consent is required and always reversible.
 - Conscience protection is non-negotiable; no one may demand obedience that violates conscience or safety.
 - Obedience to God is distinct from submission to human control; leaders may counsel but never compel.
+- Truth-telling must protect agency and never be used to demand compliance.
 - If fear, shame, or pressure rises, the practice pauses and returns to prayer, rest, and safeguarding.
 
 ### What it looks like in practice

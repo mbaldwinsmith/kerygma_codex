@@ -6,7 +6,7 @@ Priesthood is a delegated, mercy-bearing repair office that mediates reconciliat
 ---
 
 ## Formal Operator
-Grounded in **Authority** and shaped by **Atonement**, priesthood is a coherence-holding, reconciliation-mediating, sacramental-stabilising operator that bears distortion for the sake of repair and keeps the gift-field open for the community.
+Grounded in **Authority** and **Truth** and shaped by **Atonement**, priesthood is a coherence-holding, reconciliation-mediating, sacramental-stabilising operator that bears distortion for the sake of repair and keeps the gift-field open for the community.
 
 Priesthood(H₁…Hₙ, reference_field, sacramental_gateway, safeguarding) : {Hᵢ} → {Hᵢ′}
 
@@ -31,6 +31,7 @@ Priesthood refines and stabilises:
 - The human systems Hᵢ = (G, L, P, A)
 - Delegated ecclesial responsibility within clear scope and limits
 - Communal reference field (Scripture, tradition, discernment)
+- Reality-aligned naming of harm and distortion (**Truth**)
 - Sacramental gateways (baptism, eucharist, confession) stewarded for healing
 - Safeguarding protocols, consent practices, and external accountability
 - Willingness to bear burden and suffer for the sake of repair
@@ -41,6 +42,7 @@ Priesthood refines and stabilises:
 - Reduced shame loops, isolation, and fragmentation
 - Increased shared coherence, safety, and peace
 - Protected access to sacramental mercy and reconciliation (**Eucharist**, **Confession**)
+- Reality-aligned safeguarding that limits power and prevents denial (**Truth**)
 - Stabilised communal formation and truthful love under pressure
 - Strengthened safety and dignity for the vulnerable
 
@@ -75,6 +77,7 @@ Priesthood refines and stabilises:
 - Priesthood is authority for repair, not authority over people.
 - Consent is non‑negotiable; coercion, pressure, or shaming is forbidden.
 - Confession must be freely chosen, safe, and never used for leverage.
+- Truth-telling must protect dignity and never become coercive exposure or silencing.
 - Sacramental access cannot be used to control, punish, or exclude the vulnerable.
 - Safeguarding, external accountability, and legal/therapeutic pathways are mandatory.
 - Trauma responses (freeze, fawn, dissociation) must be met with gentleness and pacing.

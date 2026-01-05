@@ -6,7 +6,7 @@ Propitiation is the relational-field healing effect of the Cross that clears fea
 ---
 
 ## Formal Operator
-Propitiation is the field-healing operator that reduces distortion in the relational field, damps fear–shame loops, and increases communion bandwidth, stabilising coherence and relational safety.
+Propitiation is the field-healing operator, clarified by **Truth**, that reduces distortion in the relational field, damps fear–shame loops, and increases communion bandwidth, stabilising coherence and relational safety.
 
 D_field ↓, (fear ⟳ shame ⟳ accusation) damping, P_bandwidth ↑, Safety_coherence ↑
 
@@ -17,6 +17,7 @@ Analogically: Christ’s cruciform love clears the field of fear and accusation 
 ## Inputs
 - Atonement (cruciform repair of distortion) (**Atonement**)
 - Distorted relational field (fear, shame, accusation, alienation)
+- Reality-aligned naming of distortion without shame (**Truth**)
 - Consent to receive mercy and safety (never coerced)
 - Pastoral care, time, and embodied gentleness
 
@@ -26,6 +27,7 @@ Analogically: Christ’s cruciform love clears the field of fear and accusation 
 - Distortion-field reduction and diminished accusation
 - Fear and shame loop damping
 - Increased communion bandwidth and relational safety
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Stabilised coherence under pressure
 - Opened flow of grace and peace (**Grace**, **Peace / Eirene**)
 
@@ -60,6 +62,7 @@ Analogically: Christ’s cruciform love clears the field of fear and accusation 
 **Misuse-prevention notes**
 - God is not violent, volatile, or punitive; propitiation does not appease divine anger.
 - The Cross reveals truthful love under pressure, not a payment to unlock mercy.
+- Truth-telling must protect consent and never become coerced reassurance or silencing.
 - Fear, shame, and coercion are incompatible with propitiation.
 - Reconciliation never overrides consent, safety, or justice.
 - If this teaching increases fear or collapse, return to rest, gentle prayer, and pastoral support.

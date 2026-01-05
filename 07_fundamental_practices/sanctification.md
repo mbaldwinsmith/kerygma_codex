@@ -4,7 +4,7 @@
 Sanctification is grace-led, iterative convergence toward the Christ-pattern that stabilises healed coherence over time without turning formation into a merit ladder.
 
 ### Formal Operator
-Sanctification is an iterative convergence operator in **Grace** that repeatedly aligns the human system with the Logos grammar, deepening stability in truthful love under pressure.
+Sanctification is an iterative convergence operator in **Grace** and **Truth** that repeatedly aligns the human system with the Logos grammar, deepening stability in truthful love under pressure.
 
 xₙ₊₁ = ℒ(xₙ),  σ (signal-to-noise ratio) ↑,  attractor_stability ↑,  coherence ↑
 
@@ -14,6 +14,7 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - The human system H = (G, L, P, A)
 - Justifying grace received as gift
 - Ongoing metanoia and honest truth-telling
+- Reality-aligned naming of distortion (**Truth**)
 - Watchful sobriety (nepsis) that notices distortion without panic
 - Gentle, consented practices (ascesis) appropriate to capacity
 - Confession that is safe, voluntary, and bounded
@@ -23,6 +24,7 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - Increasing stability of coherent love under pressure
 - Reduced volatility in attractor basins and shame loops
 - Greater freedom to choose truth, repair, and mercy
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Deepened relational attunement to God and others
 - Stabilised peace as sustained coherence (**Peace / Eirene**)
 - A durable pattern of humble, consented growth
@@ -52,6 +54,7 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - Sanctification is not a performance ladder; it is grace-led convergence over time.
 - Comparison and ranking violate the Cross and fracture communion.
 - Growth targets are never coercive; practices must be consensual and paced to capacity.
+- Truth-telling must protect dignity and never become coercive exposure.
 - Shame, fear, and pressure are signals to stop, simplify, and return to grounding.
 - Sanctification never replaces safeguarding, therapy, or medical care.
 

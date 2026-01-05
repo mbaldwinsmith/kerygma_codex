@@ -4,7 +4,7 @@
 Ascesis is gentle, consented training in Christ that removes distortions and stabilises truthful love under pressure.
 
 ### Formal Operator
-Grounded in **Grace** and guided by **Discernment (Diakrisis)**, ascesis is a disciplined, consent-based constraint and repetition operator that reduces entropy, repairs attractor topology, and increases alignment with the Logos grammar.
+Grounded in **Grace**, **Truth**, and guided by **Discernment (Diakrisis)**, ascesis is a disciplined, consent-based constraint and repetition operator that reduces entropy, repairs attractor topology, and increases alignment with the Logos grammar.
 
 A → A′,  xₙ₊₁ = ℒ(xₙ),  entropy ↓,  σ (signal-to-noise ratio) ↑
 
@@ -14,6 +14,7 @@ As a refinement of **Sanctification**, **Nepsis**, and **Kenosis**, Ascesis appl
 - Consent and pastoral discernment
 - Time, rest, and embodied care
 - A specific, gentle discipline (**Prayer**, **Fasting** with safeguards, almsgiving)
+- Reality-aligned naming of motives and limits (**Truth**)
 - Community support and accountability (as needed)
 - The human system H = (G, L, P, A)
 
@@ -23,6 +24,7 @@ As a refinement of **Sanctification**, **Nepsis**, and **Kenosis**, Ascesis appl
 - Clearer attention and conscience
 - Greater freedom to love under pressure
 - Increased signal-to-noise ratio (σ)
+- Reality-aligned clarity that resists denial or bypass (**Truth**)
 - Stabilised growth in **Sanctification** and **Virtue**
 
 ### Layer Effects
@@ -48,6 +50,7 @@ As a refinement of **Sanctification**, **Nepsis**, and **Kenosis**, Ascesis appl
 
 **Misuse-prevention notes**
 - Practices must be freely chosen, time-bounded, and reversible.
+- Truth-telling must protect consent and never become coercive exposure.
 - Never intensify discipline when someone is ill, traumatised, or destabilised; prioritise rest and care.
 - The Cross forbids harm, domination, or spiritual comparison.
 

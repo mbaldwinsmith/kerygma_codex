@@ -27,7 +27,7 @@ Sophia is therefore:
 - not a metaphysical substance  
 - not an impersonal cosmic force  
 
-but the **Logos-expressed coherence of divine life and its creaturely manifestation** — creation’s inner truth in Christ.
+but the **Logos-expressed coherence of divine life and its creaturely manifestation** — creation’s inner truth in Christ, clarified by **Truth**.
 
 ---
 
@@ -35,6 +35,7 @@ but the **Logos-expressed coherence of divine life and its creaturely manifestat
 - The Divine Logos  
 - Divine Sophia (God’s own living Wisdom)  
 - Creation as created Sophia (creaturely participation in divine Wisdom)  
+- Reality-aligned naming of creation’s truth in Christ (**Truth**)  
 - Grace-opened participation in Christ (**Incarnation**, **Grace**)  
 - Human reception and formation  
 
@@ -45,6 +46,7 @@ but the **Logos-expressed coherence of divine life and its creaturely manifestat
 - Coherent participation between God and world  
 - A cosmic field for sanctification and theosis  
 - The grammar by which creation can converge into Christ  
+- Reality-aligned clarity that resists denial or bypass (**Truth**)  
 - A healed cosmos capable of communion (**Koinonia**)
 
 ---
@@ -80,6 +82,7 @@ but the **Logos-expressed coherence of divine life and its creaturely manifestat
 - Divine Sophia and Created Sophia must never be collapsed.  
 - Sophia is never separable from the Logos.  
 - Creation is not God, but exists *within* God’s Wisdom.
+- Truth-telling must resist romanticised denial and protect the vulnerable from coercive narratives.
 
 ---
 

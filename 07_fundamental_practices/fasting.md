@@ -4,7 +4,7 @@
 Fasting is a gentle, time-bounded relinquishing of food (or other comforts) to re-open attention, desire, and dependence toward God without harm or coercion.
 
 ### Formal Operator
-Grounded in **Grace** and guided by **Discernment (Diakrisis)**, fasting is a bounded deprivation and attention-clarifying operator that lowers appetite-driven noise, increases watchful sobriety, and reorients desire toward truthful love.
+Grounded in **Grace**, **Truth**, and guided by **Discernment (Diakrisis)**, fasting is a bounded deprivation and attention-clarifying operator that lowers appetite-driven noise, increases watchful sobriety, and reorients desire toward truthful love.
 
 drive_noise ↓, attention_clarity ↑, σ (signal-to-noise ratio) ↑, A → A′
 
@@ -16,6 +16,7 @@ As a refinement of **Ascesis**, fasting applies a consented, time-limited constr
 - Medical and psychological safety screening when relevant
 - Rest, hydration, and gentle nutrition when the fast ends
 - Prayerful attention (**Prayer**) and a shared reference field (**Scripture**)
+- Reality-aligned naming of limits and motivations (**Truth**)
 - The human system H = (G, L, P, A)
 
 ### Outputs
@@ -23,6 +24,7 @@ As a refinement of **Ascesis**, fasting applies a consented, time-limited constr
 - Reduced compulsive or comfort-driven reactivity
 - Heightened reliance on God and prayerful presence
 - Greater discernment of inner movements and attachments
+- Reality-aligned clarity that resists denial or bypass (**Truth**)
 - Sharpened watchfulness without fear (**Nepsis**)
 
 ### Layer Effects
@@ -50,6 +52,7 @@ As a refinement of **Ascesis**, fasting applies a consented, time-limited constr
 - Anyone with a history of eating disorders, disordered eating, or severe body shame should not fast without qualified clinical guidance; abstain if there is any risk of relapse or harm.
 - Fasting must be modified or avoided for medical contraindications (pregnancy, diabetes, chronic illness, medications, recovery, or acute stress). When in doubt, do not fast.
 - If fasting increases anxiety, compulsion, or self-hatred, stop and return to nourishment and simple prayer.
+- Truth-telling must protect consent and never become coercive disclosure or shaming.
 
 ### What it looks like in practice
 - Choosing short, gentle fasts with clear start and end times

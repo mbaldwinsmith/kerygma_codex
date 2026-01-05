@@ -6,7 +6,7 @@ Depravity is inherited, systemic coherence distortion under sin and death-pressu
 ---
 
 ## Formal Operator
-Depravity is a **global attractor-field distortion condition** within fallen creation, not a moral slur.
+Depravity is a **global attractor-field distortion condition** within fallen creation, clarified by **Truth**, not a moral slur.
 It names a shared deformation of the attractor landscape that inclines human systems toward entropy and misalignment while **never** negating beloved identity.
 
 Let H = (G, L, P, A, σ, Φ) and let D be the field condition of φθορά (corruption).
@@ -33,6 +33,7 @@ Depravity therefore refines the need for:
 - Human systems within fallen creation
 - Inherited relational distortions and communal habits
 - Death-pressure (fear, scarcity, shame, isolation)
+- Loss of reality-alignment and distortion exposure (**Truth**)
 - Cultural and systemic sin-fields that deform attention and desire
 - Embodied vulnerability and creaturely limits
 
@@ -41,6 +42,7 @@ Depravity therefore refines the need for:
 ## Outputs
 - Predisposition to misalignment and reactive patterns
 - Reduced clarity in discernment and conscience formation
+- Weakened reality-alignment and truth-bearing capacity (**Truth**)
 - Entropic drift in relational habits
 - Fragile communion and increased relational friction
 - Heightened need for gift-field rescue and healing from within
@@ -77,6 +79,7 @@ When held in grace, naming depravity can heal:
 - Depravity is **not** a verdict on worth; it is a description of systemic distortion.
 - Never use depravity to shame, control, or extract compliance.
 - The Cross forbids abuse: truthful love under pressure protects the vulnerable.
+- Truth-telling must never become coercive exposure or shame-based control.
 - If the term increases fear, panic, or self-hatred, return to grounding, safety, and pastoral care.
 - Depravity must never erase consent, rest, or creaturely limits.
 

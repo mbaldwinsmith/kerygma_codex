@@ -6,7 +6,7 @@ Mercy is God’s active, compassionate movement toward wounded creation that pro
 ---
 
 ## Formal Operator
-Mercy is a protective-healing field operator that lowers shame and fear noise, stabilises Ground in safety, and preserves dignity under exposure of truth so confession, repentance, and restoration can occur.
+Mercy is a protective-healing field operator, grounded in **Truth**, that lowers shame and fear noise, stabilises Ground in safety, and preserves dignity under exposure of truth so confession, repentance, and restoration can occur.
 
 M(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - shame_noise ↓
@@ -29,6 +29,7 @@ As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis
 - The human system H = (G, L, P, A)
 - God’s compassionate initiative toward the wounded
 - Consent, safeguarding, and protection of the vulnerable
+- Reality-aligned naming without coercion (**Truth**)
 - Truth held in gentleness and accountability (**Judgement/Krisis**)
 - Time, rest, and embodied grounding
 
@@ -39,6 +40,7 @@ As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis
 - Stabilised safety in Ground (belonging that can bear exposure)
 - Clear pathways for confession, repentance, restitution, and restoration (**Confession**, **Metanoia**)
 - Preserved dignity under truthful exposure
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Safer communal coherence and protected communion
 
 ---
@@ -71,6 +73,7 @@ As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis
 
 **Misuse-prevention notes**
 - Mercy never suspends truth or accountability; it holds them in gentleness and protection.
+- Truth-telling must protect consent and never become coercive exposure.
 - Safeguarding and consent are non-negotiable; protection of the vulnerable takes priority.
 - Mercy refuses both cruelty and permissiveness.
 - Restoration requires safety, time, and appropriate boundaries.

@@ -6,7 +6,7 @@ Atonement is the cruciform repair of distorted reality in which Christ absorbs d
 ---
 
 ## Formal Operator
-Grounded in the **Incarnation** and as a refinement of **Sacrifice**, atonement is the cruciform repair operator that absorbs distortion into truthful love, re-couples fractured communion, and restores coherence without bypassing suffering.
+Grounded in the **Incarnation**, **Truth**, and as a refinement of **Sacrifice**, atonement is the cruciform repair operator that absorbs distortion into truthful love, re-couples fractured communion, and restores coherence without bypassing suffering.
 
 D (distortion) + Cross-shaped love → D′ (transmuted),  H → H′,  Field_coherence ↑ (without retaliation)
 
@@ -18,6 +18,7 @@ In analogical terms: Christ bears distortion without retaliation, reopens commun
 - Distortion (D): sin, violence, betrayal, shame, and death-pressure
 - The human system H = (G, L, P, A)
 - Christ’s self-offering love and faithful presence
+- Reality-aligned naming of distortion and harm (**Truth**)
 - Consent to be reconciled (never coerced)
 - Time, safety, and pastoral care
 
@@ -28,6 +29,7 @@ In analogical terms: Christ bears distortion without retaliation, reopens commun
 - Reconciled communion with God and neighbor (**Koinonia**)
 - Restored coherence under suffering
 - Stabilised identity in mercy rather than accusation (**Mercy**)
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Opened pathways for ongoing repair and formation (**Sanctification**)
 
 ---
@@ -62,6 +64,7 @@ In analogical terms: Christ bears distortion without retaliation, reopens commun
 - Atonement is restorative, not retributive; it heals the wounded and confronts harm without violence.
 - God is not a violent creditor; the Cross reveals God’s self-giving love under pressure.
 - No theology of atonement may be used to justify abuse, coercion, or silence of victims.
+- Truth-telling must protect consent and never become coerced reconciliation or exposure.
 - Reconciliation never overrides boundaries, justice, or safeguarding.
 - If atonement language increases fear, shame, or pressure, return to rest, pastoral care, and consent.
 

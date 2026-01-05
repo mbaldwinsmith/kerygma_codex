@@ -6,7 +6,7 @@ Koinonia is consented mutual coupling in Christ that shares grace, bears burdens
 ---
 
 ## Formal Operator
-Grounded in **Grace** and **Love (Agape)**, koinonia is the mutual-coupling operator that joins persons in a grace-held field of shared presence, enabling distributed healing while preserving agency and consent.
+Grounded in **Grace**, **Love (Agape)**, and **Truth**, koinonia is the mutual-coupling operator that joins persons in a grace-held field of shared presence, enabling distributed healing while preserving agency and consent.
 
 K(H₁…Hₙ) : {Hᵢ} → {Hᵢ′}   (for all i)
 
@@ -29,6 +29,7 @@ Koinonia refines and stabilises:
 - The human systems Hᵢ = (G, L, P, A)
 - Consent and clear boundaries
 - Shared practices of **Prayer**, **Scripture**, and care
+- Reality-aligned naming of harm and repair (**Truth**)
 - Mutual willingness to listen and bear burdens
 - Safeguarding, confidentiality, and time for trust
 
@@ -38,6 +39,7 @@ Koinonia refines and stabilises:
 - Increased communal coherence and safety
 - Stabilised belonging and reduced isolation
 - Enhanced trust and repair capacity
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Shared discernment and wiser decision-making
 - A repair ecology where grace is received and extended
 - Stabilised peace in community life (**Peace / Eirene**)
@@ -75,6 +77,7 @@ Koinonia refines and stabilises:
 - Belonging is gift, not a reward for similarity or agreement.
 - Power imbalance voids consent; leaders must never demand vulnerability.
 - Unity is not uniformity; difference and dissent can be held with love.
+- Truth-telling must protect consent and never become coerced exposure.
 - Confidentiality and safeguarding are sacred; safety outranks transparency.
 
 ---

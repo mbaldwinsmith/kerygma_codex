@@ -6,7 +6,7 @@ Conscience is the heart’s grace-held capacity to hear truth in love, detect di
 ---
 
 ## Formal Operator
-Conscience is a relational truth-attunement operator that aligns the Logos layer with the Christ-pattern, surfaces distortion with gentleness, and opens repair trajectories without coercion.
+Conscience is a relational truth-attunement operator, grounded in **Truth**, that aligns the Logos layer with the Christ-pattern, surfaces distortion with gentleness, and opens repair trajectories without coercion.
 
 Σ_c(H) : (G, L, P, A, σ) → (G′, L′, P′, A′, σ′) where
 - truth-attunement: L ↗ toward ℒ (Logos grammar) without condemnation
@@ -28,6 +28,7 @@ Explicit rejections:
 ## Inputs
 - The human system H = (G, L, P, A, σ)
 - Grace as gift-field (belonging before evaluation)
+- Reality-alignment and distortion exposure (**Truth**)
 - Prayerful attunement (**Prayer**) and Scripture as public reference field (**Scripture**)
 - Consent, rest, and embodied grounding
 - Wise communal counsel and safeguarding structures
@@ -39,6 +40,7 @@ Explicit rejections:
 - Gentle warnings that invite repair rather than collapse
 - Increased alignment with the Logos grammar
 - Opened pathways for repentance and confession
+- Reality-aligned clarity that stabilises peace (**Truth**)
 - Stable, breathable peace in the interior field
 
 ---
@@ -74,6 +76,7 @@ Explicit rejections:
 - It must never be manipulated by leaders or peers; consent and safeguarding are non-negotiable.
 - Fear-driven self-surveillance is a distortion, not holiness.
 - Moral disclosure must always be voluntary, private, and proportionate.
+- Truth-telling must protect dignity and never become coercive disclosure.
 - “God told me” claims do not override consent, safety, or communal discernment.
 - If anxiety spikes or shame increases, pause and return to grounding, prayer, and care.
 

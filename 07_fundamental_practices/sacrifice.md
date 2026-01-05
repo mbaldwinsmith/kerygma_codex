@@ -6,7 +6,7 @@ Sacrifice is freely offered self-giving love that, in Christ, restores communion
 ---
 
 ## Formal Operator
-Grounded in **Love (Agape)** and shaped by **Atonement**, sacrifice is a voluntary self-gift that reduces ego-noise, enriches the relational field, and propagates coherence into communal life without violating consent or safety.
+Grounded in **Love (Agape)**, **Truth**, and shaped by **Atonement**, sacrifice is a voluntary self-gift that reduces ego-noise, enriches the relational field, and propagates coherence into communal life without violating consent or safety.
 
 Sₛ (voluntary self-gift in agape) → Ego_noise ↓, Field_coherence ↑, Koinonia_flow ↑
 
@@ -18,6 +18,7 @@ In analogical terms: a person offers themselves in truthful love, thereby wideni
 - A consenting person or community (H = G, L, P, A)
 - Agape motive (love as gift, not leverage)
 - Safe boundaries and safeguarding
+- Reality-aligned naming of limits and consent (**Truth**)
 - A concrete offering: time, attention, resources, service, or patience
 - Christ’s pattern of self-gift (the Cross as criterion)
 
@@ -27,6 +28,7 @@ In analogical terms: a person offers themselves in truthful love, thereby wideni
 - Ego-noise reduction and attentional clarity
 - Relational field enrichment (trust, safety, generosity)
 - Increased coherence conductivity in community
+- Reality-aligned clarity that resists coercion or denial (**Truth**)
 - Shared peace (eirēnē) through truthful love under pressure
 - Witness to Christ’s atoning self-gift without coercion
 
@@ -62,6 +64,7 @@ In analogical terms: a person offers themselves in truthful love, thereby wideni
 - Sacrifice is always voluntary, never extracted; consent is a spiritual boundary.
 - Sacrifice increases life and communion; if it diminishes personhood, safety, or voice, it is not cruciform.
 - Suffering is not a virtue; love under pressure is, and it never overrides safeguarding.
+- Truth-telling must protect consent and never become coercive exposure or self-erasure.
 - No sacrifice may be demanded to keep someone unsafe, silent, or without care.
 - If sacrifice language increases fear, shame, or pressure, return to rest, support, and simple prayer.
 

@@ -6,7 +6,7 @@ Authority is cruciform, consent-honouring responsibility to guard, serve, and st
 ---
 
 ## Formal Operator
-Grounded in **Judgement (Krisis)** and bounded by **Love (Agape)**, authority is a coherence-guarding and safeguarding operator that protects the weak, preserves truth under pressure, maintains healthy convergence in community, and intervenes to stop harm.
+Grounded in **Truth** and **Judgement (Krisis)** and bounded by **Love (Agape)**, authority is a coherence-guarding and safeguarding operator that protects the weak, preserves truth under pressure, maintains healthy convergence in community, and intervenes to stop harm.
 
 Auth(H₁…Hₙ, leaders, reference_field) : {Hᵢ} → {Hᵢ′}
 
@@ -29,6 +29,7 @@ Authority refines and stabilises:
 ## Inputs
 - The human systems Hᵢ = (G, L, P, A)
 - A shared reference field (**Scripture**, **Tradition**, communal discernment)
+- Reality-aligned naming of harm and distortion (**Truth**)
 - Delegated responsibility with clear scope and limits
 - Consent, transparency, and accountability structures
 - Safeguarding protocols and legal/medical/therapeutic pathways
@@ -39,6 +40,7 @@ Authority refines and stabilises:
 ## Outputs
 - Increased safety for the vulnerable and weak
 - Preserved truthfulness under pressure and manipulation
+- Consent-protecting limits on power through reality alignment (**Truth**)
 - Stabilised communal coherence and healthy convergence
 - Restored communal peace as relational safety (**Peace / Eirene**)
 - Repaired and protected communion (**Koinonia**)
@@ -74,6 +76,7 @@ Authority refines and stabilises:
 
 **Misuse-prevention notes**
 - Authority is service, not control; it exists to protect the weak and preserve truth.
+- Truth-telling must never become coercive exposure or silencing of the vulnerable.
 - Consent is required and always reversible; no one may be pressured into submission.
 - Transparency and accountability are mandatory; secrecy that hides harm is forbidden.
 - Obedience is consented alignment to Christ, never compliance to leaders.

@@ -4,7 +4,7 @@
 Glorification is the final, grace-completed convergence of persons and creation into full participation in Christ’s life — the Sabbath rest of healed coherence.
 
 ### Formal Operator
-Glorification is the fixed-point convergence and coherence-completion operator in which the human system and creation are fully aligned with the Logos grammar, healed of remaining distortion, and stabilised in unthreatened love.
+Glorification is the fixed-point convergence and coherence-completion operator, grounded in **Truth**, in which the human system and creation are fully aligned with the Logos grammar, healed of remaining distortion, and stabilised in unthreatened love.
 
 H* = limₙ→∞ ℒⁿ(H),  ℒ(H*) = H*,  D → 0,  Field_coherence → πλήρης
 
@@ -21,12 +21,14 @@ Glorification completes sanctifying convergence, perfects participation, and sta
 - The human system H = (G, L, P, A) held in grace
 - The Logos grammar ℒ as the Christ-pattern
 - Divine gift of completion (not earned)
+- Reality-aligned naming of unfinished grief and hope (**Truth**)
 - Creation as the shared field of transfiguration
 - Patience with time, grief, and unfinished stories
 
 ### Outputs
 - Full coherence completed in Christ (fixed-point stability)
 - All remaining distortion healed without coercion or bypass
+- Reality-aligned clarity that resists denial and spiritual bypass (**Truth**)
 - Communion stabilised in unthreatened love
 - Creation transfigured and radiant in Christ
 - Rested joy, faithful hope, and unbroken belonging
@@ -55,6 +57,7 @@ Glorification completes sanctifying convergence, perfects participation, and sta
 **Misuse-prevention notes**
 - Glorification never despises present bodies or creation; it affirms their destined healing and transfiguration.
 - Hope does not bypass justice, truth-telling, or repair; the Cross guards against escapism.
+- Truth-telling must protect consent and never demand premature closure.
 - “It will all burn” fatalism contradicts the promised transfiguration of creation in Christ.
 - No one is pressured to minimise pain; lament and grief are honoured as faithful.
 - Glorification language must never silence the wounded or shortcut safeguarding.

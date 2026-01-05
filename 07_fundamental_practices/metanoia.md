@@ -4,7 +4,7 @@
 Metanoia is a grace-enabled turning of the mind and heart that repairs inner terrain and reorients attractors toward truthful love under pressure.
 
 ### Formal Operator
-Metanoia is a terrain-repair and attractor-topology reorientation operator that destabilises entropic basins and opens new paths of convergence toward the Logos grammar.
+Metanoia is a terrain-repair and attractor-topology reorientation operator, grounded in **Truth**, that destabilises entropic basins and opens new paths of convergence toward the Logos grammar.
 
 A → A′,  basin_entropy ↓,  alignment ↑,  σ (signal-to-noise ratio) ↑
 
@@ -13,6 +13,7 @@ As a refinement of **Justification**, **Nepsis**, and **Ascesis**, Metanoia is a
 ### Inputs
 - The human system H = (G, L, P, A)
 - Grace and belonging received as gift (**Grace**)
+- Reality-aligned naming of misalignment (**Truth**)
 - Honest attention to misalignment or harm
 - Consent, safety, and pastoral support when needed
 - Time, rest, and embodied care
@@ -21,6 +22,7 @@ As a refinement of **Justification**, **Nepsis**, and **Ascesis**, Metanoia is a
 - Reoriented desire and conscience toward Christ
 - Reduced pull of entropic attractors
 - Increased clarity in truth-telling and repair
+- Reality-alignment that resists denial or bypass (**Truth**)
 - Safer pathways for truth-telling (**Confession**)
 - Greater freedom to choose love under pressure
 - Restored capacity for communion
@@ -52,6 +54,7 @@ As a refinement of **Justification**, **Nepsis**, and **Ascesis**, Metanoia is a
 - Confession must be freely chosen, time-bounded, and safe; coercion is spiritual abuse.
 - If repentance produces panic, shame, or collapse, pause and return to grounding, rest, and pastoral care.
 - Metanoia is not a demand for disclosure; it respects privacy, boundaries, and legal/clinical safeguards.
+- Truth-telling is consented and merciful, never shaming or coercive.
 - The Cross forbids using repentance to control, shame, or extract obedience.
 
 ### What it looks like in practice

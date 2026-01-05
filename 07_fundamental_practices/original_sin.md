@@ -6,7 +6,7 @@ Original Sin is the inherited deformation of the human coherence landscape under
 ---
 
 ## Formal Operator
-Original Sin is a **baseline attractor-field deformation condition** affecting all human systems born into wounded creation.
+Original Sin is a **baseline attractor-field deformation condition**, clarified by **Truth**, affecting all human systems born into wounded creation.
 It names inherited terrain distortion, **not** personal culpability.
 
 Let H = (G, L, P, A, σ, Φ) and let O be the original-sin field condition.
@@ -32,6 +32,7 @@ Original Sin therefore refines the need for:
 ## Inputs
 - Human systems born into wounded creation
 - Inherited fear, scarcity, and death-pressure
+- Loss of reality-alignment and distortion exposure (**Truth**)
 - Communal and cultural distortion patterns
 - Relational rupture across generations
 - Creaturely limits and embodied vulnerability
@@ -42,6 +43,7 @@ Original Sin therefore refines the need for:
 - A shared predisposition toward misalignment and reactivity
 - Increased drag on truthful love under pressure
 - Reduced clarity in discernment without grace-held formation
+- Weakened reality-alignment and truth-bearing capacity (**Truth**)
 - Heightened relational friction and isolation tendencies
 - Ongoing need for healing-from-within and gift-field rescue
 
@@ -77,6 +79,7 @@ When held in grace, naming Original Sin can heal:
 - Original Sin is **not** personal guilt; it is inherited terrain deformation.
 - Distortion is separated from identity; belovedness is never under review.
 - The Cross forbids abuse: truthful love under pressure protects the vulnerable.
+- Truth-telling must never become coercive exposure or shame-based control.
 - If the term increases fear, panic, or self-hatred, return to grounding, rest, and pastoral care.
 - Consent, safeguarding, and creaturely limits are non-negotiable.
 

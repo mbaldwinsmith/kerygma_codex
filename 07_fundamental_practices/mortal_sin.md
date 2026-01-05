@@ -6,7 +6,7 @@ Mortal sin is a communion-shutdown distortion in which receptivity to grace, pra
 ---
 
 ## Formal Operator
-Mortal sin is a high-grade distortion operator that occludes the grace-field, collapses communion bandwidth, hardens conscience, attenuates prayer, and traps the person in a severe attractor basin.
+Mortal sin is a high-grade distortion operator that occludes the grace-field, suppresses **Truth**, collapses communion bandwidth, hardens conscience, attenuates prayer, and traps the person in a severe attractor basin.
 
 MS(H): H = (G, L, P, A, σ, Φ) → H⃗ where
 - Grace_field conductivity ↓↓↓ (occlusion)
@@ -23,6 +23,7 @@ Analogically: this is not a legal verdict or divine anger, but a medical-relatio
 ## Inputs
 - The human system H = (G, L, P, A, σ, Φ)
 - High-grade distortion and entrenched misalignment
+- Refusal of reality-alignment and distortion exposure (**Truth**)
 - Repeated refusal of truth or love under pressure
 - Fear, shame, or retaliation loops that harden conscience
 - Isolation, secrecy, or collapse of communion
@@ -34,6 +35,7 @@ Analogically: this is not a legal verdict or divine anger, but a medical-relatio
 - Attenuated prayer and reduced openness to God
 - Collapsed communion bandwidth and relational isolation
 - Hardened conscience and self-justifying narratives
+- Diminished reality-alignment and truth-bearing capacity (**Truth**)
 - Increased entropic stability in a destructive attractor basin
 
 ---
@@ -69,6 +71,7 @@ When met with merciful truth and consented repair, naming mortal sin can begin h
 **Misuse-prevention notes**
 - Mortal sin is **not** a courtroom verdict, threat system, or proof of divine rejection.
 - It must never be used to instill fear, extract compliance, or control conscience.
+- Truth-telling is consented and merciful, never shaming or coercive.
 - The Cross forbids coercion: sacraments are medicine, not leverage.
 - Scrupulosity and terror are signs to pause, simplify, and return to safety.
 - Any framing that increases shame, panic, or self-erasure must be softened and repaired.

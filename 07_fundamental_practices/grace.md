@@ -6,7 +6,7 @@ Grace is God’s freely given gift of love and belonging that comes *before* any
 ---
 
 ## Formal Operator  
-Grounded in **Atonement** (cruciform repair), grace is the primary gift-field operator that initiates and sustains all healing and growth by giving belonging, safety, and divine initiative before performance.
+Grounded in **Atonement** (cruciform repair) and expressed through **Truth**, grace is the primary gift-field operator that initiates and sustains all healing and growth by giving belonging, safety, and divine initiative before performance.
 
 Grace_field ⟂ merit → H = (G, L, P, A) anchored in gift
 
@@ -16,7 +16,7 @@ Human beings live inside a field of divine gift that does not depend on how well
 Belonging comes first. Healing becomes possible because we are already held.
 
 Grace is not an earned signal but the loving environment in which all change can happen.  
-It grounds **Justification** (belonging before behaviour), enables **Metanoia** (truth without collapse), sustains **Sanctification** (slow growth without ladders), heals **Confession** (truth without fear), and opens **Prayer** (presence without bargaining).
+It grounds **Justification** (belonging before behaviour), enables **Metanoia** (truth without collapse), sustains **Sanctification** (slow growth without ladders), heals **Confession** (truth without fear), anchors **Truth** (reality-aligned naming without shame), and opens **Prayer** (presence without bargaining).
 
 ---
 
@@ -25,6 +25,7 @@ It grounds **Justification** (belonging before behaviour), enables **Metanoia** 
 - God’s initiative of mercy and love  
 - Consent to receive gift without proving worth  
 - Time, rest, and pastoral safety  
+- Reality-aligned naming without fear (**Truth**)  
 - Weakness, need, and ordinary humanity
 
 ---
@@ -32,6 +33,7 @@ It grounds **Justification** (belonging before behaviour), enables **Metanoia** 
 ## Outputs
 - Settled belonging and reduced shame  
 - Greater freedom to tell the truth  
+- Reality-aligned clarity that resists denial and bypass (**Truth**)  
 - Increased trust and relational safety  
 - Stabilised peace as healed coherence (**Peace / Eirene**)  
 - Release from merit ladders and spiritual bargaining  
@@ -69,6 +71,7 @@ It grounds **Justification** (belonging before behaviour), enables **Metanoia** 
 - Grace is never conditional and never withdrawn as leverage.  
 - Grace removes ladders; it does not build them.  
 - Confession is not payment; forgiveness is not a transaction.  
+- Truth-telling is mercy-protected, never coerced or shaming.  
 - If grace-language increases fear, shame, or pressure, return to rest and safety.
 
 ---

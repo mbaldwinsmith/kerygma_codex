@@ -6,7 +6,7 @@ Judgement (krisis) is God’s truthful, merciful discernment that separates life
 ---
 
 ## Formal Operator
-Grounded in **Mercy** and aligned with **Discernment (Diakrisis)**, judgement is a truth-separating and coherence-clarifying operator that illuminates distortion, differentiates life-giving from life-destroying patterns, and protects communion by confronting harm.
+Grounded in **Truth** and **Mercy** and aligned with **Discernment (Diakrisis)**, judgement is a truth-separating and coherence-clarifying operator that illuminates distortion, differentiates life-giving from life-destroying patterns, and protects communion by confronting harm.
 
 J(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - distortion → named and distinguished from identity
@@ -27,6 +27,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 ## Inputs
 - The human system H = (G, L, P, A)
 - Truthful light and mercy (**Prayer**, **Mercy**)
+- Reality-alignment that exposes distortion without shame (**Truth**)
 - Consent, safeguarding, and proportionality
 - Accountable communal processes (when harm affects others)
 - Time, rest, and embodied grounding
@@ -38,6 +39,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - Clearer boundaries between life-giving and life-destroying patterns
 - Pathways opened for repentance and repair (**Metanoia**, **Confession**)
 - Reduced confusion and moral fog
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Safer, more truthful communion
 
 ---
@@ -73,6 +75,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - Consent, proportionality, accountability, and safeguarding are non-negotiable.
 - Human discernment is partial and must be held with humility, peer review, and correction.
 - Public exposure is not a virtue; privacy and dignity are protective goods.
+- Truth-telling must protect consent and never be used to shame or control.
 - Discipline is restorative, not retributive; it aims at repair and protection.
 
 ---

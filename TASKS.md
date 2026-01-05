@@ -22,6 +22,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Draft Regeneration (παλιγγενεσία / Regeneratio) as a Fundamental Practice term.
 - [x] Draft Mercy (Ἔλεος / Misericordia) as a Fundamental Practice term.
 - [x] Draft Peace (Εἰρήνη / Pax) as a Fundamental Practice term.
+- [x] Draft Truth (Ἀλήθεια / Veritas) as a Fundamental Practice term.
 - [x] Draft Sacrifice (Θυσία / Sacrificium) as a Fundamental Practice term.
 - [x] Draft Predestination (Προορισμός / Praedestinatio) as a Fundamental Practice term.
 - [ ] Draft Core Operator terms as Fundamental Practices:
@@ -245,3 +246,10 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - Outputs tied to koinonia, mercy, and sanctification flow.
 - [x] Remaining for next batch:
   - None (cross-reference refactor pass complete).
+
+---
+
+## Truth Integration Pass (Fundamental Practices)
+
+- [x] Draft `07_fundamental_practices/truth.md`.
+- [x] Integrate Truth cross-references across discernment, authority, formation, and salvation practice files.

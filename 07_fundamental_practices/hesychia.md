@@ -4,7 +4,7 @@
 Hesychia is prayerful stillness that quiets inner noise so the heart can remain truthfully present to God.
 
 ### Formal Operator
-Grounded in **Prayer** and refined by **Nepsis**, hesychia is a noise-damping and presence-stabilising operator that reduces internal reactivity and supports attentive, consenting communion with God.
+Grounded in **Prayer**, **Truth**, and refined by **Nepsis**, hesychia is a noise-damping and presence-stabilising operator that reduces internal reactivity and supports attentive, consenting communion with God.
 
 noise_internal ↓ ⇒ σ (signal-to-noise ratio) ↑, P_stability ↑
 
@@ -13,6 +13,7 @@ As a refinement of **Nepsis** and **Kenosis**, Hesychia quiets reactive loops so
 ### Inputs
 - Consent (see **Spiritual Direction** for safeguarding norms)
 - Silence or gentle simplicity
+- Reality-aligned naming of what needs attention (**Truth**)
 - Time and rest
 - The human system H = (G, L, P, A)
 
@@ -21,6 +22,7 @@ As a refinement of **Nepsis** and **Kenosis**, Hesychia quiets reactive loops so
 - Increased signal-to-noise ratio (σ)
 - Stabilised attention
 - Widened relational presence
+- Reality-aligned clarity that resists denial (**Truth**)
 - Capacity for listening prayer (**Prayer**)
 - Settled peace through quieted reactivity (**Peace / Eirene**)
 
@@ -41,6 +43,7 @@ As a refinement of **Nepsis** and **Kenosis**, Hesychia quiets reactive loops so
 ### What It Can Damage (If Misused)
 - Can become dissociation or emotional numbing
 - Can be used to avoid grief, justice, or necessary truth-telling (**Judgement/Krisis**)
+- Can be misframed as “peace” while denying reality (**Truth**)
 - Can be weaponised as a demand for silence or compliance
 - Can intensify shame if treated as a performance metric
 

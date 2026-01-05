@@ -6,7 +6,7 @@ Apostolicity is the Church’s participation in Christ’s sending — a living 
 ---
 
 ## Formal Operator
-Grounded in **Scripture** and **Tradition**, apostolicity is a transmission-and-sending coherence operator that preserves the Logos grammar (ℒ), stabilises continuity with Christ and the apostolic witness, and commissions outward healing without coercion.
+Grounded in **Scripture**, **Tradition**, and **Truth**, apostolicity is a transmission-and-sending coherence operator that preserves the Logos grammar (ℒ), stabilises continuity with Christ and the apostolic witness, and commissions outward healing without coercion.
 
 Apos(H₁…Hₙ, reference_field, sending) : {Hᵢ} → {Hᵢ′}
 
@@ -31,6 +31,7 @@ Apostolicity refines and stabilises:
 - A shared reference field (**Scripture**, creed, apostolic teaching, communal discernment)
 - Communal memory of Christ’s sending and the apostolic witness
 - Practices of teaching, worship, and mercy that embody the Gospel
+- Reality-aligned naming of drift and distortion (**Truth**)
 - Accountable sending processes with consent and safeguarding
 - Willingness to name drift, distortion, and harm
 
@@ -41,6 +42,7 @@ Apostolicity refines and stabilises:
 - Continuity of witness across time, culture, and place
 - Outward mission that heals rather than coerces
 - Resilience against drift, distortion, and private gospels
+- Reality-aligned witness that protects consent and conscience (**Truth**)
 - Strengthened communal trust in the public Gospel (**Koinonia**)
 
 ---
@@ -74,6 +76,7 @@ Apostolicity refines and stabilises:
 - Apostolicity is participation in Christ’s sending, not a license to control.
 - Consent is required for commissioning; coercion invalidates the sending.
 - Conscience and prophetic truth must remain audible; unity cannot be purchased with silence.
+- Truth-telling must be consented, merciful, and never used to coerce or silence.
 - Lineage claims must remain accountable to public witness, safeguarding, and the Cross.
 - Any increase in pressure, fear, or harm triggers a return to safeguarding and repair.
 

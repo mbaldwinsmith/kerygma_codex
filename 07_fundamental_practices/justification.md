@@ -4,7 +4,7 @@
 Justification is God’s gift of belonging that anchors identity in grace before performance, stabilising the Ground layer for truthful love under pressure.
 
 ### Formal Operator
-Grounded in **Grace** and secured by **Atonement**, justification is a Ground-anchoring operator that resets identity in grace apart from merit, establishing belonging as gift and not achievement.
+Grounded in **Grace**, **Truth**, and secured by **Atonement**, justification is a Ground-anchoring operator that resets identity in grace apart from merit, establishing belonging as gift and not achievement.
 
 G → G₍anchored in grace₎,  belonging ↑,  shame_noise ↓
 
@@ -15,12 +15,14 @@ As a refinement and stabiliser of **Metanoia** and **Sanctification**, Justifica
 - The Gospel of Christ’s mercy and faithfulness
 - Reception of grace as gift (not earned)
 - Consent to be held by God without performance
+- Reality-aligned naming without fear (**Truth**)
 - Pastoral safety, time, and rest
 
 ### Outputs
 - Grounded identity in grace and adoption
 - Reduced shame-based self-definition
 - Increased capacity to face truth without annihilation
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Stable belonging that supports ongoing formation
 - Stabilised peace as safety in grace (**Peace / Eirene**)
 - Freedom from conditional acceptance and fear-driven striving
@@ -50,6 +52,7 @@ As a refinement and stabiliser of **Metanoia** and **Sanctification**, Justifica
 - Justification is never a merit ladder; it removes the ladder.
 - Belonging is received before behavior; formation flows from gift, not toward it.
 - No one’s inclusion is conditional on performance, conformity, or disclosure.
+- Truth-telling must protect consent and never become coerced disclosure.
 - Coercive “worthiness” systems violate the Cross and must be refused.
 - If the language of justification increases fear, shame, or pressure, stop and return to rest, prayer, and pastoral care.
 

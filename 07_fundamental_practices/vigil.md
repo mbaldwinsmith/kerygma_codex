@@ -4,7 +4,7 @@
 Vigil is a temporal coherence-stabilisation practice of faithful waiting and prayerful presence under delay, darkness, and unresolved suffering.
 
 ### Formal Operator
-Grounded in **Prayer** and **Faith**, vigil preserves convergence orientation across time and delay, stabilising hopeful attention to Christ when resolution is not yet given.
+Grounded in **Prayer**, **Faith**, and **Truth**, vigil preserves convergence orientation across time and delay, stabilising hopeful attention to Christ when resolution is not yet given.
 
 orientation_to_ℒ(t) ↑, hope_drift ↓, abandonment_noise ↓, σ (signal-to-noise ratio) ↑, P_stability ↑
 
@@ -14,6 +14,7 @@ As a refinement of **Faith**, **Nepsis**, **Prayer**, and **Hope**, Vigil sustai
 - Consent and readiness
 - Time, darkness, or unresolved waiting
 - A gentle prayer anchor (**Scripture**, breath prayer, simple presence)
+- Reality-aligned naming of delay and pain (**Truth**)
 - Awareness of bodily limits and care needs
 - The human system H = (G, L, P, A)
 
@@ -22,6 +23,7 @@ As a refinement of **Faith**, **Nepsis**, **Prayer**, and **Hope**, Vigil sustai
 - Reduced abandonment noise and reactive despair
 - Stabilised presence in uncertainty
 - Deepened trust and hope without coercion
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Increased signal-to-noise ratio (σ) under pressure
 - Strengthened perseverance in **Faith** and **Prayer**
 
@@ -49,6 +51,7 @@ As a refinement of **Faith**, **Nepsis**, **Prayer**, and **Hope**, Vigil sustai
 - Vigil is never an obligation to stay awake; sleep is holy and non-negotiable.
 - Consent is required; no leader or community may coerce endurance or prolonged waiting.
 - Vigil does not glorify suffering; it names suffering truthfully while refusing despair.
+- Truth-telling must protect consent and never become pressured disclosure.
 - If vigilance harms the body or intensifies anxiety, shorten the practice or stop.
 - The practice yields to medical care, therapy, and safety needs without shame.
 

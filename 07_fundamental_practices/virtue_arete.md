@@ -4,7 +4,7 @@
 Virtue is grace-formed, healed stability that makes truthful love freely available under pressure.
 
 ### Formal Operator
-Virtue is the stabilisation of healed attractor basins into resilient, love-shaped habits, reducing reactivity and noise while increasing coherence persistence under stress.
+Virtue is the stabilisation of healed attractor basins into resilient, love-shaped habits, grounded in **Truth**, reducing reactivity and noise while increasing coherence persistence under stress.
 
 V: A_healed → A_stable,  reactivity ↓,  noise ↓,  σ ↑,  κ (coherence persistence) ↑
 
@@ -16,6 +16,7 @@ As a refinement of **Sanctification** (iterative stabilisation), **Ascesis** (ge
 - Gentle, consented ascesis that trains attention and desire
 - Nepsis that dampens distortion gradients and protects clarity
 - Discernment (Diakrisis) that separates truth from reactivity
+- Reality-aligned naming that protects consent (**Truth**)
 - Koinonia: communal support, prayerful presence, and shared truth
 - The human system H = (G, L, P, A)
 
@@ -24,6 +25,7 @@ As a refinement of **Sanctification** (iterative stabilisation), **Ascesis** (ge
 - Reduced reactivity, compulsion, and volatility
 - Increased coherence persistence across stress and fatigue
 - Habits of truthful love that do not depend on mood or circumstance
+- Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Deepened participation in theosis within communal life
 - Stabilised peace in the interior field (**Peace / Eirene**)
 
@@ -51,6 +53,7 @@ As a refinement of **Sanctification** (iterative stabilisation), **Ascesis** (ge
 **Misuse-prevention notes**
 - Virtue is not manufactured righteousness; it is grace-formed stability.
 - Any practice that increases shame, fear, or pressure fails the Cross.
+- Truth-telling must protect dignity and never become coercive exposure.
 - Consent, rest, and creaturely limits are non-negotiable.
 - Virtue language must never be used to diagnose, rank, or control others.
 

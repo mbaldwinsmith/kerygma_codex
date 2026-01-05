@@ -4,7 +4,7 @@
 Hamartia is coherence distortion and attractor-basin deformation that bends desire and attention away from truthful love under pressure, without condemning beloved identity.
 
 ### Formal Operator
-Hamartia is a distortion operator that deforms attractor topology and reduces coherence signal, producing misalignment without erasing belovedness.
+Hamartia is a distortion operator, clarified by **Truth**, that deforms attractor topology and reduces coherence signal, producing misalignment without erasing belovedness.
 
 H = (G, L, P, A) → H̃ where
 - A → Ã (attractor-basin deformation)
@@ -18,6 +18,7 @@ In the Codex, naming hamartia is never identity condemnation; it is truth-tellin
 - The human system H = (G, L, P, A)
 - Pressure, fear, scarcity, or habituated misalignment
 - Wounded desire, distorted attention, or compromised discernment
+- Loss of reality-alignment and distortion exposure (**Truth**)
 - Relational rupture and broken trust (personal or communal)
 - Any context where consent, rest, or truth have been bypassed
 
@@ -26,6 +27,7 @@ In the Codex, naming hamartia is never identity condemnation; it is truth-tellin
 - Distorted conscience or self-justification
 - Compulsive or avoidant habit loops
 - Relational fracture and reduced communion
+- Reduced reality-alignment and clarity (**Truth**)
 - Reduced clarity in discernment
 
 ### Layer Effects (when named in grace)
@@ -55,6 +57,7 @@ When named and surrendered in grace, hamartia opens repair of:
 - Never use sin language to control, shame, or rank others.
 - If naming hamartia increases panic, collapse, or self-hatred, pause and return to grounding, care, and support.
 - Moral injury must be met with gentleness, not pressure; confession or disclosure is always consented.
+- Truth-telling must protect dignity and never be weaponised for exposure.
 - The Cross forbids spiritual abuse; love under pressure protects the vulnerable.
 
 ### What it looks like in practice
