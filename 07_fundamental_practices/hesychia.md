@@ -39,7 +39,7 @@ As a refinement of **Nepsis** and **Kenosis**, Hesychia quiets reactive loops so
 
 ### What It Can Damage (If Misused)
 - Can become dissociation or emotional numbing
-- Can be used to avoid grief, justice, or truth-telling
+- Can be used to avoid grief, justice, or necessary truth-telling
 - Can be weaponised as a demand for silence or compliance
 - Can intensify shame if treated as a performance metric
 
