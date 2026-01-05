@@ -46,11 +46,13 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Formalise ecclesial and communal terms:
   - [ ] Liturgy
   - [x] Baptism
-  - [ ] Eucharist
+  - [x] Eucharist
   - [x] Confession
   - [ ] Authority
   - [ ] Tradition
 - [ ] Define distributed healing and safeguarding pathways.
+- [ ] Integrate sacramental accessibility guidance across Baptism, Confession, and Eucharist.
+- [ ] Update the Fundamental Practices index to include all sacramental practices.
 
 ---
 
