@@ -8,7 +8,8 @@ Koinonia is consented mutual coupling in Christ that shares grace, bears burdens
 ## Formal Operator
 Koinonia is the mutual-coupling operator that joins persons in a grace-held field of shared presence, enabling distributed healing while preserving agency and consent.
 
-K(H₁…Hₙ) : {Hᵢ} → {Hᵢ′}
+K(H₁…Hₙ) : {Hᵢ} → {Hᵢ′}   (for all i)
+
 where
 - coupling is consented and non-coercive
 - Field_coherence ↑
