@@ -23,6 +23,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Justification
   - [x] Sanctification
   - [x] Koinonia
+  - [x] Glorification
 - [x] Update Fundamental Practices index with all defined practices.
 - [x] Add explicit misuse-prevention sections to each.
 - [x] Review all three against 06_TESTS_AND_INVARIANTS.md.
@@ -103,6 +104,8 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [ ] Hell
   - [ ] New Creation
 - [ ] Ensure compatibility with the Cruciform Criterion.
+- [ ] Integrate glorification with resurrection and new creation terms (fixed-point completion, transfiguration, and Sabbath rest).
+- [ ] Draft eschatology integration notes across core operators (atonement, theosis, koinonia, sophia) for coherent final-hope language.
 
 ---
 
