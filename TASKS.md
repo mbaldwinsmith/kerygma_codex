@@ -54,8 +54,11 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Authority
   - [x] Tradition
   - [x] Apostolicity
+  - [x] Election (Ἐκλογή / Electio)
 - [ ] Draft governance and accountability patterns for delegated authority (consent, transparency, reporting, external review).
 - [ ] Draft mission-integration guidance for apostolic sending (healing, justice, and mercy in local and global contexts).
+- [ ] Draft election-and-vocation integration guidance for sent-ness, intercession, and grace-bearing beyond the community.
+- [ ] Draft safeguards against exceptionalism in mission framing (anti-elitism, anti-nationalism, anti-exemption).
 - [ ] Draft communal accessibility guidance for liturgical participation (sensory, neurodivergent, and disability-aware accommodations).
 - [ ] Draft attachment-healing integration guidance across practices (secure attachment, consent, pacing, and trauma-aware belonging).
 - [ ] Draft transmission safeguards for doctrinal drift and private gospels (accountability, peer review, and public witness).
