@@ -29,6 +29,14 @@ This is a garden of chapels, not a rulebook.
 | Scripture | `scripture.md` |
 | Hesychia (Stillness) | `hesychia.md` |
 
+### File Naming Convention
+
+All practice files use lowercase, underscore-separated, URL-safe filenames:
+
+`primaryterm_optionalqualifier.md`
+
+This preserves stability, readability, and future multilingual expansion.
+
 ---
 
 ## Ordering Logic
