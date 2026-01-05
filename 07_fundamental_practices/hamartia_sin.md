@@ -1,7 +1,7 @@
 # Hamartia (Ἁμαρτία / Sin)
 
 ### One-Line Definition
-Hamartia is coherence distortion and attractor-basin deformation that bends desire and attention away from truthful love under pressure, without condemning identity.
+Hamartia is coherence distortion and attractor-basin deformation that bends desire and attention away from truthful love under pressure, without condemning beloved identity.
 
 ### Formal Operator
 Hamartia is a distortion operator that deforms attractor topology and reduces coherence signal, producing misalignment without erasing belovedness.
@@ -28,7 +28,7 @@ In the Codex, naming hamartia is never identity condemnation; it is truth-tellin
 - Relational fracture and reduced communion
 - Reduced clarity in discernment
 
-### Layer Effects
+### Layer Effects (when named in grace)
 | Layer | Δ Effect |
 |------|---------|
 | Ground (G) | ↑ (when anchored in grace, not performance) |
@@ -68,8 +68,10 @@ When named and surrendered in grace, hamartia opens repair of:
 Hamartia is repaired through the following operators:
 - **Justification** — re-anchors Ground in grace so the person is beloved before repair begins (G ↑).
 - **Metanoia** — repairs attractor topology, destabilising entropic basins and opening new paths of convergence (A → A′).
+- **Confession** — truth-telling in consented relationship that releases shame, restores communion, and concretises Metanoia through reconciliation.
 - **Ascesis** — consented training that re-forms habit loops and desire without coercion (entropy ↓, alignment ↑).
 - **Nepsis** — watchful sobriety that dampens distortion gradients and protects discernment (∇A_entropy → 0).
+
 
 ### Patristic Resonance
 - **St John Chrysostom** described sin as a wound needing healing rather than a weapon for humiliation.
