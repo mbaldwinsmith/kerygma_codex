@@ -40,6 +40,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Vigil
   - [x] Obedience
   - [x] Hamartia (Sin)
+  - [x] Depravity (Φθορά / Depravatio)
 
 ---
 
@@ -61,6 +62,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Add adoption and foster-care trauma safeguards to communal care guidance and training materials.
 - [ ] Draft conversion follow-through guidance (catechesis, accompaniment, and post-crisis support).
 - [ ] Create consent-based invitation guidance for conversion settings (privacy, pacing, and non-coercive practice).
+- [ ] Draft pastoral repair guidance for people harmed by “total depravity” preaching (re-dignification, consented teaching, trauma-aware catechesis).
 
 ---
 
