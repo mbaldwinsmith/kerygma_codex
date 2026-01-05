@@ -71,6 +71,8 @@ No work is considered complete until **TASKS.md** has been updated.
 - All Codex term files must use lowercase, underscore-separated, URL-safe filenames:
   `primaryterm_optionalqualifier.md`
   (no spaces, punctuation, emojis, or non-Latin characters in filenames; Greek/Latin remains inside the document).
+- Fundamental Practices must be written as individual files inside `07_fundamental_practices/` using the canonical naming convention.
+
 
 
 ---
