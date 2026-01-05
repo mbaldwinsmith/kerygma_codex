@@ -24,6 +24,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Hesychia (Stillness)
   - [x] Ascesis (Ascetic practice)
   - [x] Fasting
+  - [x] Nepsis (Watchful sobriety)
   - [ ] Vigil
   - [ ] Obedience
 - [ ] Map each to one or more Core Operators in 05_CORE_OPERATORS.md.
