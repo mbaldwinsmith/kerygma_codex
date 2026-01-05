@@ -43,6 +43,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Obedience
   - [x] Hamartia (Sin)
   - [x] Depravity (Φθορά / Depravatio)
+- [x] Draft Original Sin (Προπατορικὴ Ἁμαρτία / Peccatum Originale) as a Fundamental Practice term.
 
 ---
 
@@ -72,6 +73,8 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Draft conversion follow-through guidance (catechesis, accompaniment, and post-crisis support).
 - [ ] Create consent-based invitation guidance for conversion settings (privacy, pacing, and non-coercive practice).
 - [ ] Draft pastoral repair guidance for people harmed by “total depravity” preaching (re-dignification, consented teaching, trauma-aware catechesis).
+- [ ] Draft pastoral repair guidance for people harmed by inherited-guilt preaching (re-dignification, consented teaching, trauma-aware catechesis).
+- [ ] Draft baptismal catechesis integration for Original Sin (gift-field belonging, initiation into healed convergence).
 
 ---
 
