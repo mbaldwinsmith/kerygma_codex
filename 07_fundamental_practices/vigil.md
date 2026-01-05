@@ -4,7 +4,7 @@
 Vigil is a temporal coherence-stabilisation practice of faithful waiting and prayerful presence under delay, darkness, and unresolved suffering.
 
 ### Formal Operator
-Vigil preserves convergence orientation across time and delay, stabilising hopeful attention to Christ when resolution is not yet given.
+Grounded in **Prayer** and **Faith**, vigil preserves convergence orientation across time and delay, stabilising hopeful attention to Christ when resolution is not yet given.
 
 orientation_to_ℒ(t) ↑, hope_drift ↓, abandonment_noise ↓, σ (signal-to-noise ratio) ↑, P_stability ↑
 
@@ -13,7 +13,7 @@ As a refinement of **Faith**, **Nepsis**, **Prayer**, and **Hope**, Vigil sustai
 ### Inputs
 - Consent and readiness
 - Time, darkness, or unresolved waiting
-- A gentle prayer anchor (Scripture phrase, breath prayer, simple presence)
+- A gentle prayer anchor (**Scripture**, breath prayer, simple presence)
 - Awareness of bodily limits and care needs
 - The human system H = (G, L, P, A)
 
@@ -23,6 +23,7 @@ As a refinement of **Faith**, **Nepsis**, **Prayer**, and **Hope**, Vigil sustai
 - Stabilised presence in uncertainty
 - Deepened trust and hope without coercion
 - Increased signal-to-noise ratio (σ) under pressure
+- Strengthened perseverance in **Faith** and **Prayer**
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -42,7 +43,7 @@ As a refinement of **Faith**, **Nepsis**, **Prayer**, and **Hope**, Vigil sustai
 - Coerced endurance that suppresses consent and care
 - Romanticised suffering that bypasses truth or safety
 - Pressure to remain present beyond bodily or psychological limits
-- Scrupulosity or guilt for needing rest
+- Scrupulosity or guilt for needing rest (see **Conscience / Synderesis**)
 
 **Misuse-prevention notes**
 - Vigil is never an obligation to stay awake; sleep is holy and non-negotiable.

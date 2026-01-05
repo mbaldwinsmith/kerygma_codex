@@ -23,9 +23,9 @@ Regeneration never overwrites personhood; it vivifies and heals the existing sel
 - The human system H = (G, L, P, A)
 - Grace as gift-field, not transaction
 - The healed ground of atonement (no condemnation)
-- Faith as consenting trust
-- Baptismal initiation (as public, embodied entry into the life of Christ)
-- Metanoia as attractor repair and openness to new pathways
+- Faith as consenting trust (**Faith**)
+- Baptismal initiation (as public, embodied entry into the life of Christ) (**Baptism**)
+- Metanoia as attractor repair and openness to new pathways (**Metanoia**)
 
 ### Outputs
 - Interior life re-animated within the existing person

@@ -6,7 +6,7 @@ Icon is a sanctified, consent-honouring visual and material witness that mediate
 ---
 
 ## Formal Operator
-Icon is a presence-mediating and coherence-orienting operator that stabilises attention toward Christ, entrains prayerful presence, preserves memory and identity, and protects embodied, non-abstract faith.
+Grounded in the **Incarnation** and received within **Tradition**, icon is a presence-mediating and coherence-orienting operator that stabilises attention toward Christ, entrains prayerful presence, preserves memory and identity, and protects embodied, non-abstract faith.
 
 Formally, Icon refines: **Prayer** (attentive presence), **Faith** (embodied trust), **Tradition** (living memory), **Liturgy** (visual grammar of worship), and **Koinonia** (shared remembrance).
 
@@ -28,7 +28,7 @@ Veneration honours presence and memory through the sign; idolatry treats the sig
 - Entrained prayerful presence
 - Preserved memory and identity in the communion of saints
 - Embodied trust rather than abstract belief
-- Shared remembrance and belonging without coercion
+- Shared remembrance and belonging without coercion (**Koinonia**)
 
 ---
 

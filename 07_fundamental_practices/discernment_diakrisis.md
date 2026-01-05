@@ -26,9 +26,9 @@ As a refinement of **Judgement (Krisis)**, **Metanoia**, **Nepsis**, and **Sanct
 
 ## Inputs
 - The human system H = (G, L, P, A)
-- Prayerful illumination and mercy
+- Prayerful illumination and mercy (**Prayer**, **Mercy**)
 - Consent, safeguarding, and proportionate scope
-- Communal reference field (Scripture, trusted elders, shared truth)
+- Communal reference field (**Scripture**, trusted elders, shared truth)
 - Time, rest, and embodied grounding
 
 ---
@@ -64,7 +64,7 @@ As a refinement of **Judgement (Krisis)**, **Metanoia**, **Nepsis**, and **Sanct
 ## What It Can Damage (If Misused)
 - Hypervigilant conscience systems and scrupulosity
 - Suspicion cultures that erode trust
-- Coercive discernment by leaders or peers
+- Coercive discernment by leaders or peers (see **Authority**)
 - Public fault-finding, humiliation, or gossip
 - Shame-driven “word of knowledge” practices
 

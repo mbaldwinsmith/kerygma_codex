@@ -6,7 +6,7 @@ Scripture is the canonical, Spirit-breathed public grammar of the Logos that sta
 ---
 
 ## Formal Operator
-Scripture is a stabilising reference-field operator that anchors Logos-layer coherence across time and community.
+Grounded in **Tradition** and received in **Prayer**, Scripture is a stabilising reference-field operator that anchors Logos-layer coherence across time and community.
 
 Lᵢ  →  L̄  (shared convergence grammar)
 
@@ -19,13 +19,14 @@ Scripture provides a stable convergence coordinate that protects discernment fro
 - The worshipping and discerning community  
 - The human system H = (G, L, P, A)  
 - Tradition and lived interpretation  
+- Discernment (**Diakrisis**) held in community  
 
 ---
 
 ## Outputs
 - Shared moral and theological reference  
 - Stabilised communal memory  
-- Clarified conscience  
+- Clarified conscience (**Conscience / Synderesis**)  
 - Discernment boundaries  
 - Protection from distortion
 
@@ -52,7 +53,7 @@ Scripture provides a stable convergence coordinate that protects discernment fro
 
 ## What It Can Damage (If Misused)
 - Can be weaponised to control or shame  
-- Can be used to justify abuse, exclusion, or domination  
+- Can be used to justify abuse, exclusion, or domination (see **Authority** and **Spiritual Direction**)  
 - Can be absolutised without love or discernment  
 - Can bypass conscience, consent, or safeguarding  
 - Can silence lived suffering or lived truth

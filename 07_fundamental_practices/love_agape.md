@@ -6,7 +6,7 @@ Agape is self-giving, truthful, and non-coercive love that participates in the l
 ---
 
 ## Formal Operator
-Agape is a coherence-conductivity operator that reduces relational resistance and increases participation in the Logos grammar.
+Grounded in **Grace** and cruciformly shaped by **Atonement**, agape is a coherence-conductivity operator that reduces relational resistance and increases participation in the Logos grammar.
 
 Field_resistance ↓  ⇒  Coherence_flow ↑
 
@@ -17,7 +17,7 @@ Agape stabilises and propagates healed attractor landscapes across relational fi
 ## Inputs
 - Willingness to give oneself  
 - Truthfulness  
-- Consent  
+- Consent (see **Spiritual Direction** for safeguarding norms)  
 - Relational presence  
 - The human system H = (G, L, P, A)
 
@@ -28,7 +28,8 @@ Agape stabilises and propagates healed attractor landscapes across relational fi
 - Stabilised belonging  
 - Clarified conscience  
 - Widened compassion  
-- Distributed healing
+- Distributed healing  
+- Repaired communion (**Koinonia**)
 
 ---
 
@@ -54,7 +55,7 @@ Agape stabilises and propagates healed attractor landscapes across relational fi
 ## What It Can Damage (If Misused)
 - Can be confused with compliance or self-erasure  
 - Can be weaponised to excuse abuse or silence truth  
-- Can be used to bypass justice, boundaries, or safeguarding  
+- Can be used to bypass justice, boundaries, or safeguarding (**Judgement/Krisis**)  
 - Can be turned into emotional extraction or pressure
 
 ---

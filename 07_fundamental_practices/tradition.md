@@ -6,7 +6,7 @@ Tradition is the living, communal transmission of life in Christ through time �
 ---
 
 ## Formal Operator
-Tradition is a temporal–communal coherence-preservation operator that stabilises identity, worship, and moral formation by carrying the Logos grammar across generations and guarding communities from drift, amnesia, and novelty-driven distortion.
+Grounded in **Scripture** and enacted in **Liturgy**, tradition is a temporal–communal coherence-preservation operator that stabilises identity, worship, and moral formation by carrying the Logos grammar across generations and guarding communities from drift, amnesia, and novelty-driven distortion.
 
 T(H₁…Hₙ, t, reference_field) : {Hᵢ} → {Hᵢ′}
 
@@ -28,7 +28,7 @@ Tradition refines and stabilises:
 
 ## Inputs
 - The human systems Hᵢ = (G, L, P, A)
-- A shared reference field (Scripture, councils, communal discernment, local practices)
+- A shared reference field (**Scripture**, councils, communal discernment, local practices)
 - Communal memory (stories, prayers, saints, and witness)
 - Practices embodied over time (worship, sacraments, habits of mercy)
 - Consent, transparency, and safeguarding structures
@@ -40,7 +40,7 @@ Tradition refines and stabilises:
 - Stabilised communal identity across time
 - Preserved worship and moral formation without rigidity
 - Resilience against drift, amnesia, and novelty-driven distortion
-- Increased trust in received wisdom without suppressing conscience
+- Increased trust in received wisdom without suppressing conscience (**Conscience / Synderesis**)
 - A durable memory field that holds grief, repentance, and hope
 
 ---

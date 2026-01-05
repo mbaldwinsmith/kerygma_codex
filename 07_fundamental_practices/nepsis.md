@@ -4,7 +4,7 @@
 Nepsis is gentle, consented watchfulness that guards attention, desire, and discernment so the heart stays sober, free, and faithful under pressure.
 
 ### Formal Operator
-Nepsis is a safety operator that dampens distortion gradients and stabilises attention without fear-driven hypervigilance.
+Grounded in **Grace** and aligned with **Discernment (Diakrisis)**, nepsis is a safety operator that dampens distortion gradients and stabilises attention without fear-driven hypervigilance.
 
 ∇A_entropy → 0, attention_guard ↑, desire_noise ↓, discernment_clarity ↑, σ (signal-to-noise ratio) ↑
 
@@ -12,7 +12,7 @@ As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects t
 
 ### Inputs
 - Consent and readiness
-- A gentle attentional anchor (breath prayer, Scripture phrase, simple awareness of God)
+- A gentle attentional anchor (**Prayer**, **Scripture**)
 - Awareness of limits, trauma history, and embodied signals
 - Community or pastoral support when needed
 - The human system H = (G, L, P, A)
@@ -23,6 +23,7 @@ As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects t
 - Stabilised attention and desire
 - Lowered susceptibility to deceptive attractors
 - Greater capacity to choose truthful love under pressure
+- Strengthened pathways toward **Metanoia**
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -39,7 +40,7 @@ As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects t
 
 ### What It Can Damage (If Misused)
 - Hypervigilance, anxiety, and nervous-system overactivation
-- Scrupulosity and compulsive self-monitoring
+- Scrupulosity and compulsive self-monitoring (see **Conscience / Synderesis**)
 - Shame-based conscience formation and fear of failure
 - Coercive “watchfulness” imposed by others
 - Spiritual performance pressure that erodes trust

@@ -4,7 +4,7 @@
 Fasting is a gentle, time-bounded relinquishing of food (or other comforts) to re-open attention, desire, and dependence toward God without harm or coercion.
 
 ### Formal Operator
-Fasting is a bounded deprivation and attention-clarifying operator that lowers appetite-driven noise, increases watchful sobriety, and reorients desire toward truthful love.
+Grounded in **Grace** and guided by **Discernment (Diakrisis)**, fasting is a bounded deprivation and attention-clarifying operator that lowers appetite-driven noise, increases watchful sobriety, and reorients desire toward truthful love.
 
 drive_noise ↓, attention_clarity ↑, σ (signal-to-noise ratio) ↑, A → A′
 
@@ -15,6 +15,7 @@ As a refinement of **Ascesis**, fasting applies a consented, time-limited constr
 - A clear, time-bounded fasting plan adapted to the body
 - Medical and psychological safety screening when relevant
 - Rest, hydration, and gentle nutrition when the fast ends
+- Prayerful attention (**Prayer**) and a shared reference field (**Scripture**)
 - The human system H = (G, L, P, A)
 
 ### Outputs
@@ -22,6 +23,7 @@ As a refinement of **Ascesis**, fasting applies a consented, time-limited constr
 - Reduced compulsive or comfort-driven reactivity
 - Heightened reliance on God and prayerful presence
 - Greater discernment of inner movements and attachments
+- Sharpened watchfulness without fear (**Nepsis**)
 
 ### Layer Effects
 | Layer | Δ Effect |

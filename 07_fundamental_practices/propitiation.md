@@ -15,7 +15,7 @@ Analogically: Christ’s cruciform love clears the field of fear and accusation 
 ---
 
 ## Inputs
-- Atonement (cruciform repair of distortion)
+- Atonement (cruciform repair of distortion) (**Atonement**)
 - Distorted relational field (fear, shame, accusation, alienation)
 - Consent to receive mercy and safety (never coerced)
 - Pastoral care, time, and embodied gentleness
@@ -27,7 +27,7 @@ Analogically: Christ’s cruciform love clears the field of fear and accusation 
 - Fear and shame loop damping
 - Increased communion bandwidth and relational safety
 - Stabilised coherence under pressure
-- Opened flow of grace and peace
+- Opened flow of grace and peace (**Grace**, **Peace / Eirene**)
 
 ---
 

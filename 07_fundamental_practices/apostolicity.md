@@ -6,7 +6,7 @@ Apostolicity is the Church’s participation in Christ’s sending — a living 
 ---
 
 ## Formal Operator
-Apostolicity is a transmission-and-sending coherence operator that preserves the Logos grammar (ℒ), stabilises continuity with Christ and the apostolic witness, and commissions outward healing without coercion.
+Grounded in **Scripture** and **Tradition**, apostolicity is a transmission-and-sending coherence operator that preserves the Logos grammar (ℒ), stabilises continuity with Christ and the apostolic witness, and commissions outward healing without coercion.
 
 Apos(H₁…Hₙ, reference_field, sending) : {Hᵢ} → {Hᵢ′}
 
@@ -28,7 +28,7 @@ Apostolicity refines and stabilises:
 
 ## Inputs
 - The human systems Hᵢ = (G, L, P, A)
-- A shared reference field (Scripture, creed, apostolic teaching, communal discernment)
+- A shared reference field (**Scripture**, creed, apostolic teaching, communal discernment)
 - Communal memory of Christ’s sending and the apostolic witness
 - Practices of teaching, worship, and mercy that embody the Gospel
 - Accountable sending processes with consent and safeguarding
@@ -41,7 +41,7 @@ Apostolicity refines and stabilises:
 - Continuity of witness across time, culture, and place
 - Outward mission that heals rather than coerces
 - Resilience against drift, distortion, and private gospels
-- Strengthened communal trust in the public Gospel
+- Strengthened communal trust in the public Gospel (**Koinonia**)
 
 ---
 

@@ -4,7 +4,7 @@
 Ascesis is gentle, consented training in Christ that removes distortions and stabilises truthful love under pressure.
 
 ### Formal Operator
-Ascesis is a disciplined, consent-based constraint and repetition operator that reduces entropy, repairs attractor topology, and increases alignment with the Logos grammar.
+Grounded in **Grace** and guided by **Discernment (Diakrisis)**, ascesis is a disciplined, consent-based constraint and repetition operator that reduces entropy, repairs attractor topology, and increases alignment with the Logos grammar.
 
 A → A′,  xₙ₊₁ = ℒ(xₙ),  entropy ↓,  σ (signal-to-noise ratio) ↑
 
@@ -13,7 +13,7 @@ As a refinement of **Sanctification**, **Nepsis**, and **Kenosis**, Ascesis appl
 ### Inputs
 - Consent and pastoral discernment
 - Time, rest, and embodied care
-- A specific, gentle discipline (e.g., prayer rhythm, fasting with safeguards, almsgiving)
+- A specific, gentle discipline (**Prayer**, **Fasting** with safeguards, almsgiving)
 - Community support and accountability (as needed)
 - The human system H = (G, L, P, A)
 
@@ -23,6 +23,7 @@ As a refinement of **Sanctification**, **Nepsis**, and **Kenosis**, Ascesis appl
 - Clearer attention and conscience
 - Greater freedom to love under pressure
 - Increased signal-to-noise ratio (σ)
+- Stabilised growth in **Sanctification** and **Virtue**
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -43,7 +44,7 @@ As a refinement of **Sanctification**, **Nepsis**, and **Kenosis**, Ascesis appl
 - Bodily harm through excessive or unsafe discipline
 - Control, coercion, or ranking of spiritual worth
 - Bypassing grief, trauma, or medical needs
-- Intensifying scrupulosity or self-hatred
+- Intensifying scrupulosity or self-hatred (see **Conscience / Synderesis**)
 
 **Misuse-prevention notes**
 - Practices must be freely chosen, time-bounded, and reversible.

@@ -28,7 +28,7 @@ As a refinement of core operators and practices:
 - A human person H = (G, L, P, A)
 - Grace as gift-field (belonging before performance)
 - Faith as consented trustful reliance
-- Honest recognition of misalignment without shame
+- Honest recognition of misalignment without shame (**Conscience / Synderesis**)
 - Safe community support and pastoral care (where available)
 - Time, privacy, and pacing appropriate to the person’s history
 
@@ -39,7 +39,7 @@ As a refinement of core operators and practices:
 - Opened participation in the grace field
 - Destabilised entropic attractors and opened paths to healed convergence
 - Increased capacity for truthful love under pressure
-- Willingness to enter baptismal and communal life without coercion
+- Willingness to enter baptismal and communal life without coercion (**Baptism**, **Koinonia**)
 
 ---
 

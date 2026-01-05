@@ -6,7 +6,7 @@ Incarnation is God’s self-giving entry into human wounded reality, fully assum
 ---
 
 ## Formal Operator  
-Incarnation is the divine Logos entering the human coherence field, uniting God’s life to full human nature without disguise, so that healing begins from inside the creaturely condition.
+Grounded in **Grace** and fulfilling **Atonement**, incarnation is the divine Logos entering the human coherence field, uniting God’s life to full human nature without disguise, so that healing begins from inside the creaturely condition.
 
 Logos ⊕ H_wounded → H_in_Christ
 
@@ -35,6 +35,7 @@ Incarnation grounds **Grace** (gift comes first because God has come near), **At
 - Restored dignity for bodies and creaturely limits  
 - A concrete, non-abstract basis for grace, atonement, sanctification, and communion  
 - A stable reference field for truthful love under pressure
+- Opened participation in shared life (**Koinonia**)
 
 ---
 

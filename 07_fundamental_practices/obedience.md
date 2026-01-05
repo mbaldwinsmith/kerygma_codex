@@ -4,7 +4,7 @@
 Obedience is consented, truth-responsive alignment to Christ that protects conscience and agency while enacting faithful love under pressure.
 
 ### Formal Operator
-Obedience is a coherence-preserving alignment operator that coordinates desire, conscience, and action with the Logos grammar (ℒ) under pressure, without coercion or domination.
+Grounded in **Discernment (Diakrisis)** and bounded by **Conscience / Synderesis**, obedience is a coherence-preserving alignment operator that coordinates desire, conscience, and action with the Logos grammar (ℒ) under pressure, without coercion or domination.
 
 Obedience = align(desire, conscience, action) → ℒ under consent, safeguarding, and truth-testing
 
@@ -18,7 +18,7 @@ As a refinement of **Faith**, **Nepsis**, **Koinonia**, and **Ascesis**, Obedien
 
 ### Inputs
 - Consent freely given and revocable
-- A discerned call of Christ (Scripture, prayer, conscience, and wise counsel)
+- A discerned call of Christ (**Scripture**, **Prayer**, conscience, and wise counsel)
 - Clear safeguarding boundaries and non-coercive community support
 - Awareness of limits, trauma history, and embodied signals
 - The human system H = (G, L, P, A)

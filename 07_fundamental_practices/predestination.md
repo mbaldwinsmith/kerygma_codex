@@ -33,7 +33,7 @@ Predestination is explicitly linked to:
 
 ## Inputs
 - The human system H = (G, L, P, A)
-- God’s prior mercy and gift-field of grace
+- God’s prior mercy and gift-field of grace (**Mercy**, **Grace**)
 - The Christ-pattern ℒ as final reference field
 - The promise of peace (Eirene) as healed field condition
 - Consent, dignity, and pastoral gentleness
@@ -45,7 +45,7 @@ Predestination is explicitly linked to:
 - Anchored hope that the world has a home in Christ
 - Stabilised belonging under pressure and suffering
 - Open participation without coercion or fatalism
-- Strengthened vocation for service, mercy, and intercession
+- Strengthened vocation for service, mercy, and intercession (**Election**)
 - Dampened despair and exclusionary logic
 
 ---

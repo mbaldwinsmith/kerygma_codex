@@ -4,7 +4,7 @@
 Justification is God’s gift of belonging that anchors identity in grace before performance, stabilising the Ground layer for truthful love under pressure.
 
 ### Formal Operator
-Justification is a Ground-anchoring operator that resets identity in grace apart from merit, establishing belonging as gift and not achievement.
+Grounded in **Grace** and secured by **Atonement**, justification is a Ground-anchoring operator that resets identity in grace apart from merit, establishing belonging as gift and not achievement.
 
 G → G₍anchored in grace₎,  belonging ↑,  shame_noise ↓
 

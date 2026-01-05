@@ -19,7 +19,7 @@ Adoption refines:
 - The human system H = (G, L, P, A)
 - The Father’s naming love in Christ
 - The Spirit of adoption who witnesses to belonging
-- Consent to receive belonging without merit
+- Consent to receive belonging without merit (**Grace**)
 - Safe pastoral context, time, and rest
 
 ### Outputs
@@ -27,7 +27,7 @@ Adoption refines:
 - Intimate access to God without fear or performance
 - Decreased orphaned self-protection loops
 - Secure attachment patterns that support trustful dependence
-- Participation in Koinonia as family communion
+- Participation in Koinonia as family communion (**Koinonia**)
 
 ### Layer Effects
 | Layer | Δ Effect |

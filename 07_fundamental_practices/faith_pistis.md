@@ -26,7 +26,7 @@ Faith grounds and activates the core flow of salvation as participation:
 - A human person H = (G, L, P, A) as they are
 - God’s self-giving initiative in Christ
 - Consent to rely on God without performance proofs
-- A community of support and truthful care (where available)
+- A community of support and truthful care (where available) (**Koinonia**)
 - Time, patience, and space for doubt without shame
 
 ---
@@ -35,7 +35,7 @@ Faith grounds and activates the core flow of salvation as participation:
 - Anchored belonging that reduces fear and self-protection
 - Increased trust and openness to God’s healing action
 - Greater capacity to face truth without collapse
-- Willing participation in baptismal and communal life
+- Willing participation in baptismal and communal life (**Baptism**, **Koinonia**)
 - A stable, gentle orientation toward sanctifying growth over time
 
 ---
@@ -64,7 +64,7 @@ Faith grounds and activates the core flow of salvation as participation:
 - Doubt-shaming cultures that punish honest struggle
 - Performance-based “faith tests” that rank or exclude people
 - Spiritual gaslighting that dismisses pain or questions
-- Withdrawal of care under the guise of “low faith”
+- Withdrawal of care under the guise of “low faith” (see **Authority**)
 
 **Misuse-prevention notes**
 - Faith cannot be compelled; consent is essential and non-negotiable.

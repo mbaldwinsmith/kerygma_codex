@@ -6,7 +6,7 @@ Authority is cruciform, consent-honouring responsibility to guard, serve, and st
 ---
 
 ## Formal Operator
-Authority is a coherence-guarding and safeguarding operator that protects the weak, preserves truth under pressure, maintains healthy convergence in community, and intervenes to stop harm.
+Grounded in **Judgement (Krisis)** and bounded by **Love (Agape)**, authority is a coherence-guarding and safeguarding operator that protects the weak, preserves truth under pressure, maintains healthy convergence in community, and intervenes to stop harm.
 
 Auth(H₁…Hₙ, leaders, reference_field) : {Hᵢ} → {Hᵢ′}
 
@@ -28,7 +28,7 @@ Authority refines and stabilises:
 
 ## Inputs
 - The human systems Hᵢ = (G, L, P, A)
-- A shared reference field (Scripture, tradition, communal discernment)
+- A shared reference field (**Scripture**, **Tradition**, communal discernment)
 - Delegated responsibility with clear scope and limits
 - Consent, transparency, and accountability structures
 - Safeguarding protocols and legal/medical/therapeutic pathways
@@ -40,6 +40,7 @@ Authority refines and stabilises:
 - Increased safety for the vulnerable and weak
 - Preserved truthfulness under pressure and manipulation
 - Stabilised communal coherence and healthy convergence
+- Repaired and protected communion (**Koinonia**)
 - Trustworthy boundaries that protect conscience and agency
 - Reduced distortion gradients and secrecy cultures
 
@@ -65,7 +66,7 @@ Authority refines and stabilises:
 
 ## What It Can Damage (If Misused)
 - Domination, coercion, and spiritual abuse
-- Silencing of conscience or dissent
+- Silencing of conscience or dissent (see **Conscience / Synderesis**)
 - Extraction of obedience through fear or shame
 - Secrecy cultures and abuse cover-ups
 - Loss of trust, agency, and safety

@@ -6,7 +6,7 @@ Prayer is conscious, consenting presence with God that iteratively aligns the hu
 ---
 
 ## Formal Operator
-Prayer is an iterative convergence operator that couples the human system to the Logos grammar, and may intentionally extend that coupling toward others in love (intercession), participating in the ongoing mediation of Christ for the world.
+Grounded in **Grace** (gift-field) and refined by **Love (Agape)**, prayer is an iterative convergence operator that couples the human system to the Logos grammar, and may intentionally extend that coupling toward others in intercession, participating in the ongoing mediation of Christ for the world.
 
 xₙ₊₁ = ℒ(xₙ)
 
@@ -16,7 +16,7 @@ Sustained prayer increases coherence by reshaping attractor landscapes and stabi
 
 ## Inputs
 - Attention  
-- Consent  
+- Consent (see **Spiritual Direction** for safeguarding norms)  
 - Time  
 - Silence or words  
 - The human system H = (G, L, P, A)
@@ -30,6 +30,8 @@ Sustained prayer increases coherence by reshaping attractor landscapes and stabi
 - Widened relational presence  
 - Gentle attractor reshaping  
 - Relational entrainment and blessing for others (intercession)
+- Opened turning toward truth (**Metanoia**)  
+- Ongoing formation toward stability (**Sanctification**)
 
 ---
 
@@ -81,7 +83,3 @@ Sustained prayer increases coherence by reshaping attractor landscapes and stabi
 
 ## Fails the Cross If…
 Prayer becomes a performance, a pressure, a technique for spiritual superiority, a bypass of suffering, or a tool of control rather than truthful, consenting presence with God under the reality of the Cross and the wounds of the world.
-
-
-### Fails the Cross If…
-Scripture is used to dominate, silence, exclude, or justify harm rather than to bear truthful, cruciform love that protects the vulnerable and forms the Church in Christ.

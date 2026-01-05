@@ -29,7 +29,7 @@ Election refines:
 - The human system H = (G, L, P, A)
 - God’s prior gift-field of grace
 - Christ’s sending and self-giving mission
-- Communal discernment and consented commissioning
+- Communal discernment and consented commissioning (**Discernment / Diakrisis**)
 - Practices of mercy, justice, intercession, and witness
 - Safeguarding, rest, and creaturely limits
 
@@ -40,7 +40,7 @@ Election refines:
 - Responsibility for healing, witness, and intercession
 - Outward-expanding grace field through service
 - Deeper participation in Christ’s reconciling life
-- Strengthened communal burden-bearing and shared mission
+- Strengthened communal burden-bearing and shared mission (**Koinonia**)
 
 ---
 

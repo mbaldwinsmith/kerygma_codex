@@ -6,7 +6,7 @@ Priesthood is a delegated, mercy-bearing repair office that mediates reconciliat
 ---
 
 ## Formal Operator
-Priesthood is a coherence-holding, reconciliation-mediating, sacramental-stabilising operator that bears distortion for the sake of repair and keeps the gift-field open for the community.
+Grounded in **Authority** and shaped by **Atonement**, priesthood is a coherence-holding, reconciliation-mediating, sacramental-stabilising operator that bears distortion for the sake of repair and keeps the gift-field open for the community.
 
 Priesthood(H₁…Hₙ, reference_field, sacramental_gateway, safeguarding) : {Hᵢ} → {Hᵢ′}
 
@@ -40,7 +40,7 @@ Priesthood refines and stabilises:
 ## Outputs
 - Reduced shame loops, isolation, and fragmentation
 - Increased shared coherence, safety, and peace
-- Protected access to sacramental mercy and reconciliation
+- Protected access to sacramental mercy and reconciliation (**Eucharist**, **Confession**)
 - Stabilised communal formation and truthful love under pressure
 - Strengthened safety and dignity for the vulnerable
 

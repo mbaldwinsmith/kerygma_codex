@@ -6,7 +6,7 @@ Grace is God’s freely given gift of love and belonging that comes *before* any
 ---
 
 ## Formal Operator  
-Grace is the primary gift-field operator that initiates and sustains all healing and growth by giving belonging, safety, and divine initiative before performance.
+Grounded in **Atonement** (cruciform repair), grace is the primary gift-field operator that initiates and sustains all healing and growth by giving belonging, safety, and divine initiative before performance.
 
 Grace_field ⟂ merit → H = (G, L, P, A) anchored in gift
 

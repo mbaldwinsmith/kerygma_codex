@@ -35,8 +35,8 @@ but the **Logos-expressed coherence of divine life and its creaturely manifestat
 - The Divine Logos  
 - Divine Sophia (God’s own living Wisdom)  
 - Creation as created Sophia (creaturely participation in divine Wisdom)  
-- Grace-opened participation in Christ  
-- Human reception and formation
+- Grace-opened participation in Christ (**Incarnation**, **Grace**)  
+- Human reception and formation  
 
 ---
 
@@ -45,7 +45,7 @@ but the **Logos-expressed coherence of divine life and its creaturely manifestat
 - Coherent participation between God and world  
 - A cosmic field for sanctification and theosis  
 - The grammar by which creation can converge into Christ  
-- A healed cosmos capable of communion
+- A healed cosmos capable of communion (**Koinonia**)
 
 ---
 
@@ -111,4 +111,3 @@ but the **Logos-expressed coherence of divine life and its creaturely manifestat
 
 ## Fails the Cross If…  
 Sophia is collapsed into nature-worship, abstract mysticism, or bypass theology, rather than Christ-centred, cruciform healing of creation under pressure.
-

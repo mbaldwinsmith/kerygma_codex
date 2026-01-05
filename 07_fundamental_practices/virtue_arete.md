@@ -25,6 +25,7 @@ As a refinement of **Sanctification** (iterative stabilisation), **Ascesis** (ge
 - Increased coherence persistence across stress and fatigue
 - Habits of truthful love that do not depend on mood or circumstance
 - Deepened participation in theosis within communal life
+- Stabilised peace in the interior field (**Peace / Eirene**)
 
 ### Layer Effects
 | Layer | Δ Effect |

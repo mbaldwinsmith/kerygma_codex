@@ -28,7 +28,7 @@ Explicit rejections:
 ## Inputs
 - The human system H = (G, L, P, A, σ)
 - Grace as gift-field (belonging before evaluation)
-- Prayerful attunement and Scripture as public reference field
+- Prayerful attunement (**Prayer**) and Scripture as public reference field (**Scripture**)
 - Consent, rest, and embodied grounding
 - Wise communal counsel and safeguarding structures
 
@@ -63,7 +63,7 @@ Explicit rejections:
 ---
 
 ## What It Can Damage (If Misused)
-- Scrupulosity systems that amplify anxiety
+- Scrupulosity systems that amplify anxiety (see **Nepsis**)
 - Shame engines that weaponise guilt
 - Coerced moral disclosure or forced transparency
 - Public moral ranking and spiritual comparison

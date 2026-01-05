@@ -29,7 +29,7 @@ Liturgy refines and stabilises:
 ## Inputs
 - The human systems Hᵢ = (G, L, P, A)
 - Shared rhythms, calendar, and place
-- Scripture, psalmody, silence, and sacramental signs
+- Scripture, psalmody, silence, and sacramental signs (**Scripture**, **Eucharist**)
 - Consent, safeguarding, and gentle leadership
 - Time, repetition, and patient participation
 
@@ -40,7 +40,7 @@ Liturgy refines and stabilises:
 - Entrainment of attention, desire, and memory toward Christ
 - Embodied formation of the whole person
 - Reduced drift and fragmentation in shared life
-- A durable reference field for discernment and belonging
+- A durable reference field for discernment and belonging (**Discernment / Diakrisis**)
 
 ---
 

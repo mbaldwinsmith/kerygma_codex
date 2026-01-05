@@ -6,7 +6,7 @@ Judgement (krisis) is God’s truthful, merciful discernment that separates life
 ---
 
 ## Formal Operator
-Judgement is a truth-separating and coherence-clarifying operator that illuminates distortion, differentiates life-giving from life-destroying patterns, and protects communion by confronting harm.
+Grounded in **Mercy** and aligned with **Discernment (Diakrisis)**, judgement is a truth-separating and coherence-clarifying operator that illuminates distortion, differentiates life-giving from life-destroying patterns, and protects communion by confronting harm.
 
 J(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - distortion → named and distinguished from identity
@@ -26,7 +26,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 
 ## Inputs
 - The human system H = (G, L, P, A)
-- Truthful light and mercy (prayerful illumination)
+- Truthful light and mercy (**Prayer**, **Mercy**)
 - Consent, safeguarding, and proportionality
 - Accountable communal processes (when harm affects others)
 - Time, rest, and embodied grounding
@@ -36,7 +36,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 ## Outputs
 - Distortion named without identity collapse
 - Clearer boundaries between life-giving and life-destroying patterns
-- Pathways opened for repentance, repair, and reconciliation
+- Pathways opened for repentance and repair (**Metanoia**, **Confession**)
 - Reduced confusion and moral fog
 - Safer, more truthful communion
 

@@ -6,7 +6,7 @@ Sacrifice is freely offered self-giving love that, in Christ, restores communion
 ---
 
 ## Formal Operator
-Sacrifice is a voluntary self-gift that reduces ego-noise, enriches the relational field, and propagates coherence into communal life without violating consent or safety.
+Grounded in **Love (Agape)** and shaped by **Atonement**, sacrifice is a voluntary self-gift that reduces ego-noise, enriches the relational field, and propagates coherence into communal life without violating consent or safety.
 
 Sₛ (voluntary self-gift in agape) → Ego_noise ↓, Field_coherence ↑, Koinonia_flow ↑
 

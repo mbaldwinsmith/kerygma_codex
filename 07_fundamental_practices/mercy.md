@@ -29,7 +29,7 @@ As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis
 - The human system H = (G, L, P, A)
 - God’s compassionate initiative toward the wounded
 - Consent, safeguarding, and protection of the vulnerable
-- Truth held in gentleness and accountability
+- Truth held in gentleness and accountability (**Judgement/Krisis**)
 - Time, rest, and embodied grounding
 
 ---
@@ -37,7 +37,7 @@ As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis
 ## Outputs
 - Reduced shame and fear that block truth-telling
 - Stabilised safety in Ground (belonging that can bear exposure)
-- Clear pathways for confession, repentance, restitution, and restoration
+- Clear pathways for confession, repentance, restitution, and restoration (**Confession**, **Metanoia**)
 - Preserved dignity under truthful exposure
 - Safer communal coherence and protected communion
 
@@ -67,7 +67,7 @@ As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis
 - Sentimental bypass that avoids justice or restitution
 - Silencing victims for the sake of surface peace
 - Shame-based control masquerading as “compassion”
-- Coercive reconciliation that forces contact without safety
+- Coercive reconciliation that forces contact without safety (see **Authority**)
 
 **Misuse-prevention notes**
 - Mercy never suspends truth or accountability; it holds them in gentleness and protection.

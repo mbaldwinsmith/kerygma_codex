@@ -4,14 +4,14 @@
 Hesychia is prayerful stillness that quiets inner noise so the heart can remain truthfully present to God.
 
 ### Formal Operator
-Hesychia is a noise-damping and presence-stabilising operator that reduces internal reactivity and supports attentive, consenting communion with God.
+Grounded in **Prayer** and refined by **Nepsis**, hesychia is a noise-damping and presence-stabilising operator that reduces internal reactivity and supports attentive, consenting communion with God.
 
 noise_internal ↓ ⇒ σ (signal-to-noise ratio) ↑, P_stability ↑
 
 As a refinement of **Nepsis** and **Kenosis**, Hesychia quiets reactive loops so the Logos grammar can be heard without coercion or strain.
 
 ### Inputs
-- Consent
+- Consent (see **Spiritual Direction** for safeguarding norms)
 - Silence or gentle simplicity
 - Time and rest
 - The human system H = (G, L, P, A)
@@ -21,7 +21,7 @@ As a refinement of **Nepsis** and **Kenosis**, Hesychia quiets reactive loops so
 - Increased signal-to-noise ratio (σ)
 - Stabilised attention
 - Widened relational presence
-- Capacity for listening prayer
+- Capacity for listening prayer (**Prayer**)
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -39,7 +39,7 @@ As a refinement of **Nepsis** and **Kenosis**, Hesychia quiets reactive loops so
 
 ### What It Can Damage (If Misused)
 - Can become dissociation or emotional numbing
-- Can be used to avoid grief, justice, or necessary truth-telling
+- Can be used to avoid grief, justice, or necessary truth-telling (**Judgement/Krisis**)
 - Can be weaponised as a demand for silence or compliance
 - Can intensify shame if treated as a performance metric
 

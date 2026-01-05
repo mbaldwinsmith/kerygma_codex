@@ -12,7 +12,7 @@ As a refinement of **Justification**, **Nepsis**, and **Ascesis**, Metanoia is a
 
 ### Inputs
 - The human system H = (G, L, P, A)
-- Grace and belonging received as gift (not earned)
+- Grace and belonging received as gift (**Grace**)
 - Honest attention to misalignment or harm
 - Consent, safety, and pastoral support when needed
 - Time, rest, and embodied care
@@ -21,6 +21,7 @@ As a refinement of **Justification**, **Nepsis**, and **Ascesis**, Metanoia is a
 - Reoriented desire and conscience toward Christ
 - Reduced pull of entropic attractors
 - Increased clarity in truth-telling and repair
+- Safer pathways for truth-telling (**Confession**)
 - Greater freedom to choose love under pressure
 - Restored capacity for communion
 
@@ -41,7 +42,7 @@ As a refinement of **Justification**, **Nepsis**, and **Ascesis**, Metanoia is a
 ### What It Can Damage (If Misused)
 - Shame-based repentance that deepens self-hatred
 - Coercive confession or forced disclosure
-- Scrupulosity, fear-driven self-monitoring, and anxiety spirals
+- Scrupulosity, fear-driven self-monitoring, and anxiety spirals (see **Conscience / Synderesis**)
 - Manipulative leadership tactics that control conscience
 - Bypassing trauma care with moral pressure
 
