@@ -14,6 +14,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Love (Agape)
   - [x] Scripture
 - [x] Draft Grace (Χάρις / Gratia) as a Fundamental Practice term.
+- [x] Draft Atonement (Ἱλασμός / Ἀποκατάστασις) as a Fundamental Practice term.
 - [ ] Draft Core Operator terms as Fundamental Practices:
   - [x] Justification
   - [x] Sanctification
