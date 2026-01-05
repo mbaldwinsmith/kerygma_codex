@@ -6,7 +6,7 @@ Judgement (krisis) is God’s truthful, merciful discernment that separates life
 ---
 
 ## Formal Operator
-Grounded in **Truth** and **Mercy** and aligned with **Discernment (Diakrisis)**, judgement is a truth-separating and coherence-clarifying operator that illuminates distortion, differentiates life-giving from life-destroying patterns, and protects communion by confronting harm.
+Grounded in **Truth** and **Mercy**, stabilised by **Hope**, and aligned with **Discernment (Diakrisis)**, judgement is a truth-separating and coherence-clarifying operator that illuminates distortion, differentiates life-giving from life-destroying patterns, and protects communion by confronting harm.
 
 J(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - distortion → named and distinguished from identity
@@ -28,6 +28,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - The human system H = (G, L, P, A)
 - Truthful light and mercy (**Prayer**, **Mercy**)
 - Reality-alignment that exposes distortion without shame (**Truth**)
+- Future-oriented patience that resists despair (**Hope**)
 - Consent, safeguarding, and proportionality
 - Accountable communal processes (when harm affects others)
 - Time, rest, and embodied grounding
@@ -40,6 +41,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - Pathways opened for repentance and repair (**Metanoia**, **Confession**)
 - Reduced confusion and moral fog
 - Reality-aligned clarity that resists denial and bypass (**Truth**)
+- Perseverance in repair without despair (**Hope**)
 - Safer, more truthful communion
 
 ---
@@ -77,6 +79,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - Public exposure is not a virtue; privacy and dignity are protective goods.
 - Truth-telling must protect consent and never be used to shame or control.
 - Discipline is restorative, not retributive; it aims at repair and protection.
+- If judgement language increases despair or urgency, return to **Hope**, **Prayer**, and patient accompaniment.
 
 ---
 

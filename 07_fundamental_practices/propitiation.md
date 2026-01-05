@@ -6,7 +6,7 @@ Propitiation is the relational-field healing effect of the Cross that clears fea
 ---
 
 ## Formal Operator
-Propitiation is the field-healing operator, clarified by **Truth**, that reduces distortion in the relational field, damps fear–shame loops, and increases communion bandwidth, stabilising coherence and relational safety.
+Propitiation is the field-healing operator, clarified by **Truth** and stabilised by **Hope**, that reduces distortion in the relational field, damps fear–shame loops, and increases communion bandwidth, stabilising coherence and relational safety.
 
 D_field ↓, (fear ⟳ shame ⟳ accusation) damping, P_bandwidth ↑, Safety_coherence ↑
 
@@ -20,6 +20,7 @@ Analogically: Christ’s cruciform love clears the field of fear and accusation 
 - Reality-aligned naming of distortion without shame (**Truth**)
 - Consent to receive mercy and safety (never coerced)
 - Pastoral care, time, and embodied gentleness
+- Future-stability that makes safe return possible (**Hope**)
 
 ---
 
@@ -30,6 +31,7 @@ Analogically: Christ’s cruciform love clears the field of fear and accusation 
 - Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Stabilised coherence under pressure
 - Opened flow of grace and peace (**Grace**, **Peace / Eirene**)
+- Perseverance in safe re-approach without despair (**Hope**)
 
 ---
 
@@ -66,6 +68,7 @@ Analogically: Christ’s cruciform love clears the field of fear and accusation 
 - Fear, shame, and coercion are incompatible with propitiation.
 - Reconciliation never overrides consent, safety, or justice.
 - If this teaching increases fear or collapse, return to rest, gentle prayer, and pastoral support.
+- If hope collapses into urgency, return to **Hope** and patient care.
 
 ---
 

@@ -6,7 +6,7 @@ Sacrifice is freely offered self-giving love that, in Christ, restores communion
 ---
 
 ## Formal Operator
-Grounded in **Love (Agape)**, **Truth**, and shaped by **Atonement**, sacrifice is a voluntary self-gift that reduces ego-noise, enriches the relational field, and propagates coherence into communal life without violating consent or safety.
+Grounded in **Love (Agape)**, **Truth**, and shaped by **Atonement**, and stabilised by **Hope**, sacrifice is a voluntary self-gift that reduces ego-noise, enriches the relational field, and propagates coherence into communal life without violating consent or safety.
 
 Sₛ (voluntary self-gift in agape) → Ego_noise ↓, Field_coherence ↑, Koinonia_flow ↑
 
@@ -21,6 +21,7 @@ In analogical terms: a person offers themselves in truthful love, thereby wideni
 - Reality-aligned naming of limits and consent (**Truth**)
 - A concrete offering: time, attention, resources, service, or patience
 - Christ’s pattern of self-gift (the Cross as criterion)
+- Future-stability that allows sustained generosity (**Hope**)
 
 ---
 
@@ -31,6 +32,7 @@ In analogical terms: a person offers themselves in truthful love, thereby wideni
 - Reality-aligned clarity that resists coercion or denial (**Truth**)
 - Shared peace (eirēnē) through truthful love under pressure
 - Witness to Christ’s atoning self-gift without coercion
+- Perseverance in self-giving without burnout (**Hope**)
 
 ---
 
@@ -67,6 +69,7 @@ In analogical terms: a person offers themselves in truthful love, thereby wideni
 - Truth-telling must protect consent and never become coercive exposure or self-erasure.
 - No sacrifice may be demanded to keep someone unsafe, silent, or without care.
 - If sacrifice language increases fear, shame, or pressure, return to rest, support, and simple prayer.
+- If giving becomes urgent or despairing, return to **Hope** and gentle pacing.
 
 ---
 

@@ -6,7 +6,7 @@ Discernment (diakrisis) is merciful truth-separation in love that clarifies what
 ---
 
 ## Formal Operator
-Discernment is a truth-separating, distortion-sensing, boundary-forming operator, grounded in **Truth**, that protects the vulnerable and opens new convergence paths without condemnation.
+Discernment is a truth-separating, distortion-sensing, boundary-forming operator, grounded in **Truth** and stabilised by **Hope**, that protects the vulnerable and opens new convergence paths without condemnation.
 
 D(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - truth-separation: life-giving patterns distinguished from distorting patterns
@@ -28,6 +28,7 @@ As a refinement of **Judgement (Krisis)**, **Metanoia**, **Nepsis**, and **Sanct
 - The human system H = (G, L, P, A)
 - Prayerful illumination and mercy (**Prayer**, **Mercy**)
 - Reality-alignment and distortion exposure (**Truth**)
+- Patient endurance and non-collapse under delay (**Hope**)
 - Consent, safeguarding, and proportionate scope
 - Communal reference field (**Scripture**, trusted elders, shared truth)
 - Time, rest, and embodied grounding
@@ -40,6 +41,7 @@ As a refinement of **Judgement (Krisis)**, **Metanoia**, **Nepsis**, and **Sanct
 - Safer boundaries for action, speech, and relationship
 - Opened paths for repentance and repair
 - Clearer reality-aligned naming that resists denial and bypass (**Truth**)
+- Perseverance in wise waiting without despair (**Hope**)
 - Increased coherence without fear or coercion
 
 ---
@@ -76,6 +78,7 @@ As a refinement of **Judgement (Krisis)**, **Metanoia**, **Nepsis**, and **Sanct
 - Public exposure is prohibited; privacy and dignity are pastoral goods.
 - Truth must be joined to mercy so clarity does not become coercion or gaslighting.
 - If fear, pressure, or shame increases, pause and return to basic prayer and care.
+- If discernment is driving burnout or urgency, return to **Hope** and patient pacing.
 - Human discernment is partial and corrigible; it requires humility and peer review.
 
 ---

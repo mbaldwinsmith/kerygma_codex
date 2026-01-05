@@ -6,7 +6,7 @@ Conversion is the grace-opened re-orientation of the whole person toward Christ 
 ---
 
 ## Formal Operator
-Conversion is an attractor-reorientation and coherence-opening operator that turns the person toward the Logos grammar, opens participation in the gift-field of grace, and destabilises entropic basins to create new healed convergence paths.
+Conversion is an attractor-reorientation and coherence-opening operator, stabilised by **Hope**, that turns the person toward the Logos grammar, opens participation in the gift-field of grace, and destabilises entropic basins to create new healed convergence paths.
 
 Conversion: H → H′ where A → A′, alignment_toward_ℒ ↑, basin_entropy ↓, σ ↑
 
@@ -31,6 +31,7 @@ As a refinement of core operators and practices:
 - Honest recognition of misalignment without shame (**Conscience / Synderesis**)
 - Safe community support and pastoral care (where available)
 - Time, privacy, and pacing appropriate to the person’s history
+- Future-stability that allows gradual turning (**Hope**)
 
 ---
 
@@ -40,6 +41,7 @@ As a refinement of core operators and practices:
 - Destabilised entropic attractors and opened paths to healed convergence
 - Increased capacity for truthful love under pressure
 - Willingness to enter baptismal and communal life without coercion (**Baptism**, **Koinonia**)
+- Perseverance in the new orientation without burnout (**Hope**)
 
 ---
 
@@ -75,6 +77,7 @@ As a refinement of core operators and practices:
 - Conversion is not a proof of worthiness or a gatekeeping metric.
 - Pastoral follow-through is required; no “one-and-done” events.
 - If conversion language increases fear, shame, or pressure, return to gentle prayer, rest, and grounded care.
+- If urgency or despair appears, return to **Hope** and slower pacing.
 
 ---
 

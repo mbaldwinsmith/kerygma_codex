@@ -6,7 +6,7 @@ Grace is God’s freely given gift of love and belonging that comes *before* any
 ---
 
 ## Formal Operator  
-Grounded in **Atonement** (cruciform repair) and expressed through **Truth**, grace is the primary gift-field operator that initiates and sustains all healing and growth by giving belonging, safety, and divine initiative before performance.
+Grounded in **Atonement** (cruciform repair), stabilised by **Hope**, and expressed through **Truth**, grace is the primary gift-field operator that initiates and sustains all healing and growth by giving belonging, safety, and divine initiative before performance.
 
 Grace_field ⟂ merit → H = (G, L, P, A) anchored in gift
 
@@ -26,6 +26,7 @@ It grounds **Justification** (belonging before behaviour), enables **Metanoia** 
 - Consent to receive gift without proving worth  
 - Time, rest, and pastoral safety  
 - Reality-aligned naming without fear (**Truth**)  
+- Long-arc patience that keeps healing from collapse (**Hope**)  
 - Weakness, need, and ordinary humanity
 
 ---
@@ -37,6 +38,7 @@ It grounds **Justification** (belonging before behaviour), enables **Metanoia** 
 - Increased trust and relational safety  
 - Stabilised peace as healed coherence (**Peace / Eirene**)  
 - Release from merit ladders and spiritual bargaining  
+- Perseverance in slow growth without despair (**Hope**)  
 - A wider space for prayer, healing, and repair
 
 ---
@@ -73,6 +75,7 @@ It grounds **Justification** (belonging before behaviour), enables **Metanoia** 
 - Confession is not payment; forgiveness is not a transaction.  
 - Truth-telling is mercy-protected, never coerced or shaming.  
 - If grace-language increases fear, shame, or pressure, return to rest and safety.
+- If urgency or burnout appears, return to **Hope** and gentle pacing.
 
 ---
 

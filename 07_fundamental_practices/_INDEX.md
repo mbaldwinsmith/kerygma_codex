@@ -43,6 +43,7 @@ This is a garden of chapels, not a rulebook.
 | Grace | `grace.md` |
 | Hamartia (Sin) | `hamartia_sin.md` |
 | Hesychia (Stillness) | `hesychia.md` |
+| Hope (Elpis) | `hope.md` |
 | Icon | `icon.md` |
 | Incarnation | `incarnation.md` |
 | Judgement (Krisis) | `judgement_krisis.md` |

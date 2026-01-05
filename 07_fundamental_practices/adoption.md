@@ -4,7 +4,7 @@
 Adoption is God’s act of naming and receiving persons into filial belonging in Christ, granting stable identity, inheritance, and intimate access without merit.
 
 ### Formal Operator
-Adoption is a relational-identity anchoring operator, grounded in **Truth**, that stabilises Ground in named belonging, opens filial access to God, and replaces orphaned identity loops with secure attachment in Christ.
+Adoption is a relational-identity anchoring operator, grounded in **Truth** and stabilised by **Hope**, that stabilises Ground in named belonging, opens filial access to God, and replaces orphaned identity loops with secure attachment in Christ.
 
 G → G₍named belonging₎,  filial_access ↑,  orphan_loops ↓,  secure_attachment ↑
 
@@ -21,6 +21,7 @@ Adoption refines:
 - The Spirit of adoption who witnesses to belonging
 - Reality-aligned naming of identity and safety (**Truth**)
 - Consent to receive belonging without merit (**Grace**)
+- Long-arc patience for attachment to form (**Hope**)
 - Safe pastoral context, time, and rest
 
 ### Outputs
@@ -31,6 +32,7 @@ Adoption refines:
 - Secure attachment patterns that support trustful dependence
 - Stabilised peace in filial belonging (**Peace / Eirene**)
 - Participation in Koinonia as family communion (**Koinonia**)
+- Perseverance in belonging across setbacks (**Hope**)
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -60,6 +62,7 @@ Adoption refines:
 - Truth-telling must protect consent and never become coercive exposure.
 - Threat, exile, or shaming violates the Cross and cannot name God’s fatherhood.
 - Institutional loyalty is not filial belonging; the family is Christ-shaped and safe.
+- If attachment feels rushed or forced, return to **Hope** and slower pacing.
 
 ### What it looks like in practice
 - Naming persons as beloved children without merit or prerequisites

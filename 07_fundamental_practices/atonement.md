@@ -6,7 +6,7 @@ Atonement is the cruciform repair of distorted reality in which Christ absorbs d
 ---
 
 ## Formal Operator
-Grounded in the **Incarnation**, **Truth**, and as a refinement of **Sacrifice**, atonement is the cruciform repair operator that absorbs distortion into truthful love, re-couples fractured communion, and restores coherence without bypassing suffering.
+Grounded in the **Incarnation**, **Truth**, and as a refinement of **Sacrifice**, and stabilised by **Hope**, atonement is the cruciform repair operator that absorbs distortion into truthful love, re-couples fractured communion, and restores coherence without bypassing suffering.
 
 D (distortion) + Cross-shaped love → D′ (transmuted),  H → H′,  Field_coherence ↑ (without retaliation)
 
@@ -21,6 +21,7 @@ In analogical terms: Christ bears distortion without retaliation, reopens commun
 - Reality-aligned naming of distortion and harm (**Truth**)
 - Consent to be reconciled (never coerced)
 - Time, safety, and pastoral care
+- Long-arc patience for repair (**Hope**)
 
 ---
 
@@ -31,6 +32,7 @@ In analogical terms: Christ bears distortion without retaliation, reopens commun
 - Stabilised identity in mercy rather than accusation (**Mercy**)
 - Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Opened pathways for ongoing repair and formation (**Sanctification**)
+- Perseverance in reconciliation without despair (**Hope**)
 
 ---
 
@@ -67,6 +69,7 @@ In analogical terms: Christ bears distortion without retaliation, reopens commun
 - Truth-telling must protect consent and never become coerced reconciliation or exposure.
 - Reconciliation never overrides boundaries, justice, or safeguarding.
 - If atonement language increases fear, shame, or pressure, return to rest, pastoral care, and consent.
+- If urgency or despair rises, return to **Hope** and patient accompaniment.
 
 ---
 

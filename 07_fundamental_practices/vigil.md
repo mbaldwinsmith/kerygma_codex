@@ -15,6 +15,7 @@ As a refinement of **Faith**, **Nepsis**, **Prayer**, and **Hope**, Vigil sustai
 - Time, darkness, or unresolved waiting
 - A gentle prayer anchor (**Scripture**, breath prayer, simple presence)
 - Reality-aligned naming of delay and pain (**Truth**)
+- Future-stability that resists despair (**Hope**)
 - Awareness of bodily limits and care needs
 - The human system H = (G, L, P, A)
 
@@ -26,6 +27,7 @@ As a refinement of **Faith**, **Nepsis**, **Prayer**, and **Hope**, Vigil sustai
 - Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Increased signal-to-noise ratio (σ) under pressure
 - Strengthened perseverance in **Faith** and **Prayer**
+- A safer sense of time that prevents burnout (**Hope**)
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -54,6 +56,7 @@ As a refinement of **Faith**, **Nepsis**, **Prayer**, and **Hope**, Vigil sustai
 - Truth-telling must protect consent and never become pressured disclosure.
 - If vigilance harms the body or intensifies anxiety, shorten the practice or stop.
 - The practice yields to medical care, therapy, and safety needs without shame.
+- If delay increases hopelessness, return to **Hope** and communal support.
 
 ### What it looks like in practice
 - A short, gentle prayer in the night without forcing wakefulness

@@ -6,7 +6,7 @@ Apostolicity is the Church’s participation in Christ’s sending — a living 
 ---
 
 ## Formal Operator
-Grounded in **Scripture**, **Tradition**, and **Truth**, apostolicity is a transmission-and-sending coherence operator that preserves the Logos grammar (ℒ), stabilises continuity with Christ and the apostolic witness, and commissions outward healing without coercion.
+Grounded in **Scripture**, **Tradition**, and **Truth**, and stabilised by **Hope**, apostolicity is a transmission-and-sending coherence operator that preserves the Logos grammar (ℒ), stabilises continuity with Christ and the apostolic witness, and commissions outward healing without coercion.
 
 Apos(H₁…Hₙ, reference_field, sending) : {Hᵢ} → {Hᵢ′}
 
@@ -34,6 +34,7 @@ Apostolicity refines and stabilises:
 - Reality-aligned naming of drift and distortion (**Truth**)
 - Accountable sending processes with consent and safeguarding
 - Willingness to name drift, distortion, and harm
+- Long-arc patience for faithful mission (**Hope**)
 
 ---
 
@@ -44,6 +45,7 @@ Apostolicity refines and stabilises:
 - Resilience against drift, distortion, and private gospels
 - Reality-aligned witness that protects consent and conscience (**Truth**)
 - Strengthened communal trust in the public Gospel (**Koinonia**)
+- Perseverance in mission without burnout (**Hope**)
 
 ---
 
@@ -79,6 +81,7 @@ Apostolicity refines and stabilises:
 - Truth-telling must be consented, merciful, and never used to coerce or silence.
 - Lineage claims must remain accountable to public witness, safeguarding, and the Cross.
 - Any increase in pressure, fear, or harm triggers a return to safeguarding and repair.
+- If urgency or despair appears, return to **Hope** and patient pacing.
 
 ---
 

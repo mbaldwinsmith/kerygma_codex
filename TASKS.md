@@ -17,6 +17,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Draft Propitiation (Ἱλασμός / Propitiatio) as a Fundamental Practice term.
 - [x] Draft Incarnation (Ἐνανθρώπησις / Incarnatio) as a Fundamental Practice term.
 - [x] Draft Faith (Πίστις / Fides) as a Fundamental Practice term.
+- [x] Draft Hope (Ἐλπίς / Spes) as a Fundamental Practice term.
 - [x] Draft Adoption (Υἱοθεσία / Adoptio) as a Fundamental Practice term.
 - [x] Draft Conversion (Μεταστροφή / Conversio) as a Fundamental Practice term.
 - [x] Draft Regeneration (παλιγγενεσία / Regeneratio) as a Fundamental Practice term.
@@ -253,3 +254,10 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 - [x] Draft `07_fundamental_practices/truth.md`.
 - [x] Integrate Truth cross-references across discernment, authority, formation, and salvation practice files.
+
+---
+
+## Hope Integration Pass (Fundamental Practices)
+
+- [x] Draft `07_fundamental_practices/hope.md`.
+- [x] Integrate Hope cross-references across formation, sacramental, and repair practice files.

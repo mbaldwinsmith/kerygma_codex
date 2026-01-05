@@ -6,7 +6,7 @@ Mercy is God’s active, compassionate movement toward wounded creation that pro
 ---
 
 ## Formal Operator
-Mercy is a protective-healing field operator, grounded in **Truth**, that lowers shame and fear noise, stabilises Ground in safety, and preserves dignity under exposure of truth so confession, repentance, and restoration can occur.
+Mercy is a protective-healing field operator, grounded in **Truth** and stabilised by **Hope**, that lowers shame and fear noise, stabilises Ground in safety, and preserves dignity under exposure of truth so confession, repentance, and restoration can occur.
 
 M(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - shame_noise ↓
@@ -32,6 +32,7 @@ As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis
 - Reality-aligned naming without coercion (**Truth**)
 - Truth held in gentleness and accountability (**Judgement/Krisis**)
 - Time, rest, and embodied grounding
+- Long-arc patience for repair (**Hope**)
 
 ---
 
@@ -42,6 +43,7 @@ As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis
 - Preserved dignity under truthful exposure
 - Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Safer communal coherence and protected communion
+- Perseverance in repair without despair (**Hope**)
 
 ---
 
@@ -78,6 +80,7 @@ As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis
 - Mercy refuses both cruelty and permissiveness.
 - Restoration requires safety, time, and appropriate boundaries.
 - Reconciliation is never coerced; it is consented, paced, and protective.
+- If mercy is used to rush reconciliation, return to **Hope** and slower pacing.
 
 ---
 

@@ -4,7 +4,7 @@
 Justification is God’s gift of belonging that anchors identity in grace before performance, stabilising the Ground layer for truthful love under pressure.
 
 ### Formal Operator
-Grounded in **Grace**, **Truth**, and secured by **Atonement**, justification is a Ground-anchoring operator that resets identity in grace apart from merit, establishing belonging as gift and not achievement.
+Grounded in **Grace**, **Truth**, and secured by **Atonement**, and stabilised by **Hope**, justification is a Ground-anchoring operator that resets identity in grace apart from merit, establishing belonging as gift and not achievement.
 
 G → G₍anchored in grace₎,  belonging ↑,  shame_noise ↓
 
@@ -16,6 +16,7 @@ As a refinement and stabiliser of **Metanoia** and **Sanctification**, Justifica
 - Reception of grace as gift (not earned)
 - Consent to be held by God without performance
 - Reality-aligned naming without fear (**Truth**)
+- Future-stability that resists despair in the long arc (**Hope**)
 - Pastoral safety, time, and rest
 
 ### Outputs
@@ -26,6 +27,7 @@ As a refinement and stabiliser of **Metanoia** and **Sanctification**, Justifica
 - Stable belonging that supports ongoing formation
 - Stabilised peace as safety in grace (**Peace / Eirene**)
 - Freedom from conditional acceptance and fear-driven striving
+- Perseverance in slow growth without performance pressure (**Hope**)
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -55,6 +57,7 @@ As a refinement and stabiliser of **Metanoia** and **Sanctification**, Justifica
 - Truth-telling must protect consent and never become coerced disclosure.
 - Coercive “worthiness” systems violate the Cross and must be refused.
 - If the language of justification increases fear, shame, or pressure, stop and return to rest, prayer, and pastoral care.
+- If urgency or burnout appears, return to **Hope** and gentle pacing.
 
 ### What it looks like in practice
 - Naming: “You are held by God even here.”

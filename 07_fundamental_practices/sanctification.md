@@ -4,7 +4,7 @@
 Sanctification is grace-led, iterative convergence toward the Christ-pattern that stabilises healed coherence over time without turning formation into a merit ladder.
 
 ### Formal Operator
-Sanctification is an iterative convergence operator in **Grace** and **Truth** that repeatedly aligns the human system with the Logos grammar, deepening stability in truthful love under pressure.
+Sanctification is an iterative convergence operator in **Grace** and **Truth**, stabilised by **Hope**, that repeatedly aligns the human system with the Logos grammar, deepening stability in truthful love under pressure.
 
 xₙ₊₁ = ℒ(xₙ),  σ (signal-to-noise ratio) ↑,  attractor_stability ↑,  coherence ↑
 
@@ -18,6 +18,7 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - Watchful sobriety (nepsis) that notices distortion without panic
 - Gentle, consented practices (ascesis) appropriate to capacity
 - Confession that is safe, voluntary, and bounded
+- Long-arc patience for slow healing (**Hope**)
 - Time, rest, and pastoral/communal support
 
 ### Outputs
@@ -28,6 +29,7 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - Deepened relational attunement to God and others
 - Stabilised peace as sustained coherence (**Peace / Eirene**)
 - A durable pattern of humble, consented growth
+- Perseverance without burnout or despair (**Hope**)
 
 ### Layer Effects
 | Layer | Δ Effect |
@@ -57,6 +59,7 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - Truth-telling must protect dignity and never become coercive exposure.
 - Shame, fear, and pressure are signals to stop, simplify, and return to grounding.
 - Sanctification never replaces safeguarding, therapy, or medical care.
+- If hope collapses, return to **Hope** and gentle pacing.
 
 ### What it looks like in practice
 - Returning to Justification when shame or fear reappears
