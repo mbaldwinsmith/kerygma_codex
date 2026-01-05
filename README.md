@@ -1,4 +1,4 @@
-# Generative Systems Theology
+# Generative Systems Codex
 
 *A cruciform, trauma-aware Christian grammar for healed human life.*
 
@@ -6,7 +6,7 @@
 
 ## What This Is
 
-**Generative Systems Theology** is a gentle but rigorous Christian framework that uses systems-science metaphor to describe salvation, formation, and Church life as **coherence repair**.
+The **Generative Systems Codex** is a gentle but rigorous Christian framework that uses systems-science metaphor to describe salvation, formation, and Church life as **coherence repair**.
 
 It models the human person as a tri-layer system:
 
