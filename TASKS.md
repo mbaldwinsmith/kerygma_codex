@@ -20,6 +20,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Draft Faith (Πίστις / Fides) as a Fundamental Practice term.
 - [x] Draft Adoption (Υἱοθεσία / Adoptio) as a Fundamental Practice term.
 - [x] Draft Conversion (Μεταστροφή / Conversio) as a Fundamental Practice term.
+- [x] Draft Regeneration (παλιγγενεσία / Regeneratio) as a Fundamental Practice term.
 - [x] Draft Mercy (Ἔλεος / Misericordia) as a Fundamental Practice term.
 - [x] Draft Predestination (Προορισμός / Praedestinatio) as a Fundamental Practice term.
 - [ ] Draft Core Operator terms as Fundamental Practices:
