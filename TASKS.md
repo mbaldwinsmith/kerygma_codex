@@ -23,12 +23,12 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Formalise core ascetical operators:
   - [x] Hesychia (Stillness)
   - [x] Ascesis (Ascetic practice)
-  - [ ] Fasting
+  - [x] Fasting
   - [ ] Vigil
   - [ ] Obedience
 - [ ] Map each to one or more Core Operators in 05_CORE_OPERATORS.md.
  - [ ] Add an ascetical grammar index to collect Phase 2 terms and cross-links.
- - [ ] Draft trauma-aware safeguards for fasting (especially eating-disorder risk).
+ - [x] Draft trauma-aware safeguards for fasting (especially eating-disorder risk).
 
 ---
 
