@@ -62,24 +62,6 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Apostolicity
   - [x] Election (Ἐκλογή / Electio)
   - [x] Priesthood (Ἱερωσύνη / Sacerdotium)
-- [ ] Draft governance and accountability patterns for delegated authority (consent, transparency, reporting, external review).
-- [ ] Draft mission-integration guidance for apostolic sending (healing, justice, and mercy in local and global contexts).
-- [ ] Draft election-and-vocation integration guidance for sent-ness, intercession, and grace-bearing beyond the community.
-- [ ] Draft hope-and-vocation integration guidance for predestination and election (open destiny, consented participation, and anti-fatalism).
-- [ ] Draft safeguards against exceptionalism in mission framing (anti-elitism, anti-nationalism, anti-exemption).
-- [ ] Draft iconography accessibility guidance (visual, tactile, low-sensory, and consent-signalled options).
-- [ ] Draft icon integration guidance for worship spaces (placement, pacing, catechesis, and optional participation).
-- [ ] Draft communal accessibility guidance for liturgical participation (sensory, neurodivergent, and disability-aware accommodations).
-- [ ] Draft attachment-healing integration guidance across practices (secure attachment, consent, pacing, and trauma-aware belonging).
-- [ ] Draft justice-and-healing integration guidance for mercy, restitution, and protection of the vulnerable in communal practice.
-- [ ] Draft transmission safeguards for doctrinal drift and private gospels (accountability, peer review, and public witness).
-- [ ] Add adoption and foster-care trauma safeguards to communal care guidance and training materials.
-- [ ] Draft conversion follow-through guidance (catechesis, accompaniment, and post-crisis support).
-- [ ] Create consent-based invitation guidance for conversion settings (privacy, pacing, and non-coercive practice).
-- [ ] Draft pastoral repair guidance for people harmed by “total depravity” preaching (re-dignification, consented teaching, trauma-aware catechesis).
-- [ ] Draft pastoral repair guidance for people harmed by inherited-guilt preaching (re-dignification, consented teaching, trauma-aware catechesis).
-- [ ] Draft baptismal catechesis integration for Original Sin (gift-field belonging, initiation into healed convergence).
-- [ ] Add Priesthood to the Fundamental Practices index and cross-link it with authority, confession, and sacramental safeguards.
 
 ---
 
@@ -91,9 +73,6 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Wisdom (Sophia)
   - [ ] Conscience
   - [ ] Spiritual Direction
-- [ ] Add pastoral misuse warnings.
-- [ ] Draft safeguarding-and-discernment integration guidance for judgement/discipline processes (consent, proportionality, due process, and trauma-aware boundaries).
-- [ ] Draft shared decision-making safeguards for communal discernment (accountability, documentation, and external review when harm is alleged).
 
 ---
 
