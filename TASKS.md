@@ -18,6 +18,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Draft Incarnation (Ἐνανθρώπησις / Incarnatio) as a Fundamental Practice term.
 - [x] Draft Faith (Πίστις / Fides) as a Fundamental Practice term.
 - [x] Draft Adoption (Υἱοθεσία / Adoptio) as a Fundamental Practice term.
+- [x] Draft Conversion (Μεταστροφή / Conversio) as a Fundamental Practice term.
 - [ ] Draft Core Operator terms as Fundamental Practices:
   - [x] Justification
   - [x] Sanctification
@@ -58,6 +59,8 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Draft attachment-healing integration guidance across practices (secure attachment, consent, pacing, and trauma-aware belonging).
 - [ ] Draft transmission safeguards for doctrinal drift and private gospels (accountability, peer review, and public witness).
 - [ ] Add adoption and foster-care trauma safeguards to communal care guidance and training materials.
+- [ ] Draft conversion follow-through guidance (catechesis, accompaniment, and post-crisis support).
+- [ ] Create consent-based invitation guidance for conversion settings (privacy, pacing, and non-coercive practice).
 
 ---
 
