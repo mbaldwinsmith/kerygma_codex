@@ -52,6 +52,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Baptism
   - [x] Eucharist
   - [x] Confession
+  - [x] Icon (Εἰκών / Icona)
   - [x] Authority
   - [x] Tradition
   - [x] Apostolicity
@@ -60,6 +61,8 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Draft mission-integration guidance for apostolic sending (healing, justice, and mercy in local and global contexts).
 - [ ] Draft election-and-vocation integration guidance for sent-ness, intercession, and grace-bearing beyond the community.
 - [ ] Draft safeguards against exceptionalism in mission framing (anti-elitism, anti-nationalism, anti-exemption).
+- [ ] Draft iconography accessibility guidance (visual, tactile, low-sensory, and consent-signalled options).
+- [ ] Draft icon integration guidance for worship spaces (placement, pacing, catechesis, and optional participation).
 - [ ] Draft communal accessibility guidance for liturgical participation (sensory, neurodivergent, and disability-aware accommodations).
 - [ ] Draft attachment-healing integration guidance across practices (secure attachment, consent, pacing, and trauma-aware belonging).
 - [ ] Draft transmission safeguards for doctrinal drift and private gospels (accountability, peer review, and public witness).
