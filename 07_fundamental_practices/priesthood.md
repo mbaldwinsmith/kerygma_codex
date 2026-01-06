@@ -49,11 +49,11 @@ Priesthood refines and stabilises:
 ---
 
 ## Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (fear, coercive dependence) |
+| Logos (L)  | ↑ | ↓ (control, truth-silencing) |
+| Presence (P) | ↑ | ↓ (abuse, relational harm) |
 
 ---
 

@@ -45,11 +45,11 @@ Incarnation grounds **Grace** (gift comes first because God has come near), **At
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (body-shame, coerced endurance) |
+| Logos (L)  | ↑ | ↓ (docetic or escapist distortion) |
+| Presence (P) | ↑ | ↓ (harm-justifying pressure) |
 
 ---
 

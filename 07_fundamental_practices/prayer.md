@@ -37,11 +37,11 @@ Sustained prayer increases coherence by reshaping attractor landscapes and stabi
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (performance anxiety, exhaustion) |
+| Logos (L)  | ↑ | ↓ (bypass, distorted meaning) |
+| Presence (P) | ↑ | ↓ (coercion, withdrawal) |
 
 ---
 

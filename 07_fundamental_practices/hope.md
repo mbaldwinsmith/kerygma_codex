@@ -38,11 +38,11 @@ As a refinement of **Metanoia**, **Sanctification**, **Vigil**, and **Mercy**, H
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (forced endurance, unsafe delay) |
+| Logos (L)  | ↑ | ↓ (denial or bypass of reality) |
+| Presence (P) | ↑ | ↓ (isolation, silenced grief) |
 
 ---
 

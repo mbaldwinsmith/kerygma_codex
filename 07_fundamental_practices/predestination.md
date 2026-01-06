@@ -51,11 +51,11 @@ Predestination is explicitly linked to:
 ---
 
 ## Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (fear, exclusion anxiety) |
+| Logos (L)  | ↑ | ↓ (fatalism, coercive distortion) |
+| Presence (P) | ↑ | ↓ (disengagement, isolation) |
 
 ---
 

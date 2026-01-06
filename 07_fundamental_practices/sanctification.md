@@ -32,11 +32,11 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - Perseverance without burnout or despair (**Hope**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (shame, performance pressure) |
+| Logos (L)  | ↑ | ↓ (legalism, distortion) |
+| Presence (P) | ↑ | ↓ (coercion, withdrawal) |
 
 ### What It Heals
 - Fragmented growth that oscillates between zeal and collapse

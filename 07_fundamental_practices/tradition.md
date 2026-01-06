@@ -50,11 +50,11 @@ Tradition refines and stabilises:
 ---
 
 ## Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (fear, coerced conformity) |
+| Logos (L)  | ↑ | ↓ (weaponised memory, distortion) |
+| Presence (P) | ↑ | ↓ (silenced dissent, withdrawal) |
 
 ---
 

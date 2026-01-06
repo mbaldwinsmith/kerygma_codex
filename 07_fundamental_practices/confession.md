@@ -43,11 +43,11 @@ As a refinement of **Justification**, **Metanoia**, and **Koinonia**, Confession
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (shame, fear, collapse) |
+| Logos (L)  | ↑ | ↓ (weaponised disclosure, distortion) |
+| Presence (P) | ↑ | ↓ (breached trust, coercion) |
 
 ---
 

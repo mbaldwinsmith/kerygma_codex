@@ -49,11 +49,11 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (shame, fear, identity collapse) |
+| Logos (L)  | ↑ | ↓ (condemnatory distortion) |
+| Presence (P) | ↑ | ↓ (coercion, public humiliation) |
 
 ---
 

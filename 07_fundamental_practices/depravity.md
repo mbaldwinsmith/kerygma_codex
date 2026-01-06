@@ -50,11 +50,11 @@ Depravity therefore refines the need for:
 ---
 
 ## Layer Effects (when named in grace)
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ (belovedness protected and clarified) |
-| Logos (L)  | ↑ (truthful naming without shame) |
-| Presence (P) | ↑ (openness to communion and repair) |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ (belovedness protected and clarified) | ↓ (shame-based collapse) |
+| Logos (L)  | ↑ (truthful naming without shame) | ↓ (despairing distortions) |
+| Presence (P) | ↑ (openness to communion and repair) | ↓ (withdrawal, fear, isolation) |
 
 ---
 

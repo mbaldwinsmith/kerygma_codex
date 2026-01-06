@@ -53,11 +53,11 @@ but the **Logos-expressed coherence of divine life and its creaturely manifestat
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (gnostic contempt for bodies) |
+| Logos (L)  | ↑ | ↓ (pantheistic or abstract distortion) |
+| Presence (P) | ↑ | ↓ (impersonal spiritualization) |
 
 (Sophia is the coherence field in which all layers become intelligible.)
 

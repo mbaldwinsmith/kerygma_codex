@@ -50,11 +50,11 @@ Original Sin therefore refines the need for:
 ---
 
 ## Layer Effects (when named in grace)
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ (belovedness safeguarded and clarified) |
-| Logos (L)  | ↑ (truthful naming without inherited-guilt shame) |
-| Presence (P) | ↑ (openness to communion and repair) |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ (belovedness safeguarded and clarified) | ↓ (shame-based collapse) |
+| Logos (L)  | ↑ (truthful naming without inherited-guilt shame) | ↓ (distortion, inherited-guilt fear) |
+| Presence (P) | ↑ (openness to communion and repair) | ↓ (withdrawal, isolation) |
 
 ---
 

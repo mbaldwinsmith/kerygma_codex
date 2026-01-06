@@ -29,11 +29,11 @@ Peace is not a “fruit” added onto coherence; it is the baseline healed state
 - A stable field in which **Discernment**, **Obedience**, and **Virtue** can mature without fear
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (forced calm, fear) |
+| Logos (L)  | ↑ | ↓ (suppressed truth, bypass) |
+| Presence (P) | ↑ | ↓ (silenced grief, withdrawal) |
 
 ### What It Heals
 - Chronic fear, hostility, and inner agitation

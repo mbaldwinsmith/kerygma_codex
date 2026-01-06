@@ -30,11 +30,11 @@ Baptism activates and stabilises the core operators by making the gift of God’
 - Perseverance in baptismal identity over time (**Hope**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (coerced initiation, shame) |
+| Logos (L)  | ↑ | ↓ (magical or transactional framing) |
+| Presence (P) | ↑ | ↓ (exclusion, status-marking) |
 
 ### What It Heals
 - Isolation and hiddenness that block communal care

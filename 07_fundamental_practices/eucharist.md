@@ -51,11 +51,11 @@ Eucharist refines and stabilises:
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (shame, exclusion, fear) |
+| Logos (L)  | ↑ | ↓ (transactional or magical framing) |
+| Presence (P) | ↑ | ↓ (coercion, fractured communion) |
 
 ---
 

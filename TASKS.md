@@ -268,3 +268,197 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 - [x] Draft `07_fundamental_practices/hope.md`.
 - [x] Integrate Hope cross-references across formation, sacramental, and repair practice files.
+
+---
+
+## Layer Effects Refactor Pass — Batch 1 (Fundamental Practices)
+
+- [x] Updated Layer Effects in:
+  - `07_fundamental_practices/adoption.md`
+  - `07_fundamental_practices/apostolicity.md`
+  - `07_fundamental_practices/ascesis.md`
+  - `07_fundamental_practices/atonement.md`
+  - `07_fundamental_practices/authority.md`
+  - `07_fundamental_practices/baptism.md`
+  - `07_fundamental_practices/confession.md`
+  - `07_fundamental_practices/conscience_synderesis.md`
+  - `07_fundamental_practices/conversion.md`
+  - `07_fundamental_practices/depravity.md`
+- [ ] Remaining for next batch:
+  - `07_fundamental_practices/discernment_diakrisis.md`
+  - `07_fundamental_practices/election.md`
+  - `07_fundamental_practices/eucharist.md`
+  - `07_fundamental_practices/faith_pistis.md`
+  - `07_fundamental_practices/fasting.md`
+  - `07_fundamental_practices/glorification.md`
+  - `07_fundamental_practices/grace.md`
+  - `07_fundamental_practices/hamartia_sin.md`
+  - `07_fundamental_practices/hesychia.md`
+  - `07_fundamental_practices/hope.md`
+  - `07_fundamental_practices/icon.md`
+  - `07_fundamental_practices/incarnation.md`
+  - `07_fundamental_practices/judgement_krisis.md`
+  - `07_fundamental_practices/justification.md`
+  - `07_fundamental_practices/koinonia_communion.md`
+  - `07_fundamental_practices/liturgy.md`
+  - `07_fundamental_practices/love_agape.md`
+  - `07_fundamental_practices/mercy.md`
+  - `07_fundamental_practices/metanoia.md`
+  - `07_fundamental_practices/mortal_sin.md`
+  - `07_fundamental_practices/nepsis.md`
+  - `07_fundamental_practices/obedience.md`
+  - `07_fundamental_practices/original_sin.md`
+  - `07_fundamental_practices/peace.md`
+  - `07_fundamental_practices/prayer.md`
+  - `07_fundamental_practices/predestination.md`
+  - `07_fundamental_practices/priesthood.md`
+  - `07_fundamental_practices/propitiation.md`
+  - `07_fundamental_practices/regeneration.md`
+  - `07_fundamental_practices/sacrifice.md`
+  - `07_fundamental_practices/sanctification.md`
+  - `07_fundamental_practices/scripture.md`
+  - `07_fundamental_practices/sophia_wisdom.md`
+  - `07_fundamental_practices/spiritual_direction.md`
+  - `07_fundamental_practices/theosis.md`
+  - `07_fundamental_practices/tradition.md`
+  - `07_fundamental_practices/truth.md`
+  - `07_fundamental_practices/vigil.md`
+  - `07_fundamental_practices/virtue_arete.md`
+- [ ] Terms requiring special theological/pastoral review:
+  - None noted in this batch.
+
+---
+
+## Layer Effects Refactor Pass — Batch 2 (Fundamental Practices)
+
+- [x] Updated Layer Effects in:
+  - `07_fundamental_practices/discernment_diakrisis.md`
+  - `07_fundamental_practices/election.md`
+  - `07_fundamental_practices/eucharist.md`
+  - `07_fundamental_practices/faith_pistis.md`
+  - `07_fundamental_practices/fasting.md`
+  - `07_fundamental_practices/glorification.md`
+  - `07_fundamental_practices/grace.md`
+  - `07_fundamental_practices/hamartia_sin.md`
+  - `07_fundamental_practices/hesychia.md`
+- [ ] Remaining for next batch:
+  - `07_fundamental_practices/hope.md`
+  - `07_fundamental_practices/icon.md`
+  - `07_fundamental_practices/incarnation.md`
+  - `07_fundamental_practices/judgement_krisis.md`
+  - `07_fundamental_practices/justification.md`
+  - `07_fundamental_practices/koinonia_communion.md`
+  - `07_fundamental_practices/liturgy.md`
+  - `07_fundamental_practices/love_agape.md`
+  - `07_fundamental_practices/mercy.md`
+  - `07_fundamental_practices/metanoia.md`
+  - `07_fundamental_practices/mortal_sin.md`
+  - `07_fundamental_practices/nepsis.md`
+  - `07_fundamental_practices/obedience.md`
+  - `07_fundamental_practices/original_sin.md`
+  - `07_fundamental_practices/peace.md`
+  - `07_fundamental_practices/prayer.md`
+  - `07_fundamental_practices/predestination.md`
+  - `07_fundamental_practices/priesthood.md`
+  - `07_fundamental_practices/propitiation.md`
+  - `07_fundamental_practices/regeneration.md`
+  - `07_fundamental_practices/sacrifice.md`
+  - `07_fundamental_practices/sanctification.md`
+  - `07_fundamental_practices/scripture.md`
+  - `07_fundamental_practices/sophia_wisdom.md`
+  - `07_fundamental_practices/spiritual_direction.md`
+  - `07_fundamental_practices/theosis.md`
+  - `07_fundamental_practices/tradition.md`
+  - `07_fundamental_practices/truth.md`
+  - `07_fundamental_practices/vigil.md`
+  - `07_fundamental_practices/virtue_arete.md`
+- [ ] Terms requiring special theological/pastoral review:
+  - None noted in this batch.
+
+---
+
+## Layer Effects Refactor Pass — Batch 3 (Fundamental Practices)
+
+- [x] Updated Layer Effects in:
+  - `07_fundamental_practices/hope.md`
+  - `07_fundamental_practices/icon.md`
+  - `07_fundamental_practices/incarnation.md`
+  - `07_fundamental_practices/judgement_krisis.md`
+  - `07_fundamental_practices/justification.md`
+  - `07_fundamental_practices/koinonia_communion.md`
+  - `07_fundamental_practices/liturgy.md`
+  - `07_fundamental_practices/love_agape.md`
+  - `07_fundamental_practices/mercy.md`
+  - `07_fundamental_practices/metanoia.md`
+- [ ] Remaining for next batch:
+  - `07_fundamental_practices/mortal_sin.md`
+  - `07_fundamental_practices/nepsis.md`
+  - `07_fundamental_practices/obedience.md`
+  - `07_fundamental_practices/original_sin.md`
+  - `07_fundamental_practices/peace.md`
+  - `07_fundamental_practices/prayer.md`
+  - `07_fundamental_practices/predestination.md`
+  - `07_fundamental_practices/priesthood.md`
+  - `07_fundamental_practices/propitiation.md`
+  - `07_fundamental_practices/regeneration.md`
+  - `07_fundamental_practices/sacrifice.md`
+  - `07_fundamental_practices/sanctification.md`
+  - `07_fundamental_practices/scripture.md`
+  - `07_fundamental_practices/sophia_wisdom.md`
+  - `07_fundamental_practices/spiritual_direction.md`
+  - `07_fundamental_practices/theosis.md`
+  - `07_fundamental_practices/tradition.md`
+  - `07_fundamental_practices/truth.md`
+  - `07_fundamental_practices/vigil.md`
+  - `07_fundamental_practices/virtue_arete.md`
+- [ ] Terms requiring special theological/pastoral review:
+  - None noted in this batch.
+
+---
+
+## Layer Effects Refactor Pass — Batch 4 (Fundamental Practices)
+
+- [x] Updated Layer Effects in:
+  - `07_fundamental_practices/mortal_sin.md`
+  - `07_fundamental_practices/nepsis.md`
+  - `07_fundamental_practices/obedience.md`
+  - `07_fundamental_practices/original_sin.md`
+  - `07_fundamental_practices/peace.md`
+  - `07_fundamental_practices/prayer.md`
+  - `07_fundamental_practices/predestination.md`
+  - `07_fundamental_practices/priesthood.md`
+  - `07_fundamental_practices/propitiation.md`
+  - `07_fundamental_practices/regeneration.md`
+- [ ] Remaining for next batch:
+  - `07_fundamental_practices/sacrifice.md`
+  - `07_fundamental_practices/sanctification.md`
+  - `07_fundamental_practices/scripture.md`
+  - `07_fundamental_practices/sophia_wisdom.md`
+  - `07_fundamental_practices/spiritual_direction.md`
+  - `07_fundamental_practices/theosis.md`
+  - `07_fundamental_practices/tradition.md`
+  - `07_fundamental_practices/truth.md`
+  - `07_fundamental_practices/vigil.md`
+  - `07_fundamental_practices/virtue_arete.md`
+- [ ] Terms requiring special theological/pastoral review:
+  - None noted in this batch.
+
+---
+
+## Layer Effects Refactor Pass — Batch 5 (Fundamental Practices)
+
+- [x] Updated Layer Effects in:
+  - `07_fundamental_practices/sacrifice.md`
+  - `07_fundamental_practices/sanctification.md`
+  - `07_fundamental_practices/scripture.md`
+  - `07_fundamental_practices/sophia_wisdom.md`
+  - `07_fundamental_practices/spiritual_direction.md`
+  - `07_fundamental_practices/theosis.md`
+  - `07_fundamental_practices/tradition.md`
+  - `07_fundamental_practices/truth.md`
+  - `07_fundamental_practices/vigil.md`
+  - `07_fundamental_practices/virtue_arete.md`
+- [ ] Remaining for next batch:
+  - None (Layer Effects refactor pass complete).
+- [ ] Terms requiring special theological/pastoral review:
+  - None noted in this batch.

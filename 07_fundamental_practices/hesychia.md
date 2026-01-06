@@ -29,11 +29,11 @@ As a refinement of **Nepsis** and **Kenosis**, Hesychia quiets reactive loops so
 - Safe, slow attentiveness that resists burnout (**Hope**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (dissociation or collapse) |
+| Logos (L)  | ↑ | ↓ (denial, bypass) |
+| Presence (P) | ↑ | ↓ (coerced silence, withdrawal) |
 
 ### What It Heals
 - Hypervigilant attention loops

@@ -40,11 +40,11 @@ Regeneration never overwrites personhood; it vivifies and heals the existing sel
 - Perseverance through slow integration (**Hope**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (identity erasure, fear) |
+| Logos (L)  | ↑ | ↓ (manipulative narratives) |
+| Presence (P) | ↑ | ↓ (coercion, relational strain) |
 
 ### What It Heals
 - Despairing collapse in which life feels unreachable or deadened

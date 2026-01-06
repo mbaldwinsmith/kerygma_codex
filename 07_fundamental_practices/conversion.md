@@ -46,11 +46,11 @@ As a refinement of core operators and practices:
 ---
 
 ## Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (pressure, fear, instability) |
+| Logos (L)  | ↑ | ↓ (manipulative narratives, false urgency) |
+| Presence (P) | ↑ | ↓ (public shaming, coercion) |
 
 ---
 

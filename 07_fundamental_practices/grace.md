@@ -45,11 +45,11 @@ It grounds **Justification** (belonging before behaviour), enables **Metanoia** 
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (insecurity, worthiness pressure) |
+| Logos (L)  | ↑ | ↓ (cheap-grace distortions) |
+| Presence (P) | ↑ | ↓ (manipulation or withdrawal) |
 
 ---
 

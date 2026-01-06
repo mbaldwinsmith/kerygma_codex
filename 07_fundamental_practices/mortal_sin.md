@@ -42,11 +42,11 @@ Analogically: this is not a legal verdict or divine anger, but a medical-relatio
 
 ## Layer Effects (when named in grace and met with repair)
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ (re-anchored in mercy, not verdict) |
-| Logos (L)  | ↑ (truthful naming breaks hardening) |
-| Presence (P) | ↑ (reopened communion capacity) |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ (re-anchored in mercy, not verdict) | ↓ (terror, shame collapse) |
+| Logos (L)  | ↑ (truthful naming breaks hardening) | ↓ (coercive condemnation) |
+| Presence (P) | ↑ (reopened communion capacity) | ↓ (isolation, exclusion) |
 
 ---
 

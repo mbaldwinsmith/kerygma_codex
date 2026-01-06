@@ -31,11 +31,11 @@ As a refinement of **Justification**, **Nepsis**, and **Ascesis**, Metanoia is a
 - Perseverance in repentance without despair (**Hope**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (shame, panic, collapse) |
+| Logos (L)  | ↑ | ↓ (scrupulosity, distortion) |
+| Presence (P) | ↑ | ↓ (coerced disclosure, withdrawal) |
 
 ### What It Heals
 - Habitual drift toward false or harmful attractors

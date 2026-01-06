@@ -49,11 +49,11 @@ As a refinement of **Grace**, **Discernment (Diakrisis)**, **Conscience**, **Met
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (dependency, fear) |
+| Logos (L)  | ↑ | ↓ (manipulation, coerced discernment) |
+| Presence (P) | ↑ | ↓ (coercion, loss of agency) |
 
 ---
 

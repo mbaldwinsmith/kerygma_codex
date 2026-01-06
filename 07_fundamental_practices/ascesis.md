@@ -28,11 +28,11 @@ As a refinement of **Sanctification**, **Nepsis**, and **Kenosis**, Ascesis appl
 - Stabilised growth in **Sanctification** and **Virtue**
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (exhaustion, shame, bodily harm) |
+| Logos (L)  | ↑ | ↓ (scrupulosity, legalism) |
+| Presence (P) | ↑ | ↓ (isolation, coercive pressure) |
 
 ### What It Heals
 - Entropic habit loops

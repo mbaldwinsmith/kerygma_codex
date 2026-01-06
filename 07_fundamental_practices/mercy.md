@@ -49,11 +49,11 @@ As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (unsafe permissiveness, fear) |
+| Logos (L)  | ↑ | ↓ (truth-suppression, bypass) |
+| Presence (P) | ↑ | ↓ (coerced reconciliation, mistrust) |
 
 ---
 

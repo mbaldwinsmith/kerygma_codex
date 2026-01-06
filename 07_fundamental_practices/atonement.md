@@ -38,11 +38,11 @@ In analogical terms: Christ bears distortion without retaliation, reopens commun
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (shame-based collapse or fear of God) |
+| Logos (L)  | ↑ | ↓ (violent or transactional distortions) |
+| Presence (P) | ↑ | ↓ (coerced reconciliation, silenced harm) |
 
 ---
 

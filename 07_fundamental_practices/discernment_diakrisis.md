@@ -48,11 +48,11 @@ As a refinement of **Judgement (Krisis)**, **Metanoia**, **Nepsis**, and **Sanct
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (anxiety, fear-driven collapse) |
+| Logos (L)  | ↑ | ↓ (suspicion or distortion) |
+| Presence (P) | ↑ | ↓ (distrust, coercive scrutiny) |
 
 ---
 

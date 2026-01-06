@@ -50,11 +50,11 @@ Liturgy refines and stabilises:
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (shame, exclusion, pressure) |
+| Logos (L)  | ↑ | ↓ (performative distortion) |
+| Presence (P) | ↑ | ↓ (coercive participation, withdrawal) |
 
 ---
 

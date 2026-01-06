@@ -50,11 +50,11 @@ Apostolicity refines and stabilises:
 ---
 
 ## Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (fear-based control or unsafe sending) |
+| Logos (L)  | ↑ | ↓ (distortion, silenced conscience) |
+| Presence (P) | ↑ | ↓ (coercive commissioning, exclusion) |
 
 ---
 

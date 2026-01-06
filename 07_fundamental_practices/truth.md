@@ -39,11 +39,11 @@ Truth refines **Judgement (Krisis)** and **Discernment (Diakrisis)**, stabilises
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (shame, fear) |
+| Logos (L)  | ↑ | ↓ (weaponised truth, distortion) |
+| Presence (P) | ↑ | ↓ (coercion, relational rupture) |
 
 ---
 

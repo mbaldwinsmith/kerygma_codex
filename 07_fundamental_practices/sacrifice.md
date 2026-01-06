@@ -38,11 +38,11 @@ In analogical terms: a person offers themselves in truthful love, thereby wideni
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (coerced self-erasure, fear) |
+| Logos (L)  | ↑ | ↓ (abuse-justifying distortions) |
+| Presence (P) | ↑ | ↓ (pressure, relational harm) |
 
 ---
 

@@ -30,11 +30,11 @@ As a refinement and stabiliser of **Metanoia** and **Sanctification**, Justifica
 - Perseverance in slow growth without performance pressure (**Hope**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | 0 |
-| Presence (P) | 0 |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (conditional belonging anxiety) |
+| Logos (L)  | 0 | ↓ (legalism or antinomian distortion) |
+| Presence (P) | 0 | ↓ (withdrawal, fear of exposure) |
 
 ### What It Heals
 - Conditional belonging and merit-based identity

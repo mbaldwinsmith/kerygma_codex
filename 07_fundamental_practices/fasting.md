@@ -28,11 +28,11 @@ As a refinement of **Ascesis**, fasting applies a consented, time-limited constr
 - Sharpened watchfulness without fear (**Nepsis**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (bodily harm, destabilisation) |
+| Logos (L)  | ↑ | ↓ (scrupulosity, shame loops) |
+| Presence (P) | ↑ | ↓ (coercion, isolation) |
 
 ### What It Heals
 - Over-attachment to comfort or appetite as primary stabiliser

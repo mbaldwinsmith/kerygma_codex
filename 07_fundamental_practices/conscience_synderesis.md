@@ -49,11 +49,11 @@ Explicit rejections:
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (anxiety, shame spirals) |
+| Logos (L)  | ↑ | ↓ (scrupulosity, distortion) |
+| Presence (P) | ↑ | ↓ (isolation, fear of disclosure) |
 
 ---
 

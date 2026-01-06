@@ -50,11 +50,11 @@ Authority refines and stabilises:
 ---
 
 ## Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (fear, instability, unsafe boundaries) |
+| Logos (L)  | ↑ | ↓ (silencing, distortion of truth) |
+| Presence (P) | ↑ | ↓ (coercion, relational harm) |
 
 ---
 

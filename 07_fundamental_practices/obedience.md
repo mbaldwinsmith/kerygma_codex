@@ -34,11 +34,11 @@ As a refinement of **Faith**, **Nepsis**, **Koinonia**, and **Ascesis**, Obedien
 - Stabilised peace through consented alignment (**Peace / Eirene**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (fear, coerced compliance) |
+| Logos (L)  | ↑ | ↓ (silenced conscience) |
+| Presence (P) | ↑ | ↓ (domination, relational harm) |
 
 ### What It Heals
 - Split between conviction and action

@@ -31,11 +31,11 @@ In the Codex, naming hamartia is never identity condemnation; it is truth-tellin
 - Reduced clarity in discernment
 
 ### Layer Effects (when named in grace)
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ (when anchored in grace, not performance) |
-| Logos (L)  | ↑ (truthful naming and clarity) |
-| Presence (P) | ↑ (openness to repair and communion) |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ (when anchored in grace, not performance) | ↓ (shame-based collapse) |
+| Logos (L)  | ↑ (truthful naming and clarity) | ↓ (moral distortion, fear-driven judgement) |
+| Presence (P) | ↑ (openness to repair and communion) | ↓ (withdrawal, isolation) |
 
 ### What It Heals
 When named and surrendered in grace, hamartia opens repair of:

@@ -37,11 +37,11 @@ Analogically: Christ’s cruciform love clears the field of fear and accusation 
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (fear, shame collapse) |
+| Logos (L)  | ↑ | ↓ (transactional distortion) |
+| Presence (P) | ↑ | ↓ (coerced reassurance, withdrawal) |
 
 ---
 

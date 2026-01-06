@@ -35,11 +35,11 @@ Agape stabilises and propagates healed attractor landscapes across relational fi
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (self-erasure, unsafe attachment) |
+| Logos (L)  | ↑ | ↓ (bypassed truth or gaslighting) |
+| Presence (P) | ↑ | ↓ (coercion, emotional extraction) |
 
 ---
 

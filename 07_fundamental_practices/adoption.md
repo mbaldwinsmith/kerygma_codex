@@ -35,11 +35,11 @@ Adoption refines:
 - Perseverance in belonging across setbacks (**Hope**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (conditional belonging, abandonment fear) |
+| Logos (L)  | ↑ | ↓ (shame-based identity distortions) |
+| Presence (P) | ↑ | ↓ (coerced attachment or exclusion) |
 
 ### What It Heals
 - Orphaned identity patterns and conditional belonging

@@ -47,11 +47,11 @@ Faith grounds and activates the core flow of salvation as participation:
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (fear, performance pressure) |
+| Logos (L)  | ↑ | ↓ (gaslighting, coerced certainty) |
+| Presence (P) | ↑ | ↓ (exclusion, relational withdrawal) |
 
 ---
 

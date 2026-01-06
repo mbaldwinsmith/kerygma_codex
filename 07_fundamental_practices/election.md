@@ -45,11 +45,11 @@ Election refines:
 ---
 
 ## Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (status anxiety, superiority narratives) |
+| Logos (L)  | ↑ | ↓ (exclusionary distortions) |
+| Presence (P) | ↑ | ↓ (isolation, diminished communion) |
 
 ---
 

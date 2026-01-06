@@ -34,11 +34,11 @@ Scripture provides a stable convergence coordinate that protects discernment fro
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (fear, shame) |
+| Logos (L)  | ↑ | ↓ (weaponised distortion) |
+| Presence (P) | ↑ | ↓ (coercion, exclusion) |
 
 ---
 

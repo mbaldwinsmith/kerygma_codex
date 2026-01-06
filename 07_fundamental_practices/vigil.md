@@ -30,11 +30,11 @@ As a refinement of **Faith**, **Nepsis**, **Prayer**, and **Hope**, Vigil sustai
 - A safer sense of time that prevents burnout (**Hope**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (sleep deprivation, collapse) |
+| Logos (L)  | ↑ | ↓ (scrupulosity, fear loops) |
+| Presence (P) | ↑ | ↓ (coerced endurance, withdrawal) |
 
 ### What It Heals
 - Collapse into despair when answers are delayed

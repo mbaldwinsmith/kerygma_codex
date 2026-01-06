@@ -47,11 +47,11 @@ Theosis is always mediated in Christ and given by grace; it is participation, no
 - Perseverance in the long arc of participation (**Hope**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (identity erasure, fear) |
+| Logos (L)  | ↑ | ↓ (guru distortions, elitism) |
+| Presence (P) | ↑ | ↓ (coerced intimacy, boundary loss) |
 
 ### What It Heals
 - Separation framed as distance from God that breeds shame or despair

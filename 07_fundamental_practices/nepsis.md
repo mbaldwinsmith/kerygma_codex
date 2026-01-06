@@ -31,11 +31,11 @@ As a refinement of **Metanoia**, **Kenosis**, and **Ascesis**, Nepsis protects t
 - Perseverance in watchfulness without burnout (**Hope**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | 0 |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | 0 | ↓ (anxiety, hypervigilance) |
+| Logos (L)  | ↑ | ↓ (scrupulosity, fear loops) |
+| Presence (P) | ↑ | ↓ (withdrawal, mistrust) |
 
 ### What It Heals
 - Fragmented attention that feeds compulsive loops

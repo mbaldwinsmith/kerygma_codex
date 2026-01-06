@@ -30,11 +30,11 @@ As a refinement of **Sanctification** (iterative stabilisation), **Ascesis** (ge
 - Stabilised peace in the interior field (**Peace / Eirene**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (shame, performance pressure) |
+| Logos (L)  | ↑ | ↓ (legalism, distortion) |
+| Presence (P) | ↑ | ↓ (surveillance, withdrawal) |
 
 ### What It Heals
 - Unstable or brittle moral responses

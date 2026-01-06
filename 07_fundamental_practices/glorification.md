@@ -35,11 +35,11 @@ Glorification completes sanctifying convergence, perfects participation, and sta
 - Future-stability that secures the long arc (**Hope**)
 
 ### Layer Effects
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑↑ |
-| Logos (L)  | ↑↑ |
-| Presence (P) | ↑↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑↑ | ↓ (escapism or denial of embodied life) |
+| Logos (L)  | ↑↑ | ↓ (bypass of justice and truth-telling) |
+| Presence (P) | ↑↑ | ↓ (disengagement from suffering others) |
 
 ### What It Heals
 - Final residues of distortion, fragmentation, and fear

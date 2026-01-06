@@ -34,11 +34,11 @@ Veneration honours presence and memory through the sign; idolatry treats the sig
 
 ## Layer Effects
 
-| Layer | Δ Effect |
-|------|---------|
-| Ground (G) | ↑ |
-| Logos (L)  | ↑ |
-| Presence (P) | ↑ |
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (shame, coercion, exclusion) |
+| Logos (L)  | ↑ | ↓ (magical distortion or superstition) |
+| Presence (P) | ↑ | ↓ (forced veneration, withdrawal) |
 
 ---
 
