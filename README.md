@@ -1,12 +1,13 @@
-# Generative Systems Codex
+# kerygma Codex
 
-*A cruciform, trauma-aware Christian grammar for healed human life.*
+*A cruciform, trauma-aware grammar of Christian formation and communal repair
+written in analogical systems language*
 
 ---
 
 ## What This Is
 
-The **Generative Systems Codex** is a gentle but rigorous Christian framework that uses systems-science metaphor to describe salvation, formation, and Church life as **coherence repair**.
+The **Kerygma Codex** is a gentle but rigorous Christian framework that uses systems-science metaphor to describe salvation, formation, and Church life as **coherence repair**.
 
 It models the human person as a tri-layer system:
 
