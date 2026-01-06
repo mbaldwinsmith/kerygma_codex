@@ -73,7 +73,46 @@ No work is considered complete until **TASKS.md** has been updated.
   (no spaces, punctuation, emojis, or non-Latin characters in filenames; Greek/Latin remains inside the document).
 - Fundamental Practices must be written as individual files inside `07_fundamental_practices/` using the canonical naming convention.
 
+### Layer Effects Convention (Required)
 
+All Codex term entries must make the Layer Effects section informative, not decorative.
+
+Because most practices tend to raise coherence when used well, the table must not default to G↑ / L↑ / P↑ without qualification.
+
+Each entry must use one of the following three valid forms:
+
+Option A — Dual-mode (preferred)
+### Layer Effects
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ |
+| Logos (L)  | ↑ | 0 |
+| Presence (P) | ↑ | ↓ |
+
+
+This explicitly encodes pastoral risk and guardrails.
+
+Option B — Mixed baseline
+
+At least one layer must be 0 or conditionally mixed:
+
+| Ground (G) | ↑ |
+| Logos (L)  | 0 |
+| Presence (P) | ↑ |
+
+
+With a short explanatory note.
+
+Option C — Conditional note
+| Ground (G) | ↑ |
+| Logos (L)  | ↑ |
+| Presence (P) | ↑ |
+
+> ↑ in healthy, consented use; can ↓ if misused (see Misuse-Prevention Notes).
+
+
+No Codex entry may use unqualified ↑/↑/↑ without one of the above safeguards.
+The table must carry real pastoral and systems information, not merely symbolic affirmation.
 
 ---
 
