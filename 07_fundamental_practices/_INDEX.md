@@ -43,6 +43,7 @@ This is a garden of chapels, not a rulebook.
 | Glorification | `glorification.md` |
 | Grace | `grace.md` |
 | Hamartia (Sin) | `hamartia_sin.md` |
+| Heaven | `heaven.md` |
 | Hesychia (Stillness) | `hesychia.md` |
 | Hope (Elpis) | `hope.md` |
 | Icon | `icon.md` |
