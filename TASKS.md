@@ -102,7 +102,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [ ] Governance, justice, and advocacy
   - [ ] Pastoral & ecclesial service
   - [x] Periods of illness, unemployment, and hidden life
-  - [ ] Rest, Sabbath, and limits
+  - [x] Rest, Sabbath, and limits
 - [ ] Define coherence, justice, safeguarding, and anti-burnout implications *within* vocation.
 - [ ] Define Work as daily vocational participation inside `vocation.md`.
 
