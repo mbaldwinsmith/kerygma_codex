@@ -114,7 +114,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Death
   - [x] Resurrection
   - [x] Heaven
-  - [ ] Hell
+  - [x] Hell
   - [ ] New Creation
 - [ ] Draft eschatology integration notes across core operators (atonement, theosis, koinonia, sophia) for coherent final-hope language.
 
