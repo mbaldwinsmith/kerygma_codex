@@ -91,6 +91,7 @@ Vocation is not a destiny script or performance ladder. It is received belonging
 - Roles are adjusted when life circumstances change (illness, caregiving, capacity shifts).
 - Service is sized for sustainability, not for heroics.
 - Communities bless both stepping into and stepping back from roles.
+- Hidden, domestic, caregiving, and unseen lives are affirmed as full vocations.
 
 ---
 
@@ -103,7 +104,7 @@ Vocation is not a destiny script or performance ladder. It is received belonging
 ---
 
 ## Fails the Cross If…
-Vocation is used to prove holiness through suffering, to treat burnout as obedience, to equate pressure with God’s will, or to collapse identity into role rather than cruciform love under pressure.
+Vocation is used to prove holiness through suffering, to treat burnout as obedience, to equate pressure with God’s will, or to collapse identity into role rather than cruciform love under pressure that remains governed by Peace (Eirene).
 
 ---
 
@@ -114,3 +115,4 @@ Vocation is used to prove holiness through suffering, to treat burnout as obedie
 - Trauma history and embodied limits guide scope and timing.
 - The vulnerable are shielded from institutional pressure and manipulation.
 - Spiritual direction and communal discernment are offered, never imposed.
+- Declining a role is not disobedience; it may be faithful discernment.
