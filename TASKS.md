@@ -112,7 +112,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Formalise:
   - [x] Suffering
   - [x] Death
-  - [ ] Resurrection
+  - [x] Resurrection
   - [ ] Heaven
   - [ ] Hell
   - [ ] New Creation
