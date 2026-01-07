@@ -47,6 +47,59 @@ Vocation is not a destiny script or performance ladder. It is received belonging
 
 ---
 
+## Work (Ἔργον / Labor)
+
+### Formal Operator (Work)
+Work is a micro-ecology operator that stabilises vocation through concrete, repeatable acts of provision, service, and participation in communal repair. It is grounded in **Grace**, governed by **Peace**, and stabilised in **Koinonia** as a subordinate expression of **Vocation**, never an independent identity engine.
+
+W ⊂ V: W(H, E, t) → (H′, E′) where
+- daily micro-convergence: small, repeatable faithfulness rather than heroic output
+- entropy-reduction: provision and care dampen fragmentation in the local repair ecology
+- non-competitive participation: contribution without rivalry, status, or scarcity logic
+- dignity detached from productivity: worth remains anchored in grace and justification
+- consented pacing: work is sized to capacity, rest, and Sabbath rhythms
+
+### Inputs (Work)
+- Embodied limits and creaturely finitude
+- Consent and freedom from coercion
+- Energy capacity and recovery bandwidth
+- Life season and changing responsibilities
+- Caregiving / illness / unemployment / disability realities
+- Real-world constraint awareness (finances, schedules, access)
+- Community confirmation and shared wisdom (**Koinonia**, **Discernment**, **Conscience**)
+- Grounding in **Grace** and **Peace** with support from **Spiritual Direction**
+
+### Outputs (Work)
+- Dignified participation without performance pressure
+- Material provision and shared care
+- Contribution to the repair ecology
+- Reduced shame and comparison anxiety
+- Increased communal resilience and mutual support (**Koinonia**)
+- Protection of rest and Sabbath rhythms (**Peace**)
+- Incremental sanctifying stability through daily faithfulness (**Sanctification**)
+
+### Layer Effects (Work)
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ | ↓ (worth collapse into productivity) |
+| Logos (L)  | ↑ | ↓ (hustle theology, merit logic) |
+| Presence (P) | ↑ | ↓ (burnout, commodification of self) |
+
+### Misuse-Prevention (Critical)
+- Rejects hustle culture, productivity righteousness, and prosperity theology.
+- Rejects identity = job and any shame toward unemployment or underemployment.
+- Rejects coercive labour expectations and spiritualised burnout.
+- Affirms unemployment does not reduce dignity.
+- Affirms rest is not laziness; Sabbath is obedience to Peace.
+- Affirms withdrawal from harmful labour can be faithful, not failure.
+- Keeps Work subordinated to Vocation and bounded by **Grace**, **Mercy**, and **Conscience**.
+- Returns discernment to **Peace**, **Discernment**, and **Spiritual Direction** when pressure rises.
+
+### Safeguarding (Work)
+Work is consented, paced, reversible, and adaptable to illness, disability, trauma, caregiving, and economic instability. It is never institutionally coercive and must be re-evaluated in light of **Grace**, **Mercy**, **Koinonia**, and **Peace**.
+
+---
+
 ## Layer Effects
 
 | Layer | Healthy use | Misuse mode |

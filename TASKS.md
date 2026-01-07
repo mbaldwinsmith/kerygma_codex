@@ -88,6 +88,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 ## Phase 5 — Public Life & Vocation
 
 - [x] Draft Vocation (Κλῆσις / Vocatio) as the ontological root of public life.
+- [x] Integrate Work (Ἔργον / Labor) as a subordinate vocational operator within `vocation.md`.
 - [x] Draft Marriage (Γάμος / Matrimonium) as a vocational form.
 - [x] Draft Celibacy (Ἀγαμία / Caelibatus) as a vocational form.
 - [ ] Expand `vocation.md` with **Domains of Vocational Expression**, including:
