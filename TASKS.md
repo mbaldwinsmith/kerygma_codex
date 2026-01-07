@@ -99,7 +99,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Periods of illness, unemployment, and hidden life
   - [x] Rest, Sabbath, and limits
   - [x] Study, scholarship, and formation
-  - [ ] Artistic / cultural creation
+  - [x] Artistic / cultural creation
   - [ ] Manual / craft labour
   - [ ] Governance, justice, and advocacy
   - [ ] Pastoral & ecclesial service

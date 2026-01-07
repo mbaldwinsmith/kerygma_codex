@@ -382,6 +382,69 @@ Study is framed as suffering-through-burnout as proof of calling, humiliating pe
 
 ---
 
+### Artistic / Cultural Creation (Τέχνη / Ars)
+
+#### One-Line Definition
+Artistic vocation is a mode of truthful presence, a healing symbolic language, and a bearer of memory, hope, grief, beauty, and prophecy within God’s repair ecology — not self-promotion, monetisation pressure, or an ideological instrument.
+
+#### Formal Operator
+This domain is a symbolic-radiance and meaning-repair operator grounded in **Grace**, clarified by **Truth**, opened by **Hope**, governed by **Peace**, tempered by **Mercy**, guided by **Sophia**, stabilised in **Koinonia**, and ordered toward **Vocation** as a communal, consented participation in God’s radiance and repair.
+
+Aᵣ ⊂ V: Aᵣ(H, C, t) → (H′, E′) where
+- H = (G, L, P, A)
+- C = cultural field (stories, symbols, materials, practices, audiences)
+- Presence stabilisation: P → P′ through honest, receptive, non-performative presence
+- Logos healing: L → L′ through story, symbol, image, and song that integrate truth without violence
+- hope-pathways: opens imaginative futures that resist despair and denial (**Hope**)
+- peace-bearing: shapes shared space for safety, breathing, and mercy (**Peace**, **Mercy**)
+- communal memory: carries and repairs the moral imagination of a people (**Koinonia**)
+
+**In ordinary words:**
+Artistic vocation is not brand-building or propaganda. It is grace-led participation in God’s radiance, offering truthful symbols that heal meaning, make space for hope, and strengthen communal memory.
+
+#### Inputs
+- The human system H = (G, L, P, A)
+- Emotional truth and lived experience
+- Memory, grief, wonder, and longing
+- Cultural inheritance and local story
+- Time, space, tools, and rest
+- Safety from ridicule, extraction, or commodification
+
+#### Outputs
+- Healed symbolic language for communities
+- Beauty that restores breath and belonging
+- Truth-telling without violence
+- Communal memory repair
+- Cultural spaces of peace and mercy
+- New language for grief, hope, and longing
+
+#### Layer Effects
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ (secure identity, embodied presence) | ↓ (performance identity, exposure trauma) |
+| Logos (L)  | ↑ (symbolic truth, integration) | ↓ (ideological propaganda, distortion) |
+| Presence (P) | ↑ (radiant presence, wonder) | ↓ (self-objectification, commodification) |
+
+#### Misuse-Prevention (critical)
+- Rejects creative burnout and extraction as proof of calling.
+- Rejects platform addiction and algorithmic captivity as vocational norms.
+- Rejects spiritual bypass through aestheticisation or “beautiful denial.”
+- Rejects ideological propaganda that manipulates rather than heals.
+- Rejects monetisation pressure that overrides integrity or consent.
+- Rejects exploitation of trauma for content or visibility.
+
+#### Fails the Cross If…
+Artistic vocation narrates suffering-as-artistry, sacrifices safety for visibility, collapses worth into output, or turns beauty into control and manipulation.
+
+#### Trauma-Aware Safeguarding
+- Consent around sharing personal story and communal memory.
+- Pacing, rest, and Sabbath protection as non-negotiable.
+- Right to hide, withdraw, or keep work private.
+- Protection from ridicule, theft, and extraction.
+- Honouring embodied limits and the needs of the vulnerable.
+
+---
+
 ## Work (Ἔργον / Labor)
 
 ### Formal Operator (Work)
