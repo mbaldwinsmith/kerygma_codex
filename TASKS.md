@@ -89,7 +89,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 - [ ] Formalise:
   - [x] Vocation
-  - [ ] Marriage
+  - [x] Marriage
   - [ ] Celibacy
   - [ ] Work
   - [ ] Economics

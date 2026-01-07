@@ -51,6 +51,7 @@ This is a garden of chapels, not a rulebook.
 | Koinonia (Communion–Fellowship) | `koinonia_communion.md` |
 | Liturgy | `liturgy.md` |
 | Love (Agape) | `love_agape.md` |
+| Marriage | `marriage.md` |
 | Mercy | `mercy.md` |
 | Mortal Sin | `mortal_sin.md` |
 | Metanoia (Repentance) | `metanoia.md` |
