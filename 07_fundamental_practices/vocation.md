@@ -47,6 +47,51 @@ Vocation is not a destiny script or performance ladder. It is received belonging
 
 ---
 
+## Coherence, Justice, Safeguarding, and Anti-Burnout Implications
+
+Vocation is only “coherent” when it produces **truthful love under pressure** while protecting the vulnerable and honoring creaturely limits. Therefore vocation must be evaluated not only by fruit or impact, but by the **quality of the field it creates**: safety, truth, mercy, peace, and freedom.
+
+### Coherence (cruciform criterion)
+A vocational placement is coherent when it:
+- increases capacity for **Love (Agape)** without coercion or self-erasure
+- remains governed by **Peace (Eirene)** (non-violent, non-panicked, non-forced calm)
+- deepens **Truth (Aletheia)** and **Conscience** clarity without shame or surveillance
+- supports **Sanctification** as sustainable convergence, not heroic intensity
+- strengthens **Koinonia** (shared bearing of burdens) rather than isolating “special callings”
+
+A vocational placement is *incoherent* when it requires denial of reality, suppression of truth, or escalation of pressure to sustain itself.
+
+### Justice (repair ecology criterion)
+Because vocation is a placement into a real repair ecology, it has justice obligations:
+- protection of the weak takes priority over institutional success (**Mercy**, **Judgement/Krisis**)
+- material dignity matters: housing, food, rest, healthcare, fair pay, and safe conditions are not “secondary” (see **Economics**, **Work**)
+- burdens must be distributed: when a system “runs” on invisible labour, it is already distorted (**Koinonia**)
+- advocacy and boundary-setting can be vocationally required when harm is normalized (**Governance, Justice, and Advocacy**)
+
+If a “calling” increases exploitation, silences victims, or privileges the powerful, it fails vocation’s purpose.
+
+### Safeguarding (consent + bounded authority)
+Vocation must be **consented, reversible, and accountable**:
+- consent is explicit, ongoing, and revocable without penalty
+- authority is bounded and reviewable (**Authority**, **Priesthood** where relevant)
+- disclosure is never demanded; vulnerability is never extracted (**Confession**, **Spiritual Direction**)
+- there must be safe reporting paths and protection from retaliation
+- professional referral is welcomed; pastoral care never replaces clinical/legal safeguarding
+
+Any vocational model that removes exit paths, concentrates power, or demands secrecy is structurally unsafe.
+
+### Anti-burnout (pace-as-truth)
+Burnout is a **systems signal** of mis-sized load, mis-ordered love, or coercive pressure — not evidence of holiness.
+Therefore:
+- Sabbath and limits are part of vocation’s form (**Rest, Sabbath, and Limits**)
+- “suffering as proof of calling” is rejected; pressure is not guidance
+- roles must be resized to capacity, season, health, and trauma realities
+- communities share load; individuals are not treated as infinite resources (**Koinonia**)
+
+If maintaining a role requires chronic exhaustion, fear, or conscience override, return to **Peace**, **Discernment**, and **Spiritual Direction** and re-place.
+
+---
+
 ## Vocational Configurations
 
 Vocation is the placement operator. Marriage and celibacy are subordinate configurations that shape how vocation is embodied within a repair ecology. They are not parallel ladders, default tracks, or spiritual status tiers.
@@ -693,16 +738,6 @@ W ⊂ V: W(H, E, t) → (H′, E′) where
 
 ### Safeguarding (Work)
 Work is consented, paced, reversible, and adaptable to illness, disability, trauma, caregiving, and economic instability. It is never institutionally coercive and must be re-evaluated in light of **Grace**, **Mercy**, **Koinonia**, and **Peace**.
-
----
-
-## Layer Effects
-
-| Layer | Healthy use | Misuse mode |
-|------|-------------|------------|
-| Ground (G) | ↑ | ↓ (identity collapse, role = self) |
-| Logos (L)  | ↑ | ↓ (scrupulosity, coercive “calling” logic) |
-| Presence (P) | ↑ | ↓ (institutional capture, pressured conformity) |
 
 ---
 
