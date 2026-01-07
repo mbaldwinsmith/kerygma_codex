@@ -124,12 +124,14 @@ Economics becomes growth-idolatry, austerity used as moral judgment, profit over
 
 ---
 
-## Caregiving & Domestic Life — Vocational Sub-Domain
+## Domains of Vocational Expression
 
-### One-Line Definition
+### Caregiving & Domestic Life — Vocational Sub-Domain
+
+#### One-Line Definition
 A primary vocational placement where caregiving, household labour, and relational maintenance become a cruciform field of **Love (Agape)**, **Grace**, and **Mercy**, sustaining fragile lives and forming household-scale repair ecologies.
 
-### Formal Operator
+#### Formal Operator
 This sub-domain is a relational containment, stability, and mercy-distribution operator grounded in **Love (Agape)**, secured by **Grace**, governed by **Mercy**, sheltered in **Peace**, stabilised in **Koinonia**, clarified by **Conscience**, and ordered toward **Sanctification** as a primary expression of **Vocation**.
 
 C ⊂ V: C(H, R, t) → (H′, E′) where
@@ -143,7 +145,7 @@ C ⊂ V: C(H, R, t) → (H′, E′) where
 **In ordinary words:**
 Caregiving and domestic life are not “less spiritual” work. They are a primary vocational placement where God’s love is embodied in protection, nurture, and daily repair under pressure.
 
-### Inputs
+#### Inputs
 - The human system H = (G, L, P, A)
 - Children, elders, sick, disabled, traumatised, and dependent persons
 - Relational, emotional, temporal, and physical labour
@@ -152,7 +154,7 @@ Caregiving and domestic life are not “less spiritual” work. They are a prima
 - Conscience-based consent and discernment for limits (**Conscience**)
 - Grace-anchored belonging that precedes productivity (**Grace**)
 
-### Outputs
+#### Outputs
 - Stabilised households and protected persons
 - Transmission of trust, safety, and belonging
 - Sanctification through daily love under pressure (**Sanctification**, **Love**)
@@ -160,14 +162,14 @@ Caregiving and domestic life are not “less spiritual” work. They are a prima
 - Formation of repair ecologies at household scale
 - Increased **Peace**, **Mercy**, and communal coherence (**Koinonia**)
 
-### Layer Effects
+#### Layer Effects
 | Layer | Healthy use | Misuse mode |
 |------|-------------|------------|
 | Ground (G) | ↑ (stability, shelter, belonging) | ↓ (invisibilisation, abandonment by institutions) |
 | Logos (L)  | ↑ (truthful dignity of care, conscience clarity) | ↓ (gendered coercion, spiritualised exploitation) |
 | Presence (P) | ↑ (attunement, mercy, daily faithful presence) | ↓ (burnout martyrdom, isolation) |
 
-### Misuse-Prevention (Critical)
+#### Misuse-Prevention (Critical)
 - Rejects romanticising exhaustion or praising burnout as holiness.
 - Rejects spiritualising unpaid exploitation or using “service” to erase consent.
 - Rejects coercing caregiving through gendered or familial scripts.
@@ -175,22 +177,22 @@ Caregiving and domestic life are not “less spiritual” work. They are a prima
 - Rejects silencing cries for rest, help, or material support.
 - Requires shared responsibility, communal resourcing, and realistic boundaries.
 
-### Fails the Cross If…
+#### Fails the Cross If…
 Caregiving is used to praise burnout as obedience, erase consent or boundaries, exploit vulnerability, or abandon carers under spiritual language.
 
-### Trauma-Aware Safeguarding
+#### Trauma-Aware Safeguarding
 - Right to rest without guilt and without spiritual suspicion.
 - Right to boundaries and consented limits.
 - Right to communal support, material aid, and institutional protection.
 - Protection against coercion, gendered control, and economic abandonment.
 - Explicit affirmation of caregivers’ dignity, needs, and humanity.
 
-## Periods of Illness, Unemployment, and Hidden Life — Vocational Sub-Domain
+### Periods of Illness, Unemployment, and Hidden Life — Vocational Sub-Domain
 
-### One-Line Definition
+#### One-Line Definition
 A mercy-governed vocational placement where a life is sheltered, stabilised, and re-anchored in belonging while healing, grief, limitation, and hiddenness are honoured as holy within God’s repair ecology.
 
-### Formal Operator
+#### Formal Operator
 This sub-domain is a vocational containment, healing-priority, and mercy-placement operator grounded in **Grace**, secured by **Justification**, governed by **Mercy**, sheltered in **Peace**, sustained by **Hope**, stabilised in **Koinonia**, clarified by **Conscience**, and accompanied through **Spiritual Direction** for a slowed, consented path of **Sanctification**.
 
 I ⊂ V: I(H, t) → (H′, E′) where
@@ -204,7 +206,7 @@ I ⊂ V: I(H, t) → (H′, E′) where
 **In ordinary words:**
 These seasons are not failures or waiting rooms. They are full vocational placements where God’s mercy shelters a person in healing, belonging, and patient hope.
 
-### Inputs
+#### Inputs
 - The human system H = (G, L, P, A)
 - Illness, disability, trauma, burnout, grief, poverty, unemployment, or caregiving exhaustion
 - Reduced capacity in energy, cognition, or social function
@@ -214,7 +216,7 @@ These seasons are not failures or waiting rooms. They are full vocational placem
 - Conscience-based permission to rest and receive help (**Conscience**)
 - Spiritual direction for gentle discernment and non-shaming guidance (**Spiritual Direction**)
 
-### Outputs
+#### Outputs
 - Stabilised dignity and belonging without productivity tests
 - Reduced shame and comparison
 - Protection from abandonment, pressure, and invisibility
@@ -222,14 +224,14 @@ These seasons are not failures or waiting rooms. They are full vocational placem
 - Reintegration pathways when and if appropriate, without coercion
 - Deepened hope without false positivity (**Hope**, **Peace**)
 
-### Layer Effects
+#### Layer Effects
 | Layer | Healthy use | Misuse mode |
 |------|-------------|------------|
 | Ground (G) | ↑ (belonging stabilised in grace) | ↓ (abandonment, worth collapse) |
 | Logos (L)  | ↑ (truth that worth ≠ productivity) | ↓ (shame narratives, prosperity logic) |
 | Presence (P) | ↑ (gentle accompaniment) | ↓ (invisibilising, isolation) |
 
-### Misuse-Prevention (Critical)
+#### Misuse-Prevention (Critical)
 - Rejects treating sickness, disability, or unemployment as spiritual failure.
 - Rejects “get better to be worthy” pressure or recovery as a condition of belonging.
 - Rejects invisibilising hidden lives or erasing the constraints they carry.
@@ -237,10 +239,10 @@ These seasons are not failures or waiting rooms. They are full vocational placem
 - Rejects forced positivity and spiritual bypass that denies grief or pain.
 - Rejects abandonment disguised as “trust God more” language.
 
-### Fails the Cross If…
+#### Fails the Cross If…
 This sub-domain measures worth by productivity, shames slowness or dependency, treats vulnerability as disobedience, or abandons the weak when their lives are hidden or constrained.
 
-### Trauma-Aware Safeguarding
+#### Trauma-Aware Safeguarding
 - Right to rest without guilt.
 - Right to medical, social, and psychological care.
 - Right to slow time and reduced expectations.
@@ -249,12 +251,12 @@ This sub-domain measures worth by productivity, shames slowness or dependency, t
 
 ---
 
-## Rest, Sabbath, and Limits — Vocational Sub-Domain
+### Rest, Sabbath, and Limits — Vocational Sub-Domain
 
-### One-Line Definition
+#### One-Line Definition
 A creaturely-boundary, renewal, and coherence-preservation vocational placement where rest, Sabbath, slowness, and limits are received as holy design — not failure — and are kept by **Grace**, **Peace**, **Mercy**, **Conscience**, and **Sophia** as the form of **Vocation** itself.
 
-### Formal Operator
+#### Formal Operator
 This sub-domain is a creaturely-boundary, renewal, and coherence-preservation operator grounded in **Grace**, governed by **Peace**, sheltered by **Mercy**, clarified by **Conscience**, ordered by **Sophia**, and stabilised in **Prayer** and **Hesychia** for the sake of long-term **Sanctification** within **Vocation**.
 
 R ⊂ V: R(H, t) → (H′, E′) where
@@ -268,7 +270,7 @@ R ⊂ V: R(H, t) → (H′, E′) where
 **In ordinary words:**
 Rest and Sabbath are not pauses from vocation; they are how vocation is kept truthful, gentle, and sustainable under the Cross.
 
-### Inputs
+#### Inputs
 - The human system H = (G, L, P, A)
 - Physical, emotional, neurological, and spiritual limits
 - Fatigue, illness, trauma, grief, and seasons of reduced capacity
@@ -281,7 +283,7 @@ Rest and Sabbath are not pauses from vocation; they are how vocation is kept tru
 - Wisdom for timing, seasons, and sustainable rhythms (**Sophia**)
 - Prayerful consent and communal discernment (**Prayer**, **Koinonia**)
 
-### Outputs
+#### Outputs
 - Preserved coherence and long-term sustainability
 - Reduced burnout, collapse, and spiritual injury
 - Increased peace and groundedness (**Peace**)
@@ -290,14 +292,14 @@ Rest and Sabbath are not pauses from vocation; they are how vocation is kept tru
 - Long-term sanctifying convergence without self-destruction (**Sanctification**)
 - Vocation kept within creaturely limits rather than driven by pressure (**Vocation**)
 
-### Layer Effects
+#### Layer Effects
 | Layer | Healthy use | Misuse mode |
 |------|-------------|------------|
 | Ground (G) | ↑ (safety, embodied stability) | ↓ (exhaustion, worth collapse) |
 | Logos (L)  | ↑ (truth that limits are holy) | ↓ (shame for limits, productivity idolatry) |
 | Presence (P) | ↑ (gentle availability, regulated presence) | ↓ (burnout martyrdom, spiritual bypass) |
 
-### Misuse-Prevention (Critical)
+#### Misuse-Prevention (Critical)
 - Rejects treating rest as laziness or a lack of faith.
 - Rejects praising exhaustion as holiness or calling burnout “obedience.”
 - Rejects collapsing worth into productivity, output, or visibility.
@@ -305,15 +307,78 @@ Rest and Sabbath are not pauses from vocation; they are how vocation is kept tru
 - Rejects bypassing illness, trauma, grief, or disability with spiritual language.
 - Requires communal protection of Sabbath space and consented pacing.
 
-### Fails the Cross If…
+#### Fails the Cross If…
 Rest is framed as disobedience, burnout is treated as proof of faithfulness, exhaustion is spiritualised, or creaturely limits are denied in the name of vocation.
 
-### Trauma-Aware Safeguarding
+#### Trauma-Aware Safeguarding
 - Right to rest without guilt or suspicion.
 - Right to say no, slow down, and step back.
 - Protection for ill, disabled, grieving, and neurodivergent persons.
 - Communal responsibility to safeguard Sabbath space and protect limits.
 - Affirmation that God’s mercy receives limitation as holy, not as failure.
+
+---
+
+### Study, Scholarship, and Formation (Σπουδή / Studium)
+
+#### One-Line Definition
+Study is a legitimate vocational configuration of life, ordered toward truth, healing, wisdom, and formation — not merely toward usefulness, employability, or religious status — and received as a grace-governed path within **Vocation**.
+
+#### Formal Operator
+This domain is a formation-stabilisation and Logos-repair operator grounded in **Grace**, received in **Faith**, clarified by **Discernment (Diakrisis)** and **Conscience**, ordered by **Wisdom (Sophia)** and **Truth**, and paced by **Peace** as a protected vocational field within **Vocation**.
+
+S ⊂ V: S(H, M, t) → (H′, E′) where
+- H = (G, L, P, A)
+- M = mentors, texts, practices, and formation communities
+- Logos stabilisation: L → L′ with increased truth-capacity and integration
+- discernment support: Diakrisis and Conscience mature without coercion
+- peace-governed pacing: study is sized to capacity, rest, and Sabbath protection
+- outcome-open: prepares and protects future vocation without forcing outcomes
+
+**In ordinary words:**
+Study is not a proving ground or prestige ladder. It is a grace-governed way of learning that strengthens truth, heals confusion, and prepares vocation without coercing a timeline or outcome.
+
+#### Inputs
+- The human system H = (G, L, P, A)
+- Time and cognitive bandwidth
+- Access to learning, mentors, texts, and formation communities
+- Emotional safety and freedom to question
+- Trauma history and religious harm context (if present)
+- Rest, pacing, and Sabbath protection
+
+#### Outputs
+- Stabilised Logos coherence
+- Deepened truth-capacity without collapse
+- Mature conscience formation
+- Reduced ideological reactivity
+- Gentle readiness for later vocational clarity
+- Increased peace and integration
+
+#### Layer Effects
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ (secure identity not based on intellect) | ↓ (identity collapse, comparison anxiety) |
+| Logos (L)  | ↑ (truth capacity, integration) | ↓ (ideological rigidity, scrupulosity) |
+| Presence (P) | ↑ (humble teachability) | ↓ (elitism, withdrawal, contempt) |
+
+#### Misuse-Prevention (Critical)
+- Rejects academic elitism and contempt cultures.
+- Rejects “knowledge as superiority” and the use of expertise to dominate.
+- Rejects theological performance ladders or status-ranking by education.
+- Rejects ideological capture on right or left that collapses conscience.
+- Rejects pressure to resolve uncertainty prematurely or punish honest doubt.
+- Rejects spiritual gaslighting of doubt or questioning.
+- Rejects using formation to bypass trauma healing or embodied care.
+
+#### Fails the Cross If…
+Study is framed as suffering-through-burnout as proof of calling, humiliating pedagogy, knowledge hoarding as power, or collapsing personhood into intellect rather than cruciform love under pressure.
+
+#### Trauma-Aware Safeguarding
+- Freedom to question without threat or shame.
+- Pacing and rest as protected goods; Sabbath is non-negotiable.
+- Protection from humiliation, coercion, or spiritual threat.
+- Permission to pause, unlearn, and reform.
+- Validation of “not knowing yet” as faithful and honest.
 
 ---
 
