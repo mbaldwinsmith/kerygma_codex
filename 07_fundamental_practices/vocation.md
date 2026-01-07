@@ -445,6 +445,70 @@ Artistic vocation narrates suffering-as-artistry, sacrifices safety for visibili
 
 ---
 
+### Manual / Craft Labour (Ἐργασία χειρός / Ars manualis)
+
+#### One-Line Definition
+Manual and craft labour is embodied cooperation with God’s sustaining care of creation: slow, faithful participation in repair, cultivation, building, cleaning, and making — a school of humility, patience, and dignity, never expendable labour, shameful necessity, or spiritual inferiority.
+
+#### Formal Operator
+This domain is an embodied-repair and durability-convergence operator grounded in **Grace**, ordered by **Justice** (economic dignity), governed by **Peace**, tempered by **Mercy**, stabilised in **Koinonia**, protected by **Rest / Sabbath**, and oriented toward **Vocation** and **Sanctification** as faithful participation in God’s sustaining care.
+
+M ⊂ V: M(H, T, t) → (H′, E′) where
+- H = (G, L, P, A)
+- T = tools, training, materials, and craft traditions
+- Ground stabilisation: G → G′ through bodily rhythm, visible fruit, and durable making
+- Presence healing: P → P′ through tangible participation and faithful presence
+- Logos training: L → L′ through patience, accuracy, and truth-to-material
+- peace-governed pacing: work is sized to consent, capacity, and Sabbath rhythms
+- justice-anchored dignity: compensation and provision protect worth without productivity worship
+
+**In ordinary words:**
+Manual and craft labour is not lesser or disposable work. It is grace-led participation in God’s repair of the world, forming patience, humility, and dignity through faithful making.
+
+#### Inputs
+- The human system H = (G, L, P, A)
+- Bodily energy, limits, and recovery needs
+- Time, tools, skill, and apprenticeship
+- Safe working conditions and ergonomic safeguards
+- Fair compensation or communal provision (**Justice**, **Mercy**, **Koinonia**)
+- Rhythm of work and rest, including Sabbath protection (**Peace**, **Rest / Sabbath**)
+- Grace-anchored dignity that precedes output (**Grace**)
+
+#### Outputs
+- Repaired, built, cleaned, grown, or sustained environments
+- Increased dignity and visible usefulness
+- Stable rhythms of peace and rest (**Peace**, **Rest / Sabbath**)
+- Reduced anxiety and abstraction through tangible participation
+- Durable goods and services that support communal life (**Koinonia**)
+- Trust between people through reliable making and care
+
+#### Layer Effects
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ (dignity, embodiment, stability) | ↓ (exhaustion, expendability, bodily harm) |
+| Logos (L)  | ↑ (truth-to-material, patience) | ↓ (dehumanisation, productivity ideology) |
+| Presence (P) | ↑ (peaceful attentiveness, faithful presence) | ↓ (alienation, numbness) |
+
+#### Misuse-Prevention (critical)
+- Rejects unsafe or degrading labour conditions.
+- Rejects wage theft, economic coercion, and exploitative scheduling.
+- Rejects treating workers as expendable resources or disposable bodies.
+- Rejects glorifying exhaustion as virtue or calling burnout “faithfulness.”
+- Rejects denying rest, safety, or fair pay in the name of output.
+- Rejects shaming non-professional skill or manual work as inferior.
+
+#### Fails the Cross If…
+Manual labour is framed as sacrifice-heroics, suffering is glorified as holiness, worth collapses into productivity, or economic systems crush bodies in the name of efficiency.
+
+#### Trauma-Aware Safeguarding
+- Right to safe conditions, protective equipment, and rest.
+- Recognition of injury, disability, chronic pain, and bodily limits.
+- Protection from exploitation, coercion, and wage theft.
+- Honouring pacing and capacity without shame.
+- Community support when work is lost, unsafe, or impossible.
+
+---
+
 ## Work (Ἔργον / Labor)
 
 ### Formal Operator (Work)
