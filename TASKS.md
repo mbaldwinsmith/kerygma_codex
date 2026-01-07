@@ -138,6 +138,12 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Add versioning and changelog.
 - [ ] Establish stewardship practices.
 
+---
+
+## Phase 9 — Rules of Life
+
+- [x] Draft Rule of Life of the Coherent Gardener for a pilgrim in vocational transition and re-rooting.
+
 ## Follow-up Notes (Post-Synthesis)
 
 - [ ] Align glossary filename references (`03_GLOSSARY.md` vs `03_GLOSSSARY.md`) across docs.
