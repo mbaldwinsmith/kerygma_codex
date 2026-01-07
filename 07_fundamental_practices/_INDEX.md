@@ -58,6 +58,7 @@ This is a garden of chapels, not a rulebook.
 | Mortal Sin | `mortal_sin.md` |
 | Metanoia (Repentance) | `metanoia.md` |
 | Nepsis (Watchful sobriety) | `nepsis.md` |
+| New Creation | `new_creation.md` |
 | Obedience | `obedience.md` |
 | Peace | `peace.md` |
 | Original Sin | `original_sin.md` |
