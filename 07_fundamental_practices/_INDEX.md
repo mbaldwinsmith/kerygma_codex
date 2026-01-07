@@ -30,7 +30,6 @@ This is a garden of chapels, not a rulebook.
 | Atonement | `atonement.md` |
 | Authority | `authority.md` |
 | Baptism | `baptism.md` |
-| Celibacy | `celibacy.md` |
 | Confession | `confession.md` |
 | Conscience (Synderesis) | `conscience_synderesis.md` |
 | Conversion | `conversion.md` |
@@ -52,7 +51,6 @@ This is a garden of chapels, not a rulebook.
 | Koinonia (Communion–Fellowship) | `koinonia_communion.md` |
 | Liturgy | `liturgy.md` |
 | Love (Agape) | `love_agape.md` |
-| Marriage | `marriage.md` |
 | Mercy | `mercy.md` |
 | Mortal Sin | `mortal_sin.md` |
 | Metanoia (Repentance) | `metanoia.md` |
@@ -74,6 +72,8 @@ This is a garden of chapels, not a rulebook.
 | Tradition | `tradition.md` |
 | Truth | `truth.md` |
 | Vocation | `vocation.md` |
+| ↳ Vocational Configuration: Marriage | `marriage.md` |
+| ↳ Vocational Configuration: Celibacy | `celibacy.md` |
 | Virtue (Arete) | `virtue_arete.md` |
 | Vigil | `vigil.md` |
 

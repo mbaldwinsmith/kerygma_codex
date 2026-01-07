@@ -47,6 +47,30 @@ Vocation is not a destiny script or performance ladder. It is received belonging
 
 ---
 
+## Vocational Configurations
+
+Vocation is the placement operator. Marriage and celibacy are subordinate configurations that shape how vocation is embodied within a repair ecology. They are not parallel ladders, default tracks, or spiritual status tiers.
+
+### Marriage — Vocational Configuration
+**Operator summary:** A covenantal, relational configuration of vocation that forms a household-level repair ecology and a co-convergent sanctifying field.
+
+**Grounding in vocation:** Marriage does not assign vocation; it receives and embodies vocation through a shared, consented covenantal field for service and belonging.
+
+**Status safeguard:** Marriage is never a higher or default spiritual track; it is one configuration among others within vocation.
+
+**See full term:** [`marriage.md`](marriage.md)
+
+### Celibacy — Vocational Configuration
+**Operator summary:** An availability and attention-redistribution configuration of vocation that reorders relational energy toward prayerful presence and communal care.
+
+**Grounding in vocation:** Celibacy does not assign vocation; it shapes how vocation is embodied through consented availability and reconfigured relational bandwidth.
+
+**Status safeguard:** Celibacy is never a superior spiritual tier; it is one configuration among others within vocation.
+
+**See full term:** [`celibacy.md`](celibacy.md)
+
+---
+
 ## Work (Ἔργον / Labor)
 
 ### Formal Operator (Work)

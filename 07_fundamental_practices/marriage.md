@@ -1,12 +1,12 @@
 # Marriage (Γάμος / Matrimonium)
 
 ## One-Line Definition
-Marriage is a sacramental, public, and mutual covenant by which two persons freely bind themselves into a shared vocation of faithful love, forming a household repair ecology sustained by grace.
+Marriage is a vocational configuration subordinate to **Vocation**: a sacramental, public, and mutual covenant by which two persons freely bind themselves into a shared embodiment of vocation, forming a household repair ecology sustained by grace.
 
 ---
 
 ## Formal Operator
-Marriage is a mutual-covenant coupling and co-convergence operator, grounded in **Grace**, animated by **Love (Agape)**, stabilised through **Koinonia**, and oriented toward **Sanctification**, **Peace**, and **Mercy**, under the guidance of **Conscience**, **Faith**, and shared **Vocation**, with **Sacrifice** understood as consented, life-giving self-offering rather than harm-bearing.
+Marriage is a vocational configuration subordinate to **Vocation**: a mutual-covenant coupling and co-convergence operator that shapes how vocation is embodied. It is grounded in **Grace**, animated by **Love (Agape)**, stabilised through **Koinonia**, and oriented toward **Sanctification**, **Peace**, and **Mercy**, under the guidance of **Conscience**, **Faith**, and shared **Vocation**, with **Sacrifice** understood as consented, life-giving self-offering rather than harm-bearing.
 
 Marriage: M(H₁, H₂, C, W, t) → (H₁′, H₂′, F)
 
@@ -21,6 +21,7 @@ Where:
 
 **In ordinary words:**
 Marriage is not a property contract, hierarchy, or spiritual ranking. It is a shared, consented covenant where two persons publicly bind themselves into a life of faithful love, mutual sanctification, and shared participation in God’s repair ecology.
+It does not assign vocation or define worth; it shapes how vocation is embodied, never a default path or higher track.
 
 ---
 
@@ -80,6 +81,9 @@ Marriage is not a property contract, hierarchy, or spiritual ranking. It is a sh
 - Conscience and safety are non-negotiable; no sacramental language can override them.
 - Community witness exists to safeguard, not to pressure or trap.
 - Mercy includes protection, accountability, and the right to seek help.
+- Marriage is not a default life path; it is a freely discerned configuration within vocation.
+- Marital status never confers spiritual superiority or rank.
+- Church pressure or funneling into marriage violates consent and vocation.
 
 ---
 

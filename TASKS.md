@@ -91,6 +91,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Integrate Work (Ἔργον / Labor) as a subordinate vocational operator within `vocation.md`.
 - [x] Draft Marriage (Γάμος / Matrimonium) as a vocational form.
 - [x] Draft Celibacy (Ἀγαμία / Caelibatus) as a vocational form.
+- [x] Integrate Marriage and Celibacy as vocational configurations within `vocation.md`.
 - [ ] Expand `vocation.md` with **Domains of Vocational Expression**, including:
   - [ ] Economic participation (paid and unpaid labour)
   - [ ] Caregiving & domestic life
@@ -102,6 +103,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [ ] Periods of illness, unemployment, and hidden life
   - [ ] Rest, Sabbath, and limits
 - [ ] Define coherence, justice, safeguarding, and anti-burnout implications *within* vocation.
+- [ ] Define Work as daily vocational participation inside `vocation.md`.
 
 ---
 
@@ -142,6 +144,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 - [ ] Align glossary filename references (`03_GLOSSARY.md` vs `03_GLOSSSARY.md`) across docs.
 - [ ] Add `KERYGMA_CODEX_CORE.md` to README core architecture list and recommended reading path.
+- [x] Completed integration of Marriage and Celibacy as vocational configurations under Vocation.
 
 ---
 

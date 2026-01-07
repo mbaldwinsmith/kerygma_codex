@@ -1,12 +1,12 @@
 # Celibacy (Ἀγαμία / Caelibatus)
 
 ## One-Line Definition
-Celibacy is a freely chosen vocational configuration of embodied life that focuses relational and temporal availability toward prayer, service, and communal care in God’s repair ecology.
+Celibacy is a vocational configuration subordinate to **Vocation**: a freely chosen shaping of relational availability and attention toward prayer, service, and communal care in God’s repair ecology.
 
 ---
 
 ## Formal Operator
-Celibacy is a vocational availability and attention-focusing operator, grounded in **Grace**, received through **Vocation**, ordered by **Love (Agape)**, shaped by **Sanctification**, held in **Koinonia**, and paced by **Peace**, under the guidance of **Conscience**, **Discernment**, and **Spiritual Direction**.
+Celibacy is a vocational configuration subordinate to **Vocation**: an availability and attention-focusing operator that shapes how vocation is embodied. It is grounded in **Grace**, received through **Vocation**, ordered by **Love (Agape)**, shaped by **Sanctification**, held in **Koinonia**, and paced by **Peace**, under the guidance of **Conscience**, **Discernment**, and **Spiritual Direction**.
 
 Celibacy: C(H, V, S, t) → (H′, A′, E)
 
@@ -21,6 +21,7 @@ Where:
 
 **In ordinary words:**
 Celibacy is not a higher rank or a requirement for holiness. It is a freely chosen configuration of life that, with consent and support, makes a person more available for prayer, service, and care in the Body of Christ.
+It does not assign vocation or define worth; it is a relational-availability shaping within vocation, never a superior tier.
 
 ---
 
@@ -80,6 +81,9 @@ Celibacy is not a higher rank or a requirement for holiness. It is a freely chos
 - Discernment must be companioned; **Spiritual Direction** and **Koinonia** are safeguards, not optional extras.
 - Conscience and safety override institutional expectations; coercion fails the Cross.
 - Celibacy is not spiritually superior; it is one vocation among many.
+- Ladder theology and status hierarchies are rejected outright.
+- Clerical exceptionalism is a misuse that violates the Cross and consent.
+- Coercive vow pressure or institutional capture is forbidden.
 
 ---
 
