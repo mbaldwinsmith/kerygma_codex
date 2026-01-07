@@ -575,6 +575,74 @@ Governance becomes domination as order, violence is framed as righteousness, vic
 
 ---
 
+### Pastoral & Ecclesial Service (Ποιμαντική διακονία / Ministerium pastorale)
+
+#### One-Line Definition
+Pastoral & ecclesial service is a protective, healing, and truth-telling presence of servant leadership rooted in mercy and discernment — accompaniment rather than control, and stewardship of sacred trust rather than ownership of power.
+
+#### Formal Operator
+This domain is a shepherding–repair–stabilisation convergence operator grounded in **Grace**, ordered by **Authority** under the Cross, clarified by **Truth**, **Discernment (Diakrisis)**, and **Conscience**, tempered by **Mercy**, governed by **Peace**, sustained by **Prayer**, stabilised in **Koinonia**, and oriented toward **Sanctification** through **Spiritual Direction** and sacramental care.
+
+PES ⊂ V: PES(H, C, t) → (H′, E′) where
+- H = (G, L, P, A)
+- shepherding repair: attends to wounds without domination or spectacle
+- Ground guarding: G → G′ through safety, belonging, and sheltering trust
+- Logos clarification: L → L′ through truth-telling, discernment, and conscience formation
+- Presence strengthening: P → P′ through mercy, prayerful availability, and sacramental care
+- accountable authority: power is delegated, bounded, and answerable within **Koinonia**
+- peace-governed accompaniment: leadership is paced by consent, limits, and rest
+
+**In ordinary words:**
+Pastoral service is not platform-building or dominance. It is cruciform accompaniment that protects the vulnerable, tells the truth gently, and keeps communal life stable and safe in God’s repair ecology.
+
+#### Inputs
+- The human system H = (G, L, P, A)
+- Delegated trust and accountable authority
+- Spiritual disciplines and prayerful availability
+- Discernment, supervision, and ongoing formation
+- Community accountability and safeguarding structures
+- Time, emotional labour, and relational risk
+- Communion and mutual care within **Koinonia**
+- Truth, mercy, peace, and conscience clarity (**Truth**, **Mercy**, **Peace**, **Conscience**)
+
+#### Outputs
+- Safer communal life
+- Stabilised belonging
+- Increased trust and truthful confession
+- Reduced harm and spiritual manipulation
+- Sustainable formation pathways
+- Greater communal peace
+- Strengthened communal discernment and conscience clarity
+
+#### Layer Effects
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ (belonging, protection) | ↓ (fear, dependency, trauma) |
+| Logos (L)  | ↑ (truth, discernment) | ↓ (spiritual control, ideology) |
+| Presence (P) | ↑ (healing presence) | ↓ (extraction, burnout, enmeshment) |
+
+#### Misuse-Prevention (critical)
+- Rejects spiritual abuse, coercion, and manipulation.
+- Rejects charismatic dominance and unaccountable leadership.
+- Rejects coerced vulnerability, confessional extraction, or pressured disclosure.
+- Rejects platform or brand building as a pastoral motive.
+- Rejects treating people as ministry output or metrics.
+- Rejects burnout culture and sacrificial heroics as holiness.
+- Requires supervision, accountability, and transparent safeguarding.
+
+#### Fails the Cross If…
+Pastoral service treats control as shepherding, exposure as healing, pressure as obedience, burnout as holiness, or silence as unity.
+
+#### Trauma-Aware Safeguarding
+- Supervision and external accountability are required.
+- Limits on pastoral authority with clear review and shared governance.
+- Consent and confidentiality are protected, with clear exceptions for safety.
+- Right to pause, step back, or leave communities without retaliation.
+- Referral pathways to professional medical, psychological, or legal care when needed.
+- Rest, support, and care plans for ministers to prevent collapse and harm.
+
+---
+
 ## Work (Ἔργον / Labor)
 
 ### Formal Operator (Work)
