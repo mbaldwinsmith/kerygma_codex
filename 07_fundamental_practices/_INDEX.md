@@ -33,6 +33,7 @@ This is a garden of chapels, not a rulebook.
 | Confession | `confession.md` |
 | Conscience (Synderesis) | `conscience_synderesis.md` |
 | Conversion | `conversion.md` |
+| Death | `death.md` |
 | Depravity | `depravity.md` |
 | Discernment (Diakrisis) | `discernment_diakrisis.md` |
 | Election | `election.md` |
