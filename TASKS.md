@@ -87,14 +87,20 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 ## Phase 5 — Public Life & Vocation
 
-- [ ] Formalise:
-  - [x] Vocation
-  - [x] Marriage
-  - [x] Celibacy
-  - [ ] Work
-  - [ ] Economics
-  - [ ] Politics
-- [ ] Define coherence, justice, and safeguarding implications.
+- [x] Draft Vocation (Κλῆσις / Vocatio) as the ontological root of public life.
+- [x] Draft Marriage (Γάμος / Matrimonium) as a vocational form.
+- [x] Draft Celibacy (Ἀγαμία / Caelibatus) as a vocational form.
+- [ ] Expand `vocation.md` with **Domains of Vocational Expression**, including:
+  - [ ] Economic participation (paid and unpaid labour)
+  - [ ] Caregiving & domestic life
+  - [ ] Artistic / cultural creation
+  - [ ] Study, scholarship, and formation
+  - [ ] Manual / craft labour
+  - [ ] Governance, justice, and advocacy
+  - [ ] Pastoral & ecclesial service
+  - [ ] Periods of illness, unemployment, and hidden life
+  - [ ] Rest, Sabbath, and limits
+- [ ] Define coherence, justice, safeguarding, and anti-burnout implications *within* vocation.
 
 ---
 
