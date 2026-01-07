@@ -100,7 +100,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Rest, Sabbath, and limits
   - [x] Study, scholarship, and formation
   - [x] Artistic / cultural creation
-  - [ ] Manual / craft labour
+  - [x] Manual / craft labour
   - [ ] Governance, justice, and advocacy
   - [ ] Pastoral & ecclesial service
 - [ ] Define coherence, justice, safeguarding, and anti-burnout implications *within* vocation.
