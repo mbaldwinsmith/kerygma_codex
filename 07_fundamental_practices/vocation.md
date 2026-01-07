@@ -124,6 +124,70 @@ Economics becomes growth-idolatry, austerity used as moral judgment, profit over
 
 ---
 
+## Periods of Illness, Unemployment, and Hidden Life — Vocational Sub-Domain
+
+### One-Line Definition
+A mercy-governed vocational placement where a life is sheltered, stabilised, and re-anchored in belonging while healing, grief, limitation, and hiddenness are honoured as holy within God’s repair ecology.
+
+### Formal Operator
+This sub-domain is a vocational containment, healing-priority, and mercy-placement operator grounded in **Grace**, secured by **Justification**, governed by **Mercy**, sheltered in **Peace**, sustained by **Hope**, stabilised in **Koinonia**, clarified by **Conscience**, and accompanied through **Spiritual Direction** for a slowed, consented path of **Sanctification**.
+
+I ⊂ V: I(H, t) → (H′, E′) where
+- H = (G, L, P, A)
+- containment: life is intentionally sheltered within a repair ecology
+- healing-priority: rest, treatment, and grief-work are protected as primary
+- mercy-placement: belonging precedes output, visibility, or productivity
+- peace-governed pacing: time is slowed to capacity, consent, and safety
+- no worth-metrics: usefulness, speed, or visibility are explicitly rejected
+
+**In ordinary words:**
+These seasons are not failures or waiting rooms. They are full vocational placements where God’s mercy shelters a person in healing, belonging, and patient hope.
+
+### Inputs
+- The human system H = (G, L, P, A)
+- Illness, disability, trauma, burnout, grief, poverty, unemployment, or caregiving exhaustion
+- Reduced capacity in energy, cognition, or social function
+- Need for safety, rest, medical care, and communal care
+- Grace-anchored belonging that precedes output (**Grace**, **Justification**)
+- Community shelter, accompaniment, and time (**Koinonia**)
+- Conscience-based permission to rest and receive help (**Conscience**)
+- Spiritual direction for gentle discernment and non-shaming guidance (**Spiritual Direction**)
+
+### Outputs
+- Stabilised dignity and belonging without productivity tests
+- Reduced shame and comparison
+- Protection from abandonment, pressure, and invisibility
+- Slowed, gentle sanctification paced by healing (**Sanctification**)
+- Reintegration pathways when and if appropriate, without coercion
+- Deepened hope without false positivity (**Hope**, **Peace**)
+
+### Layer Effects
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ (belonging stabilised in grace) | ↓ (abandonment, worth collapse) |
+| Logos (L)  | ↑ (truth that worth ≠ productivity) | ↓ (shame narratives, prosperity logic) |
+| Presence (P) | ↑ (gentle accompaniment) | ↓ (invisibilising, isolation) |
+
+### Misuse-Prevention (Critical)
+- Rejects treating sickness, disability, or unemployment as spiritual failure.
+- Rejects “get better to be worthy” pressure or recovery as a condition of belonging.
+- Rejects invisibilising hidden lives or erasing the constraints they carry.
+- Rejects prosperity logic and any equation of health, speed, or success with holiness.
+- Rejects forced positivity and spiritual bypass that denies grief or pain.
+- Rejects abandonment disguised as “trust God more” language.
+
+### Fails the Cross If…
+This sub-domain measures worth by productivity, shames slowness or dependency, treats vulnerability as disobedience, or abandons the weak when their lives are hidden or constrained.
+
+### Trauma-Aware Safeguarding
+- Right to rest without guilt.
+- Right to medical, social, and psychological care.
+- Right to slow time and reduced expectations.
+- Protection from abandonment and coercive reactivation.
+- Explicit honouring of hidden life as holy and fully vocational.
+
+---
+
 ## Work (Ἔργον / Labor)
 
 ### Formal Operator (Work)
