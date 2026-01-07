@@ -64,6 +64,7 @@ This is a garden of chapels, not a rulebook.
 | Priesthood | `priesthood.md` |
 | Propitiation | `propitiation.md` |
 | Regeneration | `regeneration.md` |
+| Resurrection | `resurrection.md` |
 | Sacrifice | `sacrifice.md` |
 | Sanctification | `sanctification.md` |
 | Scripture | `scripture.md` |
