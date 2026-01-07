@@ -101,7 +101,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Study, scholarship, and formation
   - [x] Artistic / cultural creation
   - [x] Manual / craft labour
-  - [ ] Governance, justice, and advocacy
+  - [x] Governance, justice, and advocacy
   - [ ] Pastoral & ecclesial service
 - [ ] Define coherence, justice, safeguarding, and anti-burnout implications *within* vocation.
 - [ ] Define Work as daily vocational participation inside `vocation.md`.

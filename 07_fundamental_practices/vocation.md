@@ -509,6 +509,72 @@ Manual labour is framed as sacrifice-heroics, suffering is glorified as holiness
 
 ---
 
+### Governance, Justice, and Advocacy (Διακονία κρίσεως / Iustitia & Advocatio)
+
+#### One-Line Definition
+Governance, justice, and advocacy are consented participation in ordering, safeguarding, and repair of communal life — a vocation of protection, truth-telling, and boundary-setting in service of the vulnerable over institutional self-interest, never domination, ideological capture, or moral superiority.
+
+#### Formal Operator
+This domain is a protective-boundary and communal-ordering convergence operator grounded in **Grace**, ordered by **Vocation**, clarified by **Truth**, guided by **Judgement (Krisis)** and **Conscience**, tempered by **Mercy**, stabilised in **Peace**, and held accountable within **Koinonia** and rightly ordered **Authority**.
+
+GJA ⊂ V: GJA(H, C, t) → (H′, E′) where
+- H = (G, L, P, A)
+- protective-boundary: lawful, consented limits that shield the vulnerable and restrain harm
+- communal-ordering: public discernment that seeks justice over institutional self-interest
+- Ground stabilisation: G → G′ through safety, lawful dignity, and reliable protection
+- Logos clarification: L → L′ through truth-telling, justice clarity, and public accountability
+- Presence guarding: P → P′ by resisting abuse, silencing, and intimidation
+- cruciform integration: authority is ordered to service, not domination, under **Grace**, **Mercy**, and **Peace**
+
+**In ordinary words:**
+This domain is public responsibility as cruciform service: protecting the vulnerable, telling the truth, and setting boundaries so communal life can heal without coercion or fear.
+
+#### Inputs
+- The human system H = (G, L, P, A)
+- Public trust and delegated authority
+- Legal frameworks and civic processes
+- Discernment, conscience, and community accountability
+- Lived exposure to injustice
+- Time, risk, and emotional labour
+- Grounding in **Grace**, **Vocation**, **Judgement (Krisis)**, **Mercy**, **Peace**, **Truth**, **Conscience**, **Authority**, and **Koinonia**
+
+#### Outputs
+- Safer communal conditions
+- Reduced exploitation and abuse
+- Protection of the vulnerable
+- Greater public peace and trust
+- Repaired institutions
+- Truthful accountability
+
+#### Layer Effects
+| Layer | Healthy use | Misuse mode |
+|------|-------------|------------|
+| Ground (G) | ↑ (safety, legal dignity) | ↓ (fear, coercion, insecurity) |
+| Logos (L)  | ↑ (truth, justice clarity) | ↓ (ideology, propaganda, control) |
+| Presence (P) | ↑ (protective presence) | ↓ (silencing, intimidation) |
+
+#### Misuse-Prevention (critical)
+- Rejects authoritarianism and any use of coercive force as spiritual superiority.
+- Rejects politicised religion that treats power as purity or partisan victory as holiness.
+- Rejects moral grandstanding and public performance that replaces service with status.
+- Rejects silencing dissent, whistleblowers, or victims for institutional protection.
+- Rejects using justice language to control, shame, or manipulate.
+- Rejects ideological capture that replaces truth with slogans.
+- Rejects bypassing mercy, consent, or due process in the name of “righteousness.”
+
+#### Fails the Cross If…
+Governance becomes domination as order, violence is framed as righteousness, victims are silenced, truth is replaced by ideology, or enemies are treated as disposable.
+
+#### Trauma-Aware Safeguarding
+- Whistleblower protection and safe reporting pathways.
+- Advocacy for the vulnerable and marginalised without retaliation.
+- Safety planning for those at risk of backlash or exposure.
+- Limits on authority, with transparent accountability structures.
+- Consent and due process protections; power must be bounded and reviewable.
+- Rest, support, and pastoral care for advocates and public servants.
+
+---
+
 ## Work (Ἔργον / Labor)
 
 ### Formal Operator (Work)
