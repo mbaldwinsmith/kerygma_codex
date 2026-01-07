@@ -66,6 +66,7 @@ This is a garden of chapels, not a rulebook.
 | Sacrifice | `sacrifice.md` |
 | Sanctification | `sanctification.md` |
 | Scripture | `scripture.md` |
+| Suffering | `suffering.md` |
 | Sophia (Wisdom) | `sophia_wisdom.md` |
 | Spiritual Direction | `spiritual_direction.md` |
 | Theosis | `theosis.md` |
