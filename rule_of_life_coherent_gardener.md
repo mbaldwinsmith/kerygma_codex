@@ -114,3 +114,7 @@ This Rule is designed for a pilgrim in vocational transition, spiritual deepenin
 
 **Closing blessing**
 May Christ, the Gardener of all things, tend your soil with gentle hands. May your roots deepen without strain, your wounds be met with mercy, and your fruit ripen in quiet trust. May hope remain cruciform, and may your life become a small garden of safe, truthful love.
+
+Receive the day as a gift.
+Tend what is given with truthful love.
+Trust Christ with the fruit.
