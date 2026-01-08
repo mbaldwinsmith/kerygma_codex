@@ -1,6 +1,6 @@
 # Rule of Life of the Coherent Gardener
 
-**Canon Mode notice:** This Rule of Life is a trellis for healing participation in Christ. It is not advice, not a productivity system, and not a measurement tool. If it increases pressure, shame, or anxiety, pause and return to simple prayer, embodied care, and trusted pastoral or therapeutic support.
+This Rule of Life is a trellis for healing participation in Christ. It is not advice, not a productivity system, and not a measurement tool. If it increases pressure, shame, or anxiety, pause and return to simple prayer, embodied care, and trusted pastoral or therapeutic support.
 
 This Rule is designed for a pilgrim in vocational transition, spiritual deepening, trauma-aware healing, and quiet re-rooting. It is gentle, adaptive, and cruciform: coherence is truthful love under pressure, not performance.
 
