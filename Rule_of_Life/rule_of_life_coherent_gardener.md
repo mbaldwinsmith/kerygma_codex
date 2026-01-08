@@ -57,9 +57,9 @@ This Rule is designed for a pilgrim in vocational transition, spiritual deepenin
 - **Release:** entrust unresolved matters to God; postpone resolution until tomorrow.
 - **Rest:** prepare for sleep as Sabbath; the day ends without self-judgment.
 
-### Threshold Seal — Morning Re-Anchoring (G / L / C)
+### Threshold Seal — Morning Re-Anchoring
 
-> *Before any digital input is received, the Gardener re-enters Ground, Logos, and Communion through a simple five-fold prayer seal.*
+> *Before any digital input is received, the Gardener re-enters Ground, Logos, and Presence through a simple five-fold prayer seal.*
 
 **Practice**
 
@@ -75,6 +75,25 @@ Before first phone use:
 
 This is not a performance marker.  
 It is a **protective attractor** that seals coherence before entropy enters.
+
+If it is missed, it is simply resumed — never compensated.
+
+### Completion Seal — Evening Mercy & Gratitude
+
+> *Before sleep, the Gardener entrusts the day to Christ through truth, mercy, and thanksgiving.*
+
+**Practice**
+
+Before bed:
+
+- Examination of conscience (gentle truth-telling, not self-accusation)  
+- Bring all conviction-inducing matters into Christ’s mercy  
+- Gratitude prayer (name 1–3 gifts of the day)
+
+**Orientation**
+
+This is not a performance marker.  
+It is a **healing attractor** that releases shame, restores coherence, and blesses rest.
 
 If it is missed, it is simply resumed — never compensated.
 
