@@ -78,6 +78,31 @@ It is a **protective attractor** that seals coherence before entropy enters.
 
 If it is missed, it is simply resumed — never compensated.
 
+### Optional Office Canopy — Song, Incarnation & Gospel
+
+> *When the Gardener has space and desire, the day may be further clothed in the Church’s own song and remembrance.*
+
+**Morning flowering (if desired)**  
+- **Benedictus** (Song of Zechariah)
+
+**Daytime remembrance (once or more, if desired)**  
+- **Angelus** — remembrance of the Incarnation
+
+**Evening flowering (if desired)**  
+- **Magnificat** (Song of Mary)
+
+**Word of Life (as space allows)**  
+- Gospel of the Day and a Psalm
+
+**Orientation**
+
+These are not duties.  
+They are **canopies of praise** that widen the garden’s light.  
+They are received only when they increase peace and joy.
+
+Missing them requires no repair.  
+They are flowers, not fences.
+
 ### Completion Seal — Evening Mercy & Gratitude
 
 > *Before sleep, the Gardener entrusts the day to Christ through truth, mercy, and thanksgiving.*
