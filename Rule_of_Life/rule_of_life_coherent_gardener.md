@@ -57,6 +57,27 @@ This Rule is designed for a pilgrim in vocational transition, spiritual deepenin
 - **Release:** entrust unresolved matters to God; postpone resolution until tomorrow.
 - **Rest:** prepare for sleep as Sabbath; the day ends without self-judgment.
 
+### Threshold Seal — Morning Re-Anchoring (G / L / C)
+
+> *Before any digital input is received, the Gardener re-enters Ground, Logos, and Communion through a simple five-fold prayer seal.*
+
+**Practice**
+
+Before first phone use:
+
+- Our Father  
+- Hail Mary  
+- Jesus Prayer  
+- Kyrie Eleison  
+- Glory Be  
+
+**Orientation**
+
+This is not a performance marker.  
+It is a **protective attractor** that seals coherence before entropy enters.
+
+If it is missed, it is simply resumed — never compensated.
+
 ---
 
 ## III. Weekly Rule — The Cycles That Restore Shape
