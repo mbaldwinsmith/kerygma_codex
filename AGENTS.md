@@ -36,8 +36,11 @@ Before generating any content, treat the following files as binding canon:
 - **06_TESTS_AND_INVARIANTS.md**  
   Acceptance tests all new Codex material must satisfy.
 
-- **07_FUNDAMENTAL_PRACTICES.md**  
-  The lived heart of the Codex — foundational practices that form prayerful, loving, discerning Christian life.
+- **07_fundamental_practices/**  
+  The lived heart of the Codex — foundational practice files.
+
+- **07_fundamental_practices/_INDEX.md**  
+  Canonical contents page for the Fundamental Practices directory.
 
 - **TASKS.md**  
   The living workbench defining current priorities, phases, and stewardship tasks.

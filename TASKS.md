@@ -30,6 +30,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Draft Core Operator terms as Fundamental Practices:
   - [x] Justification
   - [x] Sanctification
+  - [x] Kenosis
   - [x] Koinonia
   - [x] Theosis
   - [x] Glorification

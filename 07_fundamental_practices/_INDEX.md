@@ -51,6 +51,7 @@ This is a garden of chapels, not a rulebook.
 | Incarnation | `incarnation.md` |
 | Judgement (Krisis) | `judgement_krisis.md` |
 | Justification | `justification.md` |
+| Kenosis | `kenosis.md` |
 | Koinonia (Communion–Fellowship) | `koinonia_communion.md` |
 | Liturgy | `liturgy.md` |
 | Love (Agape) | `love_agape.md` |
@@ -112,3 +113,6 @@ Future practices will be placed where they best support gentleness, safety, and 
 ---
 
 Let this remain a place of rest.
+
+
+
