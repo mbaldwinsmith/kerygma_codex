@@ -40,6 +40,7 @@ Koinonia refines and stabilises:
 - Increased communal coherence and safety
 - Stabilised belonging and reduced isolation
 - Enhanced trust and repair capacity
+- Forgiveness pathways held in safe, consented community (**Forgiveness**)
 - Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Shared discernment and wiser decision-making
 - A repair ecology where grace is received and extended

@@ -34,6 +34,7 @@ Truth refines **Judgement (Krisis)** and **Discernment (Diakrisis)**, stabilises
 - Consent-protecting limits on power and authority
 - Re-anchored narratives that restore dignity and coherence
 - A field in which **Peace**, **Mercy**, and **Koinonia** can be real, not performative
+- A field in which forgiveness can be truthful, safe, and non-coercive (**Forgiveness**)
 
 ---
 

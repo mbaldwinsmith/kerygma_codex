@@ -65,14 +65,14 @@ It grounds **Justification** (belonging before behaviour), enables **Metanoia** 
 ## What It Can Damage (If Misused)
 - Passive spirituality that avoids responsibility  
 - Grace-language used to hide control or pressure  
-- “Instant forgiveness” that silences pain  
+- Pressured or instant forgiveness that silences pain (**Forgiveness**)  
 - Worthiness systems that exclude the weak  
 - Fatalism that ignores consent, care, and agency
 
 **Misuse-prevention notes**
 - Grace is never conditional and never withdrawn as leverage.  
 - Grace removes ladders; it does not build them.  
-- Confession is not payment; forgiveness is not a transaction.  
+- Confession is not payment; **Forgiveness** is not a transaction.  
 - Truth-telling is mercy-protected, never coerced or shaming.  
 - If grace-language increases fear, shame, or pressure, return to rest and safety.
 - If urgency or burnout appears, return to **Hope** and gentle pacing.
@@ -107,3 +107,4 @@ Grace is turned into a reward, a bargaining chip, a control tool, or a way to si
 - Illness, trauma, neurodivergence, and grief are never treated as spiritual failure.  
 - Professional support is welcomed and honoured.  
 - Grace never excuses harm — it protects the vulnerable.
+

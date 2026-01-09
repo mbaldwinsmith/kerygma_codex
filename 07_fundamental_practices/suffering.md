@@ -81,7 +81,7 @@ Suffering happens to persons; it is never demanded of them. Suffering is not voc
 - Explicitly reject: “God sent this to teach you.”
 - Explicitly reject: “Your suffering makes you holy.”
 - Explicitly reject: “Carry your cross” used to trap people in harm.
-- Explicitly reject: forced forgiveness, minimising abuse, or spiritual bypass.
+- Explicitly reject: forced forgiveness (**Forgiveness**), minimising abuse, or spiritual bypass.
 - Suffering never replaces vocation; it interrupts and reorders priorities toward protection and healing.
 - Safeguarding, medical care, and justice are not optional; they are part of truthful love under pressure.
 - If suffering-language increases shame, pressure to perform, or coercion, return to **Mercy**, **Peace**, and immediate protection.

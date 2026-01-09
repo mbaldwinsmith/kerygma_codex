@@ -40,6 +40,7 @@ This is a garden of chapels, not a rulebook.
 | Eucharist | `eucharist.md` |
 | Faith (Pistis) | `faith_pistis.md` |
 | Fasting | `fasting.md` |
+| Forgiveness | `forgiveness.md` |
 | Glorification | `glorification.md` |
 | Grace | `grace.md` |
 | Hamartia (Sin) | `hamartia_sin.md` |

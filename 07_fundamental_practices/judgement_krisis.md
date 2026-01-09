@@ -39,6 +39,7 @@ As a refinement of **Metanoia**, **Confession**, **Sanctification**, **Authority
 - Distortion named without identity collapse
 - Clearer boundaries between life-giving and life-destroying patterns
 - Pathways opened for repentance and repair (**Metanoia**, **Confession**)
+- Forgiveness pathways opened without coercion (**Forgiveness**)
 - Reduced confusion and moral fog
 - Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Perseverance in repair without despair (**Hope**)

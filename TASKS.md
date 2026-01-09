@@ -23,6 +23,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Draft Regeneration (παλιγγενεσία / Regeneratio) as a Fundamental Practice term.
 - [x] Draft Mercy (Ἔλεος / Misericordia) as a Fundamental Practice term.
 - [x] Draft Peace (Εἰρήνη / Pax) as a Fundamental Practice term.
+- [x] Draft Forgiveness (Ἄφεσις / Remissio) as a Fundamental Practice term.
 - [x] Draft Truth (Ἀλήθεια / Veritas) as a Fundamental Practice term.
 - [x] Draft Sacrifice (Θυσία / Sacrificium) as a Fundamental Practice term.
 - [x] Install bidirectional Peace safeguards across core practices (formal operator, outputs, misuse prevention).
@@ -153,6 +154,9 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Align glossary filename references (`03_GLOSSARY.md` vs `03_GLOSSSARY.md`) across docs.
 - [ ] Add `KERYGMA_CODEX_CORE.md` to README core architecture list and recommended reading path.
 - [x] Completed integration of Marriage and Celibacy as vocational configurations under Vocation.
+- [x] Added Forgiveness cross-references in confession, mercy, and peace.
+- [x] Added Forgiveness cross-references in judgement, truth, hope, and koinonia.
+- [x] Normalized forgiveness phrasing across practice files.
 
 ---
 
@@ -486,3 +490,4 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - None (Layer Effects refactor pass complete).
 - [ ] Terms requiring special theological/pastoral review:
   - None noted in this batch.
+

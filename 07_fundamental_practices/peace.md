@@ -25,6 +25,7 @@ Peace is not a “fruit” added onto coherence; it is the baseline healed state
 - Shame-noise reduction (σ ↑)
 - Fear-hostility resolution and softened reactivity
 - Restored relational safety and attunement in God and neighbour
+- Expanded capacity for forgiveness without coercion (**Forgiveness**)
 - Increased capacity for truthful love under pressure
 - A stable field in which **Discernment**, **Obedience**, and **Virtue** can mature without fear
 

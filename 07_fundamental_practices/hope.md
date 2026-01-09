@@ -32,6 +32,7 @@ As a refinement of **Metanoia**, **Sanctification**, **Vigil**, and **Mercy**, H
 - Reduced performance pressure; increased trust in God’s timing
 - Patient endurance that keeps love present under strain (**Love**, **Vigil**)
 - A safer sense of time that allows slow healing to remain faithful
+- Space for forgiveness and repair without coercion (**Forgiveness**)
 - Non-collapse under delay, grief, or chronic struggle
 
 ---

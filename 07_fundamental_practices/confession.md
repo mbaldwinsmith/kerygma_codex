@@ -33,6 +33,7 @@ As a refinement of **Justification**, **Metanoia**, and **Koinonia**, Confession
 - Shame reduced through merciful truth
 - Clarified conscience and narrative integrity
 - Restored or repaired relational bonds
+- Opened forgiveness pathways without coercion (**Forgiveness**)
 - Increased capacity for accountability without fear
 - Gentler, more stable attractor landscape
 - Reality-aligned clarity that strengthens consent and safeguarding (**Truth**)

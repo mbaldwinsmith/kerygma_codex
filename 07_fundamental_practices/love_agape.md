@@ -63,7 +63,7 @@ Agape stabilises and propagates healed attractor landscapes across relational fi
 ## What it looks like in practice
 - Gentle truth-telling that protects dignity  
 - Staying present with the suffering  
-- Choosing forgiveness without denying harm  
+- Choosing **Forgiveness** without denying harm  
 - Boundaried care  
 - Quiet, consistent faithfulness
 
