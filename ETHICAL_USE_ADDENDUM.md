@@ -1,11 +1,11 @@
 # ETHICAL_USE_ADDENDUM
 
 ## Ethical Use and Safeguarding Covenant  
-for *Generative Systems Theology*
+for *Kerygma Codex*
 
 This Addendum forms a binding part of the license for this work and applies to all use, adaptation, distribution, and derivative works.
 
-*Generative Systems Theology* is offered as a commons of healing, discernment, and formation.  
+*Kerygma Codex* is offered as a commons of healing, discernment, and formation.  
 It exists to protect human dignity, consent, safety, and truthful love — especially for the vulnerable.
 
 This Addendum exists to prevent misuse, enclosure, coercion, spiritual harm, and extractive or manipulative applications.
@@ -119,5 +119,5 @@ you do not have permission to use this work.
 
 ---
 
-*Generative Systems Theology is offered as a commons of healing.  
+*Kerygma Codex is offered as a commons of healing.  
 Please keep it gentle.*

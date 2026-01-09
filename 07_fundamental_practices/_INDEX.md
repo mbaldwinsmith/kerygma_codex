@@ -1,6 +1,6 @@
 # Fundamental Practices
 
-These practices form the lived heart of the Generative Systems Theology Codex.
+These practices form the lived heart of the Kerygma Codex.
 
 They are not techniques, ladders, or performance disciplines.  
 They are gentle, cruciform ways of life by which coherence is healed, stabilised, and shared within the Body of Christ.

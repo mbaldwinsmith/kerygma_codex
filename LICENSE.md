@@ -13,7 +13,7 @@ Copyright © 2026 Mark Baldwin-Smith
 
 ### Core License
 
-This work, *Generative Systems Theology*, is licensed under the  
+This work, *Kerygma Codex*, is licensed under the  
 **Creative Commons Attribution–ShareAlike 4.0 International License (CC BY-SA 4.0).**
 
 You are free to:

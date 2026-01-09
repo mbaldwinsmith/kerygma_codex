@@ -1,4 +1,4 @@
-# Generative Systems Theology Codex
+# Kerygma Codex
 ## Project Constitution
 
 This Codex formalises Christian spiritual life using systems-science metaphor as a grammar of participation in the Triune God.

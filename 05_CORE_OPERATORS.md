@@ -1,6 +1,6 @@
 # Core Operators
 
-This file contains the primary transformation operators of Generative Systems Theology.  
+This file contains the primary transformation operators of the Kerygma Codex.  
 These are the fundamental “grammar verbs” by which coherence is repaired, stabilised, and brought into communion with God.
 
 All operators are read analogically and cruciformly.  
@@ -10,7 +10,7 @@ They do not describe mechanisms in God, but grammars of participation in divine 
 
 ## Canonical Operator Set
 
-The following operators form the primary transformation grammar of Generative Systems Theology.  
+The following operators form the primary transformation grammar of the Kerygma Codex.  
 All other Codex operators must be expressed as refinements, compositions, or applications of this set.
 
 1. **Justification** — Ground anchoring in grace  

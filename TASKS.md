@@ -1,6 +1,6 @@
 # Codex Tasks
 
-This file tracks the living work of building, refining, and safeguarding the Generative Systems Theology Codex.
+This file tracks the living work of building, refining, and safeguarding the Kerygma Codex.
 
 All tasks must honour the Constitution, Guardrails, and Tests before being marked complete.
 
@@ -133,6 +133,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 ## Phase 8 — Codex Stewardship
 
 - [ ] Review LICENSE.md and ETHICAL_USE_ADDENDUM.md annually.
+- [x] Standardize project title references to Kerygma Codex across the repository.
 - [x] Create `KERYGMA_CODEX_CORE.md` root synthesis document.
 - [ ] Create contributor guidelines.
 - [ ] Add versioning and changelog.

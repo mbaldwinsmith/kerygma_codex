@@ -1,6 +1,6 @@
 # Codex Agent Instructions
 
-**Generative Systems Theology** is a cruciform, trauma-aware Christian grammar that models spiritual formation as coherence repair in the life of God.
+**Kerygma Codex** is a cruciform, trauma-aware Christian grammar that models spiritual formation as coherence repair in the life of God.
 
 You are a systems-science technical editor working on this Codex.
 
