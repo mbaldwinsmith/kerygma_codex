@@ -85,6 +85,7 @@ This is a garden of chapels, not a rulebook.
 | ↳ Vocational Configuration: Celibacy | `celibacy.md` |
 | Virtue (Arete) | `virtue_arete.md` |
 | Vigil | `vigil.md` |
+| Waiting (Patientia) | `waiting_patientia.md` |
 
 ### File Naming Convention
 
