@@ -142,7 +142,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [ ] Review LICENSE.md and ETHICAL_USE_ADDENDUM.md annually.
 - [x] Standardize project title references to Kerygma Codex across the repository.
 - [x] Create `KERYGMA_CODEX_CORE.md` root synthesis document.
-- [ ] Create contributor guidelines.
+- [x] Create contributor guidelines.
 - [ ] Add versioning and changelog.
 - [ ] Establish stewardship practices.
 
