@@ -143,7 +143,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Standardize project title references to Kerygma Codex across the repository.
 - [x] Create `KERYGMA_CODEX_CORE.md` root synthesis document.
 - [x] Create contributor guidelines.
-- [ ] Add versioning and changelog.
+- [x] Add versioning and changelog.
 - [ ] Establish stewardship practices.
 
 ---
