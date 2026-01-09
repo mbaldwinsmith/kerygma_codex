@@ -127,17 +127,15 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 ## Phase 7 — Repair Ecology Case Studies
 
-- [ ] Write 7 gentle case studies demonstrating:
-  - [ ] the burned-out carer
-  - [ ] the religiously traumatised believer
-  - [ ] the ashamed addict
-  - [ ] the tender mystic
-  - [ ] the exhausted pastor
-  - [ ] the questioning gay Christian
-  - [ ] the silent contemplative
-- [ ] Validate each against pastoral guardrails.
-
----
+- [x] Write 7 gentle case studies demonstrating:
+  - [x] the burned-out carer
+  - [x] the religiously traumatised believer
+  - [x] the ashamed addict
+  - [x] the tender mystic
+  - [x] the exhausted pastor
+  - [x] the questioning gay Christian
+  - [x] the silent contemplative
+- [x] Validate each against pastoral guardrails.
 
 ## Phase 8 — Codex Stewardship
 
