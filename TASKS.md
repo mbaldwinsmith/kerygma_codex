@@ -67,6 +67,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - [x] Baptism
   - [x] Eucharist
   - [x] Confession
+  - [x] Church / Ekklesia
   - [x] Icon (Εἰκών / Icona)
   - [x] Authority
   - [x] Tradition
@@ -493,4 +494,5 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - None (Layer Effects refactor pass complete).
 - [ ] Terms requiring special theological/pastoral review:
   - None noted in this batch.
+
 

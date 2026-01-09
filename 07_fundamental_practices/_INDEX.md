@@ -30,6 +30,7 @@ This is a garden of chapels, not a rulebook.
 | Atonement | `atonement.md` |
 | Authority | `authority.md` |
 | Baptism | `baptism.md` |
+| Church / Ekklesia | `church_ekklesia.md` |
 | Confession | `confession.md` |
 | Conscience (Synderesis) | `conscience_synderesis.md` |
 | Conversion | `conversion.md` |
