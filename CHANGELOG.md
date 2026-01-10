@@ -24,6 +24,7 @@ Changed:
 - Layer Effects refactor passes across Fundamental Practices.
 - Merged core synthesis content into `05_CORE_OPERATORS.md`, removed the prior core summary file, and updated references.
 - Renamed `INTRODUCTON.md` to `INTRODUCTION.md` and linked it from `README.md`, `05_CORE_OPERATORS.md`, `CONTRIBUTING.md`, `MANIFESTO.md`, and `07_fundamental_practices/_INDEX.md`.
+- Renamed `KERYGMA_CODEX_ESCHATOLOGICAL_COMPLETION.md` to `ESCHATOLOGICAL_COMPLETION.md`.
 
 Fixed:
 - Glossary filename alignment and glossary cleanup.
