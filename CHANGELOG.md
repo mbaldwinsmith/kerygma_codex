@@ -28,3 +28,4 @@ Changed:
 
 Fixed:
 - Glossary filename alignment and glossary cleanup.
+- Encoding artifacts in `05_CORE_OPERATORS.md`.

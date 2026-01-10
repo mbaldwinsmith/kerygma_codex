@@ -161,6 +161,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 
 - [x] Align glossary filename references (`03_GLOSSARY.md` vs `03_GLOSSSARY.md`) across docs.
 - [x] Add `05_CORE_OPERATORS.md` to README core architecture list and recommended reading path.
+- [x] Fix encoding artifacts in `05_CORE_OPERATORS.md`.
 - [x] Completed integration of Marriage and Celibacy as vocational configurations under Vocation.
 - [x] Added Forgiveness cross-references in confession, mercy, and peace.
 - [x] Added Forgiveness cross-references in judgement, truth, hope, and koinonia.
