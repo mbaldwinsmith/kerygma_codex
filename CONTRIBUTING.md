@@ -9,6 +9,7 @@ Thank you for contributing. This project is a gentle, safeguarding-first grammar
 - Avoid hype, grandiosity, and pseudo-scientific claims.
 
 ## Canonical Sources (Read First)
+For orientation, read `INTRODUCTION.md` first.
 These are binding:
 - `00_CONSTITUTION.md`
 - `01_TERM_TEMPLATE.md`

@@ -11,6 +11,8 @@ We stand in a time of profound spiritual fragmentation. Many who seek God find t
 
 The Kerygma Codex is offered in response. It is a proposal for a gentle, trauma-aware, and coherent grammar for Christian formation. It is an invitation to a faith that is at once gentle enough to hold the wounded and rigorous enough to be trustworthy. This is not a new doctrine or a rulebook, but a shared language for repair: a commons of healing for a world marked by division and distress.
 
+For a shorter orientation, see `INTRODUCTION.md`.
+
 Our central vision is the cultivation of a **repair ecology**: a habitat where people can become whole, truthful, gentle, and safe under pressure. It is an invitation to a faith that feels less like a performance system and more like a *garden of chapels*: a place of rest, consent, and careful discernment where healing becomes natural.
 
 ---

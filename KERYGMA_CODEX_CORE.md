@@ -158,12 +158,13 @@ These are application patterns (not case studies), offered as safe uses of the g
 
 ## 7. How to Use This Repository
 ### Recommended reading path
-1. `07_fundamental_practices/_INDEX.md` and core practices
-2. `05_CORE_OPERATORS.md`
-3. `00_CONSTITUTION.md` and `04_PASTORAL_GUARDRAILS.md`
-4. `02_FORMALISM.md` and `03_GLOSSARY.md`
-5. `06_TESTS_AND_INVARIANTS.md`
-6. `TASKS.md`
+1. `INTRODUCTION.md`
+2. `07_fundamental_practices/_INDEX.md` and core practices
+3. `05_CORE_OPERATORS.md`
+4. `00_CONSTITUTION.md` and `04_PASTORAL_GUARDRAILS.md`
+5. `02_FORMALISM.md` and `03_GLOSSARY.md`
+6. `06_TESTS_AND_INVARIANTS.md`
+7. `TASKS.md`
 
 ### How to contribute new terms
 - Use **`01_TERM_TEMPLATE.md`** for every new term.

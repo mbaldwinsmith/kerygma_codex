@@ -19,7 +19,8 @@ It offers a **shared language for healing participation in Christ**.
 
 Before reading further, we invite you to begin with:
 
-→ **`MANIFESTO.md`** — *A Manifesto for Generative Systems Theology: The Kerygma Codex*
+- **`INTRODUCTION.md`** - *A gentle overview of the Codex*
+- **`MANIFESTO.md`** - *A Manifesto for Generative Systems Theology: The Kerygma Codex*
 
 ---
 
@@ -65,6 +66,7 @@ It exists to name healing patterns, not to rank or dominate human beings.
 
 | File | Role |
 |-----|-----|
+| `INTRODUCTION.md` | Gentle overview and orientation |
 | `MANIFESTO.md` | Foundational vision and covenant |
 | `KERYGMA_CODEX_CORE.md` | Root synthesis document |
 | `00_CONSTITUTION.md` | Non-negotiable theological and ethical invariants |
@@ -108,11 +110,12 @@ See:
 
 Begin gently:
 
-1. `MANIFESTO.md`  
-2. `KERYGMA_CODEX_CORE.md`  
-3. `07_fundamental_practices/_INDEX.md`  
-4. `05_CORE_OPERATORS.md`  
-5. `00_CONSTITUTION.md`
+1. `INTRODUCTION.md`  
+2. `MANIFESTO.md`  
+3. `KERYGMA_CODEX_CORE.md`  
+4. `07_fundamental_practices/_INDEX.md`  
+5. `05_CORE_OPERATORS.md`  
+6. `00_CONSTITUTION.md`
 
 Let this be a place of rest, not performance.
 

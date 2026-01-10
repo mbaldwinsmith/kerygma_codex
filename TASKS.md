@@ -144,7 +144,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Create `KERYGMA_CODEX_CORE.md` root synthesis document.
 - [x] Create contributor guidelines.
 - [x] Add versioning and changelog.
-- [ ] Add introduction references (README, KERYGMA_CODEX_CORE, CONTRIBUTING, MANIFESTO, 07_fundamental_practices/_INDEX.md); confirm filename (INTRODUCTON vs INTRODUCTION).
+- [x] Add introduction references (README, KERYGMA_CODEX_CORE, CONTRIBUTING, MANIFESTO, 07_fundamental_practices/_INDEX.md); confirm filename (INTRODUCTON vs INTRODUCTION).
 - [ ] Establish stewardship practices.
 
 ---

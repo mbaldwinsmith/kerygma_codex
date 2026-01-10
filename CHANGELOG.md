@@ -21,6 +21,7 @@ Changed:
 - Fundamental practices index structure aligned to `07_fundamental_practices/_INDEX.md`.
 - Truth and Hope integration passes across core terms.
 - Layer Effects refactor passes across Fundamental Practices.
+- Renamed `INTRODUCTON.md` to `INTRODUCTION.md` and linked it from `README.md`, `KERYGMA_CODEX_CORE.md`, `CONTRIBUTING.md`, `MANIFESTO.md`, and `07_fundamental_practices/_INDEX.md`.
 
 Fixed:
 - Glossary filename alignment and glossary cleanup.

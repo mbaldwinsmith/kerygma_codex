@@ -7,6 +7,8 @@ They are gentle, cruciform ways of life by which coherence is healed, stabilised
 
 Each practice is a *grammar of participation* in divine life — not a mechanism for control, optimisation, or spiritual comparison.
 
+For a gentle overview before engaging practices, see `INTRODUCTION.md`.
+
 All practices are held within:
 
 - the Cruciform Criterion  
