@@ -32,6 +32,8 @@ To understand how the Codex maps this work of repair, we begin with its simple m
 
 ---
 
+![Kerygma Codex Infographic](Infographic.png)
+
 ## 3. The Map of the Person — A Simple 3-Layer System
 
 The Codex uses a simple, analogical model to help visualise the different dimensions of our inner lives. This is a **metaphor, not a metaphysical anatomy.**
