@@ -149,6 +149,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Add `SYSTEM_SPEC.md` and link it from core contributor-facing docs.
 - [x] Rewrite README with updated guidance links and remove encoding artifacts.
 - [x] Integrate ROADMAP into README reading list.
+- [x] Link ROADMAP in CONTRIBUTING and align contributor guidance with public stewardship principles.
 - [ ] Establish stewardship practices.
 
 ---
@@ -507,5 +508,4 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - None (Layer Effects refactor pass complete).
 - [ ] Terms requiring special theological/pastoral review:
   - None noted in this batch.
-
 
