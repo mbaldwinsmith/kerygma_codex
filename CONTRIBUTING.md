@@ -19,10 +19,18 @@ These are binding:
 - `05_CORE_OPERATORS.md`
 - `06_TESTS_AND_INVARIANTS.md`
 - `07_fundamental_practices/_INDEX.md`
+- `ROADMAP.md`
 - `TASKS.md`
 
 Additional contributor references:
 - `SYSTEM_SPEC.md`
+
+## Roadmap Alignment (Public Stewardship)
+The Codex is shared as a gentle invitation and a commons of healing. When editing public-facing or onboarding materials, align with the roadmap’s non-negotiables:
+- Keep tone cruciform, gentle, and non-performative.
+- Refuse diagnostic, ranking, or coercive framing.
+- Surface safeguarding and consent with clear off-ramps.
+- Foreground the CC BY-SA 4.0 license and Ethical Use Addendum for any publication notes.
 
 ## Workflow
 1. Check `TASKS.md` and choose the highest-priority incomplete task.
