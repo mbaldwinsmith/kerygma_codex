@@ -39,6 +39,7 @@ A simple way in:
 1. Read `INTRODUCTION.md`  
 2. Explore one term in `/01_TERMS/`  
 3. Try one practice in `/07_FUNDAMENTAL_PRACTICES/`
+4. Read a case study
 
 Return slowly. This is not a system to complete, it is a garden to walk in.
 
