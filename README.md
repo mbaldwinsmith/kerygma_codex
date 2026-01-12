@@ -55,7 +55,7 @@ All use, teaching, adaptation, or extension of the Codex must honour:
 • Safeguarding  
 • **The Cruciform Criterion** — truthful love that remains gentle under pressure  
 
-If any use increases fear, shame, urgency, domination, or control — it is out of bounds.
+If any use increases fear, shame, urgency, domination, or control — it is out of bounds, in accordance with `ETHICAL_USE_ADDENDUM.md`.
 
 ---
 
