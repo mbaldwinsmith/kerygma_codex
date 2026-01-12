@@ -96,6 +96,8 @@ Contributions are welcomed, but always subject to the Guardrails, Tests, and Cov
 
 This is a protected garden — not an open battlefield.
 
+See `CONTRIBUTING.md` for getting started!
+
 ---
 
 *May this grammar serve healing, not harm.  
