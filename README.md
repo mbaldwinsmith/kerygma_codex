@@ -26,7 +26,7 @@ Many people who seek God find themselves navigating theological frameworks that,
 
 The Kerygma Codex was created as a response to this pain. It offers a gentle, trauma-aware Christian grammar — a compassionate framework for understanding spiritual formation and healing. It is not a new doctrine or a rulebook, but is offered as a shared language for repair for those longing for a faith that is both trustworthy and safe.
 
-The central vision of the Codex is to cultivate a **repair ecology** — a habitat where healing becomes natural. It imagines faith less like a performance system and more like a *garden of chapels*: a place of rest, consent, and careful discernment where healing becomes natural.
+The central vision of the Codex is to cultivate a **repair ecology**, a habitat where healing becomes natural. It imagines faith less like a performance system and more like a *garden of chapels*: a place of rest, consent, and careful discernment where healing becomes natural.
 
 ---
 
@@ -40,7 +40,7 @@ A simple way in:
 2. Explore one term in `/01_TERMS/`  
 3. Try one practice in `/07_FUNDAMENTAL_PRACTICES/`
 
-Return slowly. This is not a system to complete — it is a garden to walk.
+Return slowly. This is not a system to complete, it is a garden to walk in.
 
 ---
 
@@ -53,7 +53,7 @@ All use, teaching, adaptation, or extension of the Codex must honour:
 • Trauma-awareness  
 • Non-coercion  
 • Safeguarding  
-• **The Cruciform Criterion** — truthful love that remains gentle under pressure  
+• **The Cruciform Criterion**, truthful love that remains gentle under pressure  
 
 If any use increases fear, shame, urgency, domination, or control — it is out of bounds, in accordance with `ETHICAL_USE_ADDENDUM.md`.
 
@@ -94,7 +94,7 @@ Each layer exists to protect gentleness, consent, and truthfulness under pressur
 The Codex is stewarded as a commons of healing.  
 Contributions are welcomed, but always subject to the Guardrails, Tests, and Covenant of Posture.
 
-This is a protected garden — not an open battlefield.
+This is a protected garden, not an open battlefield.
 
 See `CONTRIBUTING.md` for getting started!
 
