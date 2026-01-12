@@ -33,6 +33,20 @@ At its heart is a **repair ecology**: a habitat where people can become whole, t
 
 ---
 
+## Reading List
+
+- **INTRODUCTION** — gentle overview of the Codex and its aims. (`INTRODUCTION.md`)
+- **00_CONSTITUTION** — non-negotiable theological and pastoral invariants. (`00_CONSTITUTION.md`)
+- **01_TERM_TEMPLATE** — the required form for Codex term entries. (`01_TERM_TEMPLATE.md`)
+- **02_FORMALISM** — system layers, attractors, and coherence grammar. (`02_FORMALISM.md`)
+- **03_GLOSSARY** — canonical vocabulary and term alignment. (`03_GLOSSARY.md`)
+- **04_PASTORAL_GUARDRAILS** — safeguards against coercion and harm. (`04_PASTORAL_GUARDRAILS.md`)
+- **05_CORE_OPERATORS** — the transformation grammar of salvation and formation. (`05_CORE_OPERATORS.md`)
+- **07_fundamental_practices/_INDEX** — gateway to lived practices. (`07_fundamental_practices/_INDEX.md`)
+- **ROADMAP** — sequencing, priorities, and stewardship milestones. (`ROADMAP.md`)
+
+---
+
 ## Guiding Commitments
 
 - **The Cross is the criterion**: coherence means truthful love under pressure.
