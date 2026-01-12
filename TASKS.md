@@ -147,6 +147,7 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
 - [x] Add introduction references (README, 05_CORE_OPERATORS, CONTRIBUTING, MANIFESTO, 07_fundamental_practices/_INDEX.md); confirm filename (INTRODUCTON vs INTRODUCTION).
 - [x] Merge prior core synthesis content into `05_CORE_OPERATORS.md` and update references.
 - [x] Add `SYSTEM_SPEC.md` and link it from core contributor-facing docs.
+- [x] Rewrite README with updated guidance links and remove encoding artifacts.
 - [ ] Establish stewardship practices.
 
 ---
@@ -505,7 +506,6 @@ All tasks must honour the Constitution, Guardrails, and Tests before being marke
   - None (Layer Effects refactor pass complete).
 - [ ] Terms requiring special theological/pastoral review:
   - None noted in this batch.
-
 
 
 

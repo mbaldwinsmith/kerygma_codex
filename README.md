@@ -1,7 +1,6 @@
 # Kerygma Codex
 
-*A cruciform, trauma-aware grammar of Christian formation and communal repair  
-written in analogical systems language*
+*A cruciform, trauma-aware grammar of Christian formation and communal repair, written in analogical systems language.*
 
 ![Kerygma Codex Infographic](Infographic.png)
 
@@ -9,123 +8,53 @@ written in analogical systems language*
 
 ## Welcome
 
-The **Kerygma Codex** is a gentle, safeguarding-first grammar for Christian formation.
+The **Kerygma Codex** is a gentle, safeguarding-first grammar for Christian formation. It names patterns of healing participation in Christ using systems-science metaphors as a **translation layer**, always subordinate to the Cross and to pastoral truth.
 
-It exists to cultivate what it calls a **repair ecology** ÔÇö  
-a living habitat where human beings can become whole, truthful, gentle, and safe under pressure.
-
-This Codex does not offer a programme to run, a ladder to climb, or a system to master.  
-It offers a **shared language for healing participation in Christ**.
-
-Before reading further, we invite you to begin with:
-
-- **`INTRODUCTION.md`** - *A gentle overview of the Codex*
-- **`MANIFESTO.md`** - *A Manifesto for Generative Systems Theology: The Kerygma Codex*
+At its heart is a **repair ecology**: a habitat where people can become whole, truthful, gentle, and safe under pressure. This is not a performance system or a ladder to climb; it is a shared language for communion, discernment, and formation.
 
 ---
 
-## What This Is
+## What You Will Find Here
 
-The Kerygma Codex is a pastoral-theological commons that uses systems-science metaphor as an **analogical translation layer** for ancient Christian formation theology.
-
-Within this grammar:
-
-ÔÇó salvation is understood as **coherence repair in Christ**  
-ÔÇó formation is participatory, not performative  
-ÔÇó stability is measured by cruciform love, not spiritual output  
-ÔÇó safeguarding is structural, not optional  
-
-The human person is modelled analogically as a layered system:
-
-- **Ground (G)** ÔÇö being, safety, belonging  
-- **Logos (L)** ÔÇö meaning, conscience, truth  
-- **Presence (P)** ÔÇö relational aliveness and communion  
-
-All coherence is measured by one criterion:
-
-> **Truthful love that remains gentle under pressure ÔÇö the Cross.**
+- **Christ-centred coherence**: truthful love under pressure is the criterion for all formation.
+- **Trauma-aware safeguards**: consent, rest, and creaturely limits are non-negotiable.
+- **Analogical systems language**: a careful metaphorical grammar that serves, not replaces, Christian truth.
+- **Practical formation resources**: formal operator definitions, fundamental practices, and case studies.
 
 ---
 
-## What This Is Not
+## Start Here
 
-This Codex is not:
-
-- a performance spirituality  
-- a behaviour-optimisation tool  
-- a self-improvement programme  
-- a diagnostic system for other people  
-- a mechanism that attempts to ÔÇ£make God actÔÇØ  
-
-It is a grammar of participation, not control.  
-It exists to name healing patterns, not to rank or dominate human beings.
+- **INTRODUCTION** â€” a gentle overview and orientation. (`INTRODUCTION.md`)
+- **MANIFESTO** â€” the covenant and vision of the Codex. (`MANIFESTO.md`)
+- **SYSTEM_SPEC** â€” technical specification of the system grammar. (`SYSTEM_SPEC.md`)
+- **CONTRIBUTING** â€” how to participate in this commons. (`CONTRIBUTING.md`)
+- **Case Studies** â€” lived examples of repair ecology. (`case_studies/`)
 
 ---
 
-## Core Architecture
+## Guiding Commitments
 
-| File | Role |
-|-----|-----|
-| `INTRODUCTION.md` | Gentle overview and orientation |
-| `MANIFESTO.md` | Foundational vision and covenant |
-| `05_CORE_OPERATORS.md` | Core grammar, architecture, and operators |
-| `SYSTEM_SPEC.md` | Formal system specification (technical reference) |
-| `00_CONSTITUTION.md` | Non-negotiable theological and ethical invariants |
-| `01_TERM_TEMPLATE.md` | Structure for all Codex entries |
-| `02_FORMALISM.md` | Core grammar |
-| `03_GLOSSARY.md` | Canonical vocabulary |
-| `04_PASTORAL_GUARDRAILS.md` | Safeguarding architecture |
-| `06_TESTS_AND_INVARIANTS.md` | Acceptance tests |
-| `07_fundamental_practices/_INDEX.md` | Lived heart index |
-| `TASKS.md` | Living workbench |
+- **The Cross is the criterion**: coherence means truthful love under pressure.
+- **Systems language is analogical**: never mechanistic, never coercive.
+- **Safeguarding is structural**: we refuse bypassing, ranking, or controlling others.
+- **Gentleness is mandatory**: nothing here is meant to pressure, diagnose, or dominate.
 
 ---
 
 ## Ethical Use
 
-This work is licensed under **CC BY-SA 4.0 with an Ethical Use Addendum**.
-
-It is offered as a **commons of healing** and is bound by an ethical covenant:
-
-> *If your intended use does not clearly preserve gentleness, truth, safety, consent, and human dignity, you do not have permission to use this work.*
+This work is licensed under **CC BY-SA 4.0 with an Ethical Use Addendum**. It is offered as a commons of healing and is bound by an ethical covenant.
 
 See:
 
-- `LICENSE.md`  
+- `LICENSE.md`
 - `ETHICAL_USE_ADDENDUM.md`
-
----
-
-## Who This Is For
-
-- Christians longing for a gentle, grounded, coherent grammar of faith  
-- Pastors, chaplains, and spiritual directors  
-- Theologians and contemplatives  
-- Those working at the intersection of faith, psychology, and systems thinking  
-- Communities seeking a faith that heals rather than pressures  
-
----
-
-## How To Engage
-
-Begin gently:
-
-1. `INTRODUCTION.md`  
-2. `MANIFESTO.md`  
-3. `05_CORE_OPERATORS.md`  
-4. `07_fundamental_practices/_INDEX.md`  
-5. `00_CONSTITUTION.md`
-
-Let this be a place of rest, not performance.
 
 ---
 
 ## A Final Word
 
-This Codex exists to cultivate a **garden of chapels** ÔÇö  
-a repair ecology of safety, consent, truthful love, and gentle formation.
+If your engagement with this work makes you feel smaller, more afraid, or more pressured, pause. Rest. Return to simple prayer and embodied care. The Codex exists to nurture a repair ecology, not a performance culture.
 
-If your engagement with this work makes you feel smaller, more afraid, or more pressured,  
-pause. Rest. Return to simple prayer and embodied care.
-
-*Please keep it gentle.* ­ƒî+
+*Please keep it gentle.*
