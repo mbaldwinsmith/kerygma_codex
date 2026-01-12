@@ -102,4 +102,4 @@ See `CONTRIBUTING.md` for getting started!
 
 *May this grammar serve healing, not harm.  
 May it widen mercy, not narrow belonging.  
-May it remain gentle, even when truth must be strong.*
+May it remain gentle, even when truth remains firm.*
