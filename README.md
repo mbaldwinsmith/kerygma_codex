@@ -37,9 +37,8 @@ You do not need to read everything to begin.
 A simple way in:
 
 1. Read `INTRODUCTION.md`  
-2. Explore one term in `/01_TERMS/`  
+2. Explore one case study in `/case_studies/`  
 3. Try one practice in `/07_FUNDAMENTAL_PRACTICES/`
-4. Read a case study
 
 Return slowly. This is not a system to complete, it is a garden to walk in.
 
@@ -78,7 +77,7 @@ It is for those willing to walk slowly, gently, and truthfully.
 The Codex is structured as a living grammar of spiritual repair:
 
 - `00_CONSTITUTION.md` — Core theological posture and safeguarding boundaries  
-- `01_TERMS/` — Canonical grammar of spiritual life  
+- `01_TERM_TEMPLATE.md` — Canonical grammar of spiritual life  
 - `02_FORMALISM.md` — Systems-theological formalisation  
 - `03_GLOSSARY.md` — Shared language definitions  
 - `04_PASTORAL_GUARDRAILS.md` — Safeguards against harm  
