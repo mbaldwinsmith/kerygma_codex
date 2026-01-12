@@ -6,7 +6,7 @@
 **The Kerygma Codex** is a public commons of prayerful language, practices, and safeguards for those seeking a faith that heals rather than harms.
 
 It is not a new doctrine, denomination, or control system.  
-It is offered as a *servant grammar* — a shared language for naming, repairing, and cultivating healthy spiritual life.
+It is offered as a *servant grammar*, a shared language for naming, repairing, and cultivating healthy spiritual life.
 
 If your nervous system has been strained by religious pressure, spiritual performance, or coercive certainty, you are especially welcome here.
 
@@ -24,7 +24,7 @@ If your nervous system has been strained by religious pressure, spiritual perfor
 
 Many people who seek God find themselves navigating theological frameworks that, however well-intentioned, can create deep spiritual fragmentation. The language of faith, meant to be a source of life, can sometimes become a source of shame, pressure, and constant performance anxiety.
 
-The Kerygma Codex was created as a response to this pain. It offers a gentle, trauma-aware Christian grammar — a compassionate framework for understanding spiritual formation and healing. It is not a new doctrine or a rulebook, but is offered as a shared language for repair for those longing for a faith that is both trustworthy and safe.
+The Kerygma Codex was created as a response to this pain. It offers a gentle, trauma-aware Christian grammar, a compassionate framework for understanding spiritual formation and healing. It is not a new doctrine or a rulebook, but is offered as a shared language for repair for those longing for a faith that is both trustworthy and safe.
 
 The central vision of the Codex is to cultivate a **repair ecology**, a habitat where healing becomes natural. It imagines faith less like a performance system and more like a *garden of chapels*: a place of rest, consent, and careful discernment where healing becomes natural.
 
@@ -55,7 +55,7 @@ All use, teaching, adaptation, or extension of the Codex must honour:
 • Safeguarding  
 • **The Cruciform Criterion**, truthful love that remains gentle under pressure  
 
-If any use increases fear, shame, urgency, domination, or control — it is out of bounds, in accordance with `ETHICAL_USE_ADDENDUM.md`.
+If any use increases fear, shame, urgency, domination, or control, it is out of bounds: in accordance with `ETHICAL_USE_ADDENDUM.md`.
 
 ---
 
