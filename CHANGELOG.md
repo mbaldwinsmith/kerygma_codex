@@ -16,7 +16,9 @@ Added:
 - Repair ecology case studies in `case_studies/`.
 - New practices added after core passes: Forgiveness, Church / Ekklesia, Waiting, Lament, Justice.
 - Root synthesis file `05_CORE_OPERATORS.md` and expanded cross-reference passes.
+- Rule of Life of the Coherent Gardener and Monthly Attractor Discernment guide.
 - Formal system specification document `SYSTEM_SPEC.md`.
+- Project roadmap document `ROADMAP.md`.
 
 Changed:
 - Fundamental practices index structure aligned to `07_fundamental_practices/_INDEX.md`.
@@ -25,6 +27,7 @@ Changed:
 - Merged core synthesis content into `05_CORE_OPERATORS.md`, removed the prior core summary file, and updated references.
 - Renamed `INTRODUCTON.md` to `INTRODUCTION.md` and linked it from `README.md`, `05_CORE_OPERATORS.md`, `CONTRIBUTING.md`, `MANIFESTO.md`, and `07_fundamental_practices/_INDEX.md`.
 - Renamed `KERYGMA_CODEX_ESCHATOLOGICAL_COMPLETION.md` to `ESCHATOLOGICAL_COMPLETION.md`.
+- Updated README/CONTRIBUTING to integrate and link `ROADMAP.md`.
 
 Fixed:
 - Glossary filename alignment and glossary cleanup.
