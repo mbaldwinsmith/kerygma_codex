@@ -59,7 +59,7 @@ If any use increases fear, shame, urgency, domination, or control — it is out 
 
 ---
 
-## Who This Is Not For (Yet)
+## Who This Is Not For
 
 This project will frustrate those seeking:
 
