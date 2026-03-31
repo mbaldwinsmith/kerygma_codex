@@ -23,6 +23,9 @@ Liturgy refines and stabilises:
 - **Faith** by embodied trust across time and tradition.
 - **Nepsis** by steadying attention and damping distortion gradients.
 - **Vigil** by holy waiting in a communal rhythm.
+- **Lament** by holding the Psalter's honest grief within the liturgical year — lament psalms, Good Friday, the Lenten fast, and the Office of the Dead give grief a structural, dignified place in worship.
+- **Hesychia** by creating ordered silence within the liturgy — moments of stillness that are themselves a form of prayer, not interruptions of it.
+- **Suffering** by making the passion of Christ visible across the liturgical calendar so that those who suffer are formed into solidarity with him and with each other.
 
 ---
 
@@ -30,6 +33,9 @@ Liturgy refines and stabilises:
 - The human systems Hᵢ = (G, L, P, A)
 - Shared rhythms, calendar, and place
 - Scripture, psalmody, silence, and sacramental signs (**Scripture**, **Eucharist**)
+- Willingness to voice grief as well as praise within the liturgical pattern (**Lament**)
+- Ordered silence as prayerful attention, not empty gap (**Hesychia**)
+- Solidarity with suffering held in the shape of the liturgical year (**Suffering**)
 - Reality-aligned naming of confession and praise (**Truth**)
 - Consent, safeguarding, and gentle leadership
 - Time, repetition, and patient participation
@@ -44,6 +50,9 @@ Liturgy refines and stabilises:
 - Reduced drift and fragmentation in shared life
 - Reality-aligned communal clarity that resists denial and bypass (**Truth**)
 - A durable reference field for discernment and belonging (**Discernment / Diakrisis**)
+- Structured space for honest grief that does not rush toward resolution (**Lament**)
+- Cultivated stillness within worship as prayerful presence (**Hesychia**)
+- Solidarity with the suffering of Christ and the suffering community (**Suffering**)
 - Perseverance in communal worship without burnout (**Hope**)
 
 ---

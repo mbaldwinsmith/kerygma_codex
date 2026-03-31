@@ -23,6 +23,9 @@ Eucharist refines and stabilises:
 - **Sanctification** by sustaining iterative convergence through repeated, gentle communion.
 - **Faith** by renewing consented reliance on Christ’s self-giving.
 - **Atonement** by embodying reconciled communion through the Crucified and Risen Christ.
+- **Lament** by holding grief within the feast — the Eucharist is instituted on the night of betrayal, so honest mourning has a place at the table alongside thanksgiving.
+- **Kenosis** by enacting Christ’s self-emptying love as the form and content of Eucharistic communion.
+- **Suffering** by making visible that participation in Christ includes solidarity with his suffering and with those who suffer now.
 
 ---
 
@@ -43,8 +46,10 @@ Eucharist refines and stabilises:
 - Deepened mutual coupling and shared coherence
 - Reality-aligned clarity that resists denial and coercion (**Truth**)
 - Sustained sanctifying convergence over time
-- Embodied memory of Christ’s self-giving love under pressure
+- Embodied memory of Christ’s self-giving love under pressure (**Kenosis**)
 - Shared peace and stability (**Peace / Eirene**)
+- Grief and gratitude held together at the table (**Lament**)
+- Solidarity with those who suffer expressed in the broken bread (**Suffering**)
 - Perseverance in sacramental life without pressure (**Hope**)
 
 ---
