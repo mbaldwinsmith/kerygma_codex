@@ -94,6 +94,8 @@ When met with merciful truth and consented repair, naming mortal sin can begin h
 - **Grace:** Mortal sin occludes grace receptivity; grace remains gift, calling for gentle re-opening.
 - **Metanoia:** The critical reopening pathway; metanoia is the mercy-enabled reopening of attractor topology.
 - **Confession:** Consented truth-healing that breaks secrecy and restores communion.
+- **Lament:** Honest grief for what the distortion has cost — self, God, and others — is often part of the reopening; it is honoured and held in mercy.
+- **Hope:** The person in mortal sin needs anchored hope that repair is possible; despair is the final trap and must be actively countered.
 - **Eucharist:** Medicine and restoration, never reward or compliance test.
 - **Peace (Eirene):** The goal is restored communion safety, not moral triumph.
 
