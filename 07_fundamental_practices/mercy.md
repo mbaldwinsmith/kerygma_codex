@@ -17,7 +17,7 @@ M(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - repentance_pathways ↑
 - restoration_pathways ↑
 
-As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis)**, and **Koinonia**, Mercy protects belonging (Grace), heals under truth (Atonement), holds confession in gentleness (Confession), ensures truth heals rather than humiliates (Judgement), and preserves protected communion (Koinonia).
+As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis)**, and **Koinonia**, Mercy protects belonging (Grace), heals under truth (Atonement), holds confession in gentleness (Confession), ensures truth heals rather than humiliates (Judgement), and preserves protected communion (Koinonia). Mercy moves toward **Suffering** — it is the compassionate response to pain that does not minimise or spiritualise it — and accompanies **Lament**, holding grief without rushing it toward resolution.
 
 **Distinctions**
 - **Mercy**: healing compassion that confronts harm safely and protects the vulnerable.
@@ -28,6 +28,8 @@ As a refinement of **Grace**, **Atonement**, **Confession**, **Judgement (Krisis
 ## Inputs
 - The human system H = (G, L, P, A)
 - God’s compassionate initiative toward the wounded
+- Willingness to be moved by the suffering of others without flinching or spiritualising (**Suffering**)
+- Capacity to sit with honest grief without rushing it toward closure (**Lament**)
 - Consent, safeguarding, and protection of the vulnerable
 - Reality-aligned naming without coercion (**Truth**)
 - Truth held in gentleness and accountability (**Judgement/Krisis**)
