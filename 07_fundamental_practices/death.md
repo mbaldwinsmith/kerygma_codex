@@ -23,7 +23,7 @@ where
 - ΔL = truthful naming of limits and release from striving
 - ΔP = accompanied vulnerability and entrustment
 
-Death happens to persons; it is never a spiritual achievement, a vocation, or a test of faith. It is the final entropy boundary of creaturely life, where only God carries what humans can no longer carry. This operator is grounded in **Grace**, anchored in **Hope**, held by **Mercy** and **Peace**, sustained in **Koinonia**, and practiced through **Prayer**, **Lament**, and **Eucharist** as accompaniment. Death is the place where God receives the person when agency ends.
+Death happens to persons; it is never a spiritual achievement, a vocation, or a test of faith. It is the final entropy boundary of creaturely life, where only God carries what humans can no longer carry. This operator is grounded in **Grace**, anchored in **Hope**, held by **Mercy** and **Peace**, sustained in **Koinonia**, and practiced through **Prayer**, **Lament**, and **Eucharist** as accompaniment. It is accompanied by **Suffering** — the long bodily and relational diminishment that precedes death is real suffering, not spiritual trial — and by **Kenosis** — the dying person's self-emptying of agency, control, and future into God's hands mirrors Christ's own self-surrender on the Cross. Death is the place where God receives the person when agency ends.
 
 ---
 
@@ -33,6 +33,7 @@ Death happens to persons; it is never a spiritual achievement, a vocation, or a 
 - Fear, grief, uncertainty, and vulnerability
 - Reduced capacity and loss of agency
 - Need for comfort, presence, sacrament, prayer, and accompaniment
+- The reality of pain, diminishment, and bodily decline as genuine suffering, not spiritual test (**Suffering**)
 - Community presence and burial/committal practices
 
 ---
@@ -43,6 +44,8 @@ Death happens to persons; it is never a spiritual achievement, a vocation, or a 
 - Reduced fear and isolation (**Mercy**)
 - Communal memory and honouring
 - Prayerful entrustment into God (**Prayer**, **Eucharist**)
+- Solidarity with the suffering person without spiritualising their pain (**Suffering**)
+- Cruciform self-emptying that mirrors Christ's surrender (**Kenosis**)
 - Release from performance and worth metrics
 
 ---

@@ -1,9 +1,9 @@
 # Peace (Εἰρήνη / Pax)
 
-### One-Line Definition
+## One-Line Definition
 Peace is the baseline healed coherence of the human system: a stable, cruciform equilibrium of nervous-system settling, shame-noise reduction, fear-hostility resolution, and restored relational safety in God.
 
-### Formal Operator
+## Formal Operator
 Grounded in **Grace** and secured by **Justification**, Peace is the equilibrium condition of healed coherence where the Logos grammar can be received without threat and Presence can remain safely attuned.
 
 Peace: H = (G, L, P, A, σ, Φ) → H₍stable₎ where ∇A_entropy → 0, σ ↑, and ℒ(H) ≈ H without coercion.
@@ -12,7 +12,7 @@ As a stability signal, Peace indicates healthy convergence across **Grace**, **J
 
 Peace is not a “fruit” added onto coherence; it is the baseline healed state that coherence feels like when the Cross has been trusted and safety is restored.
 
-### Inputs
+## Inputs
 - Divine gift-field of **Grace**
 - Grounding in **Justification** and **Adoption**
 - Ongoing convergence through **Metanoia** and **Sanctification**
@@ -20,7 +20,7 @@ Peace is not a “fruit” added onto coherence; it is the baseline healed state
 - Communal safety in **Koinonia** and **Authority** exercised without coercion
 - The human system H = (G, L, P, A)
 
-### Outputs
+## Outputs
 - Nervous-system stabilisation (settled arousal; reduced hypervigilance)
 - Shame-noise reduction (σ ↑)
 - Fear-hostility resolution and softened reactivity
@@ -30,27 +30,37 @@ Peace is not a “fruit” added onto coherence; it is the baseline healed state
 - Increased capacity for truthful love under pressure
 - A stable field in which **Discernment**, **Obedience**, and **Virtue** can mature without fear
 
-### Layer Effects
+## Layer Effects
 | Layer | Healthy use | Misuse mode |
 |------|-------------|------------|
 | Ground (G) | ↑ | ↓ (forced calm, fear) |
 | Logos (L)  | ↑ | ↓ (suppressed truth, bypass) |
 | Presence (P) | ↑ | ↓ (silenced grief, withdrawal) |
 
-### What It Heals
+## What It Heals
 - Chronic fear, hostility, and inner agitation
 - Shame-saturated conscience loops
 - Hyperarousal, collapse patterns, and relational distrust
 - Performance-driven spirituality that destabilises the heart
 - Fragmented communion and unsafe authority dynamics
 
-### What It Can Damage (If Misused)
+## What It Can Damage (If Misused)
 - Can be weaponised as forced calm, silence, or compliance
 - Can be used to suppress grief, anger, or truth-telling (**Judgement/Krisis**)
 - Can be misframed as emotional flatness or denial of trauma
 - Can become a fear-based metric (“you are faithful only if you feel peaceful”)
+- Can be used to deny or delay justice by demanding premature reconciliation (**Justice**)
+- Can be invoked to silence lament, bypassing honest grief (**Lament**)
 
-### What it looks like in practice
+**Misuse-prevention notes**
+- Peace is a gift, not a demand; no one may be required to feel peaceful as proof of faith.
+- Forced calm that suppresses grief, anger, or truth is not peace but coercion.
+- Lament and honest emotion are expressions of peace's absence, not violations of it; they are honoured.
+- Peace never silences the wounded or requires premature forgiveness before safety is established.
+- Justice is peace's partner, not its enemy; genuine peace requires the repair of what is broken.
+- If peace language is used to pressure compliance or silence dissent, it has become a distortion of the Cross.
+
+## What it looks like in practice
 - Gentle settling in prayer without demanding instant calm
 - Naming fear and shame without panic, then returning to God’s safety
 - Confession that releases burden rather than amplifies it (**Confession**)
@@ -58,11 +68,19 @@ Peace is not a “fruit” added onto coherence; it is the baseline healed state
 - Authority that protects relational safety, consent, and rest (**Authority**)
 - Spacious obedience grounded in love, not threat (**Obedience**)
 
-### Patristic Resonance
+## Trauma-aware safeguarding
+- Peace is never a demand placed on those who are suffering, grieving, or in danger.
+- Trauma survivors may carry persistent physiological dysregulation; this is not a spiritual failure and is not addressed by spiritual pressure.
+- The goal is nervous-system safety, not the performance of calm; therapeutic and medical care are honoured and integrated.
+- Lament, anger, and honest grief are compatible with peace and must never be suppressed in its name.
+- Peace that requires silence about harm is false peace; safeguarding always takes precedence over conflict avoidance.
+- Community cultures that equate peace with harmony or silence will harm the vulnerable; truthful love is the only true peace.
+
+## Patristic Resonance
 - **St Augustine** described peace as *tranquilitas ordinis*—the calm of rightly ordered love.
 - **St Basil the Great** linked peace with the Spirit’s gift of unity and gentleness in the Body.
 - **St John Chrysostom** emphasised peace as the settled fruit of reconciliation and mercy.
 - **St Maximus the Confessor** spoke of harmony in the soul when the will is aligned with God.
 
-### Fails the Cross If…
+## Fails the Cross If…
 Peace is demanded rather than gifted, used to silence the wounded, or enforced by fear-based religion or coercive discipline. Any formation, doctrine, or authority that destroys peace fails the Cross and must be refused for the sake of truthful love and safeguarding.

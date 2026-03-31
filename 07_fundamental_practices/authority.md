@@ -23,6 +23,8 @@ Authority refines and stabilises:
 - **Obedience** by securing consented alignment rather than compliance.
 - **Liturgy** by guarding communal prayer and sacrament from manipulation.
 - **Sanctification** by protecting slow, gentle formation from pressure and abuse.
+- **Lament** by creating space for communal grief over harm — especially when harm has been done by authority itself; honest acknowledgment of failure is a cruciform exercise of authority.
+- **Suffering** by orienting authority toward those who suffer under misused power — the measure of authority is how it treats the most vulnerable, not the most compliant.
 
 ---
 
@@ -46,6 +48,8 @@ Authority refines and stabilises:
 - Restored communal peace as relational safety (**Peace / Eirene**)
 - Repaired and protected communion (**Koinonia**)
 - Trustworthy boundaries that protect conscience and agency
+- Space held for communal grief and honest lament over past harm (**Lament**)
+- Protection and advocacy for those who have suffered under misused power (**Suffering**)
 - Reduced distortion gradients and secrecy cultures
 
 ---

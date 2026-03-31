@@ -12,7 +12,7 @@ Hope = future_stability_anchor(H, t > 0) → despair_sink ↓, performance_press
 
 Grounded in **Grace**, **Faith**, and **Truth**, Hope keeps the person coupled to God’s promise and presence over time, resisting collapse into urgency or cynicism. It is cruciform: truthful love that can wait without losing heart, bearing pressure without abandoning the weak.
 
-As a refinement of **Metanoia**, **Sanctification**, **Vigil**, and **Mercy**, Hope secures the path of repair when progress is slow, setbacks occur, or grief is long.
+As a refinement of **Metanoia**, **Sanctification**, **Vigil**, and **Mercy**, Hope secures the path of repair when progress is slow, setbacks occur, or grief is long. It is the particular sustainer of those in **Suffering** — keeping truthful love present when pain is prolonged and resolution is denied.
 
 ---
 
@@ -34,6 +34,7 @@ As a refinement of **Metanoia**, **Sanctification**, **Vigil**, and **Mercy**, H
 - A safer sense of time that allows slow healing to remain faithful
 - Space for forgiveness and repair without coercion (**Forgiveness**)
 - Non-collapse under delay, grief, or chronic struggle
+- Endurance within suffering without spiritual bypass or forced acceptance (**Suffering**)
 
 ---
 

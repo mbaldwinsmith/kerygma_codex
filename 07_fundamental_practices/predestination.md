@@ -28,6 +28,8 @@ Predestination is explicitly linked to:
 - **Peace (Eirene)** — the healed field condition God intends for the world.
 - **Justification** — belonging grounded in gift before behaviour.
 - **Election** — vocation for the sake of others within this open destiny.
+- **Lament** — the gap between promised home and present pain is held in honest lament; predestination does not suppress grief but grounds it in hope.
+- **Suffering** — the promise of healed communion does not remove suffering in the present; it makes it bearable and purposeful without romanticising it.
 
 ---
 
@@ -47,6 +49,8 @@ Predestination is explicitly linked to:
 - Open participation without coercion or fatalism
 - Strengthened vocation for service, mercy, and intercession (**Election**)
 - Dampened despair and exclusionary logic
+- Space for honest lament about the gap between promise and present pain (**Lament**)
+- Endurance in suffering, grounded in the promise of healed communion (**Suffering**)
 
 ---
 

@@ -19,6 +19,9 @@ Faith grounds and activates the core flow of salvation as participation:
 - **Metanoia** is possible because truth can be faced without collapse.
 - **Baptism** becomes a public, embodied consent to this gift-field.
 - **Sanctification** begins and continues as iterative convergence, not a ladder.
+- **Lament** is a form of faith — honest protest and grief before God is trust, not its failure.
+- **Suffering** is sustained within faith; the person of faith does not escape suffering but remains coupled to God within it.
+- **Vigil** is faith expressed as patient watchfulness across unresolved delay and darkness.
 
 ---
 
@@ -41,6 +44,8 @@ Faith grounds and activates the core flow of salvation as participation:
 - A steady peace that resists fear-driven reactivity (**Peace / Eirene**)
 - Willing participation in baptismal and communal life (**Baptism**, **Koinonia**)
 - A stable, gentle orientation toward sanctifying growth over time
+- Capacity to lament honestly before God without loss of trust (**Lament**)
+- Endurance through suffering without collapse or spiritual bypass (**Suffering**)
 - Perseverance without urgency or despair (**Hope**)
 
 ---

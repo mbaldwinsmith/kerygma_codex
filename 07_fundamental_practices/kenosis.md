@@ -16,7 +16,7 @@ K(H) : H = (G, L, P, A) -> H' where
 - non-instrumental self-giving: no control extraction or leverage
 - domination_pressure -> ↓, coercion_noise -> ↓
 
-Kenosis is ordered toward **Justification** (belonging before performance), **Sanctification** (slow convergence), **Theosis** (participation in divine life), and **Peace** (stable coherence).
+Kenosis is ordered toward **Justification** (belonging before performance), **Sanctification** (slow convergence), **Theosis** (participation in divine life), and **Peace** (stable coherence). It is distinct from **Suffering** (what is borne involuntarily) and properly understood as the cruciform form of **Sacrifice** (consented, love-driven self-giving that does not erase the giver). Kenosis makes room for **Lament** rather than suppressing it; honest grief is part of the kenotic pattern, not a failure of it.
 
 ---
 

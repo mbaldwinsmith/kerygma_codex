@@ -1,9 +1,9 @@
 # Glorification (Δόξα / Glorificatio)
 
-### One-Line Definition
+## One-Line Definition
 Glorification is the final, grace-completed convergence of persons and creation into full participation in Christ’s life — the Sabbath rest of healed coherence.
 
-### Formal Operator
+## Formal Operator
 Glorification is the fixed-point convergence and coherence-completion operator, grounded in **Truth** and stabilised by **Hope**, in which the human system and creation are fully aligned with the Logos grammar, healed of remaining distortion, and stabilised in unthreatened love.
 
 H* = limₙ→∞ ℒⁿ(H),  ℒ(H*) = H*,  D → 0,  Field_coherence → πλήρης
@@ -17,7 +17,7 @@ Glorification completes sanctifying convergence, perfects participation, and sta
 - **Koinonia:** communion unfractured; mutual indwelling without threat.
 - **Sophia:** creation transfigured in Wisdom; the cosmos resonates with Christ’s pattern.
 
-### Inputs
+## Inputs
 - The human system H = (G, L, P, A) held in grace
 - The Logos grammar ℒ as the Christ-pattern
 - Divine gift of completion (not earned)
@@ -25,7 +25,7 @@ Glorification completes sanctifying convergence, perfects participation, and sta
 - Creation as the shared field of transfiguration
 - Patience with time, grief, and unfinished stories
 
-### Outputs
+## Outputs
 - Full coherence completed in Christ (fixed-point stability)
 - All remaining distortion healed without coercion or bypass
 - Reality-aligned clarity that resists denial and spiritual bypass (**Truth**)
@@ -34,21 +34,21 @@ Glorification completes sanctifying convergence, perfects participation, and sta
 - Rested joy, faithful hope, and unbroken belonging
 - Future-stability that secures the long arc (**Hope**)
 
-### Layer Effects
+## Layer Effects
 | Layer | Healthy use | Misuse mode |
 |------|-------------|------------|
 | Ground (G) | ↑↑ | ↓ (escapism or denial of embodied life) |
 | Logos (L)  | ↑↑ | ↓ (bypass of justice and truth-telling) |
 | Presence (P) | ↑↑ | ↓ (disengagement from suffering others) |
 
-### What It Heals
+## What It Heals
 - Final residues of distortion, fragmentation, and fear
 - Alienation between God, self, neighbor, and creation
 - Shame that claims healing is never possible
 - Threat-based relating that fractures communion
 - Despair that the Cross cannot finally heal all wounds
 
-### What It Can Damage (If Misused)
+## What It Can Damage (If Misused)
 - Spiritual escapism or annihilationist contempt for embodied life
 - Bypass of justice, repair, and accountability in the present
 - Fatalistic “it will all burn” theologies that abandon creation
@@ -64,25 +64,25 @@ Glorification completes sanctifying convergence, perfects participation, and sta
 - Glorification language must never silence the wounded or shortcut safeguarding.
 - Hope is not a demand for cheerful closure; it is patient, truthful love.
 
-### What it looks like in practice
+## What it looks like in practice
 - Speaking hope with gentleness, without denying pain or unfinished grief
 - Praying for final healing while pursuing justice, repair, and protection now
 - Honouring Sabbath rest as a sign of future completion
 - Refusing contempt for bodies, land, or material life
 - Holding eschatological hope as a comfort, not a weapon
 
-**Trauma-aware safeguarding**
+## Trauma-aware safeguarding
 - Grief, delay, and unfinished stories are honoured without pressure to resolve them.
 - Hope is protected without denial of pain; lament remains a faithful practice.
 - Language about “final completion” is gentle, invitational, and never coercive.
 - Rest and consent are prioritised; no one is rushed into closure.
 - Pastoral care does not replace medical, therapeutic, or justice-oriented support.
 
-### Patristic Resonance
+## Patristic Resonance
 - **St Athanasius** spoke of participation in divine life as the goal of salvation, grounded in Christ’s Incarnation.
 - **St Gregory of Nyssa** described the soul’s final rest in God as the completion of healing without coercion.
 - **St Maximus the Confessor** framed cosmic transfiguration as Christ’s unifying Wisdom bringing all things into harmony.
 - **St Irenaeus** taught recapitulation: Christ gathers and heals creation into full life.
 
-### Fails the Cross If…
+## Fails the Cross If…
 Glorification is used to despise bodies, deny justice, silence lament, or weaponise hope as a demand for premature closure rather than the gift of completed, cruciform love under pressure.

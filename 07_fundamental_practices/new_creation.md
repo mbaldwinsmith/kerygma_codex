@@ -26,7 +26,7 @@ where
 - communion_field → universal
 - creation_healed = true
 
-New Creation is **restoration, not replacement**; **fulfilment, not annihilation**; **communion, not escape**; **transfiguration, not abandonment**.
+New Creation is **restoration, not replacement**; **fulfilment, not annihilation**; **communion, not escape**; **transfiguration, not abandonment**. It holds **Lament** within it — the groaning of creation (Rom 8) is honest grief, not faithlessness, and New Creation is the answer to that groan, not its erasure. And it receives **Suffering** — not as the final truth about creation but as the wound God heals in transfiguring all things.
 
 ---
 
@@ -67,7 +67,7 @@ New Creation is **restoration, not replacement**; **fulfilment, not annihilation
 - Fractured communion between God, people, and creation
 - The rupture between embodiment and belonging
 - Despair that treats creation as disposable or abandoned
-- The unfinished grief and trauma of a groaning world
+- The unfinished grief and trauma of a groaning world (**Lament**, **Suffering**)
 
 ---
 
@@ -97,7 +97,8 @@ New Creation is **restoration, not replacement**; **fulfilment, not annihilation
 ---
 
 ## Trauma-aware safeguarding
-- Hope without denial: grief, lament, and confusion remain faithful.
+- Hope without denial: grief, **lament**, and confusion remain faithful (**Lament**).
+- Solidarity with suffering now, not just promise of healing later (**Suffering**).
 - Justice without despair: gentle persistence, not frantic urgency.
 - Belonging without fear: no ranking, exclusion, or coercion.
 - Healing without coercion: consent, rest, and limits are honoured.

@@ -10,7 +10,7 @@ Propitiation is the field-healing operator, clarified by **Truth** and stabilise
 
 D_field ↓, (fear ⟳ shame ⟳ accusation) damping, P_bandwidth ↑, Safety_coherence ↑
 
-Analogically: Christ’s cruciform love clears the field of fear and accusation so the person can meet God without collapse. This is not appeasement of divine anger; it is the healing of the relational atmosphere through the Cross.
+Analogically: Christ’s cruciform love clears the field of fear and accusation so the person can meet God without collapse. This is not appeasement of divine anger; it is the healing of the relational atmosphere through the Cross. The cleared field is precisely where **Lament** becomes possible: when accusation and fear are damped, honest grief can be brought to God without collapse.
 
 ---
 
@@ -31,6 +31,8 @@ Analogically: Christ’s cruciform love clears the field of fear and accusation 
 - Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Stabilised coherence under pressure
 - Opened flow of grace and peace (**Grace**, **Peace / Eirene**)
+- Safe space for honest grief turned toward God without collapse (**Lament**)
+- Opened pathways toward forgiveness and repair without coercion (**Forgiveness**)
 - Perseverance in safe re-approach without despair (**Hope**)
 
 ---
@@ -86,6 +88,8 @@ Analogically: Christ’s cruciform love clears the field of fear and accusation 
 - **Grace:** Propitiation opens the gift-field where mercy flows without payment.
 - **Justification:** Belonging-before-behaviour becomes emotionally and relationally accessible.
 - **Metanoia:** Truth can be faced without collapse because fear and shame are damped.
+- **Lament:** The cleared field of fear and accusation is where honest grief can safely rise to God.
+- **Forgiveness:** Safe relational approach makes forgiveness and reconciliation possible rather than coerced.
 - **Peace (Eirene):** Restored relational safety and stability in the presence of God and neighbor.
 
 ---

@@ -23,7 +23,7 @@ where
 - ΔL = hardened distortion against **Truth** and **Conscience**
 - ΔP = isolation from consented communion
 
-Hell is **closure, not punishment**; **curvature, not sentence**; **resistance, not revenge**.
+Hell is **closure, not punishment**; **curvature, not sentence**; **resistance, not revenge**. **Lament** belongs here — those who grieve the lost are not corrected; their grief mirrors God's own grief over refused communion. **Suffering** is not the cause of hell but its condition — the interior diminishment of the self-curved person is real, not theatrical.
 
 ---
 
@@ -85,7 +85,8 @@ Hell is **closure, not punishment**; **curvature, not sentence**; **resistance, 
 - Teaching names hell as the tragic end-state of refused communion, not as divine cruelty.
 - Pastors refuse fear-based preaching and instead invite **Mercy**, **Truth**, and **Conscience** with consent.
 - Communities speak of **Judgement (Krisis)** as truthful naming that heals, not revenge.
-- People are allowed to question, lament, and seek clarity without shaming.
+- People are allowed to question, **lament**, and seek clarity without shaming (**Lament**).
+- Those grieving others' resistance to love are held with mercy and not corrected or hurried (**Suffering**).
 - Hope is held as gift, not leverage; repentance is invited, not coerced.
 
 ---

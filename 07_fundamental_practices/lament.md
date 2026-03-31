@@ -28,6 +28,8 @@ Lament refines **Suffering** by joining protection to truth, stabilises **Peace*
 - Mercy and compassion (**Mercy**)
 - Hope for long-arc repair (**Hope**)
 - Prayer and Scripture as shared grammar (**Prayer**, **Scripture**)
+- Stilled interior space that can hold grief without forcing resolution (**Hesychia**)
+- Willingness to make oneself low before God, releasing control of outcomes (**Kenosis**)
 - Consent, safety, and appropriate boundaries
 - Accompaniment and support (**Koinonia**, **Spiritual Direction**)
 

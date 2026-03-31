@@ -22,6 +22,8 @@ Jx(H, Field) : H = (G, L, P, A) -> H' where
 ## Inputs
 - The human system H = (G, L, P, A)
 - Truthful naming of harm (**Truth**)
+- Honest naming of what has been lost — grief held alongside accountability (**Lament**)
+- Awareness of and solidarity with victims' suffering as the ground of the justice claim (**Suffering**)
 - Conscience clarity and discernment (**Conscience**, **Discernment**)
 - Safeguarding boundaries and consent
 - Accountable authority with transparency (**Authority**)
@@ -40,6 +42,7 @@ Jx(H, Field) : H = (G, L, P, A) -> H' where
 - Truth-stabilised communal life (**Truth**)
 - Peace-compatible order and safety (**Peace**)
 - Strengthened conscience formation
+- Space for lament over what justice cannot fully restore — honest grief for irreversible loss (**Lament**)
 - Opened repair toward communion when safe (**Koinonia**)
 
 ---

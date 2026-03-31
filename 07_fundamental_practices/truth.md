@@ -35,6 +35,8 @@ Truth refines **Judgement (Krisis)** and **Discernment (Diakrisis)**, stabilises
 - Re-anchored narratives that restore dignity and coherence
 - A field in which **Peace**, **Mercy**, and **Koinonia** can be real, not performative
 - A field in which forgiveness can be truthful, safe, and non-coercive (**Forgiveness**)
+- Safe naming of grief and loss — lament as truth-telling about what is real (**Lament**)
+- Truth held within **Hope** so it heals rather than crushes; reality-alignment in mercy's frame
 
 ---
 
@@ -91,3 +93,14 @@ Truth refines **Judgement (Krisis)** and **Discernment (Diakrisis)**, stabilises
 
 ## Fails the Cross If…
 Truth is used to coerce, expose, or humiliate; if it collapses identity into failure; if it bypasses consent or trauma safety; or if it sacrifices mercy and peace for control.
+
+---
+
+## Trauma-aware safeguarding
+- Truth is never weaponised; the pace of disclosure is determined by the person's safety and consent.
+- For those harmed by enforced confession, public exposure, or coercive truth-telling, approach gently and without expectation of immediate disclosure.
+- Naming harm to a trusted person or in a safe context is always preferable to forced public truth-telling.
+- Truth-telling is titrated: small, safe steps rather than full exposure at once.
+- Lament is a legitimate and valued form of truth — naming grief and loss is protected and never suppressed.
+- Professional care (therapy, safeguarding, legal advocacy) is integrated; truth-telling never replaces these.
+- Truth held without mercy is not Codex truth; the pastoral goal is always healing, never humiliation.

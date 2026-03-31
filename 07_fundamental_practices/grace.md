@@ -16,7 +16,7 @@ Human beings live inside a field of divine gift that does not depend on how well
 Belonging comes first. Healing becomes possible because we are already held.
 
 Grace is not an earned signal but the loving environment in which all change can happen.  
-It grounds **Justification** (belonging before behaviour), enables **Metanoia** (truth without collapse), sustains **Sanctification** (slow growth without ladders), heals **Confession** (truth without fear), anchors **Truth** (reality-aligned naming without shame), and opens **Prayer** (presence without bargaining).
+It grounds **Justification** (belonging before behaviour), enables **Metanoia** (truth without collapse), sustains **Sanctification** (slow growth without ladders), heals **Confession** (truth without fear), anchors **Truth** (reality-aligned naming without shame), opens **Prayer** (presence without bargaining), and makes **Lament** possible — honest grief can be carried to God because the person is already held.
 
 ---
 
@@ -39,6 +39,7 @@ It grounds **Justification** (belonging before behaviour), enables **Metanoia** 
 - Stabilised peace as healed coherence (**Peace / Eirene**)  
 - Release from merit ladders and spiritual bargaining  
 - Perseverance in slow growth without despair (**Hope**)  
+- Safe holding for honest grief and lament before God (**Lament**)
 - A wider space for prayer, healing, and repair
 
 ---

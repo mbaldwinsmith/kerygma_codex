@@ -20,7 +20,7 @@ where
 - communion_field → full (**Koinonia**)
 - participation_in_divine_life → completed (**Theosis**, **Glorification**)
 
-Resurrection is pure gift: no human control, acceleration, proof, or metric. It is not escape from embodiment but God’s re-creation of the person in healed continuity, with creation itself restored and transfigured. It is grounded in **Grace**, anchored in **Hope**, saturated in **Mercy**, fulfilled in **Peace**, and completed in **Glorification** and **Theosis**.
+Resurrection is pure gift: no human control, acceleration, proof, or metric. It is not escape from embodiment but God’s re-creation of the person in healed continuity, with creation itself restored and transfigured. It is grounded in **Grace**, anchored in **Hope**, saturated in **Mercy**, fulfilled in **Peace**, and completed in **Glorification** and **Theosis**. Resurrection holds **Lament** within it — the wounds of the Risen Christ remain visible; Easter does not erase grief but receives it into healed life. And it answers **Suffering** — not by explaining it away, but by promising that it is neither the final word nor wasted.
 
 ---
 
@@ -40,6 +40,8 @@ Resurrection is pure gift: no human control, acceleration, proof, or metric. It 
 - Repaired memory, desire, and capacity (without erasure of history)
 - Full participation in divine life (**Theosis** completed)
 - Repaired creation / new creation field (forward reference: **New Creation**)
+- Grief received and healed rather than erased — the wounds remain, transfigured (**Lament**)
+- Suffering answered by God's final repair, not explained away (**Suffering**)
 - Stable peace, joy, and belonging without threat (**Peace**, **Hope**)
 
 ---
@@ -76,7 +78,8 @@ Resurrection is pure gift: no human control, acceleration, proof, or metric. It 
 - Explicitly reject ranking or grading the resurrected.
 - Explicitly reject using heaven-language to dismiss present suffering.
 - Explicitly reject treating creation as disposable or destined for abandonment.
-- Hope must remain gentle and consented; if resurrection language pressures people, return to **Grace**, **Peace**, and **Mercy**.
+- Hope must remain gentle and consented; if resurrection language pressures people, return to **Grace**, **Peace**, **Mercy**, and **Lament**.
+- Resurrection never silences grief; the risen Christ still bore wounds — lament and hope are held together.
 
 ---
 

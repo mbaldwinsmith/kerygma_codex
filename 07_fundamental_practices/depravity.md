@@ -26,6 +26,9 @@ Depravity therefore refines the need for:
 - **Atonement** — cruciform repair that absorbs death-pressure and restores communion.
 - **Metanoia** — attractor repair that re-forms desire and attention.
 - **Sanctification** — slow convergence over time into Christ-pattern coherence.
+- **Hope** — depravity does not foreclose healing; it opens the necessity of the gift.
+- **Lament** — honest naming of shared distortion is itself a form of lament, held in grace rather than collapsed into shame.
+- **Conscience / Synderesis** — depravity dims but does not extinguish the interior witness to truth; the conscience remains a site of grace.
 
 ---
 
@@ -41,7 +44,7 @@ Depravity therefore refines the need for:
 
 ## Outputs
 - Predisposition to misalignment and reactive patterns
-- Reduced clarity in discernment and conscience formation
+- Reduced clarity in discernment and **Conscience / Synderesis** formation
 - Weakened reality-alignment and truth-bearing capacity (**Truth**)
 - Entropic drift in relational habits
 - Fragile communion and increased relational friction
@@ -65,6 +68,7 @@ When held in grace, naming depravity can heal:
 - Prideful denial of shared human vulnerability
 - Despair that says “I am beyond repair”
 - Isolation that hides need and blocks communion
+- False self-blame carried by those harmed by systemic sin: naming depravity as shared and structural can release the burden of personal guilt for communal distortion
 
 ---
 

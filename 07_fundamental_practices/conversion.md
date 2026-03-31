@@ -12,9 +12,12 @@ Conversion: H → H′ where A → A′, alignment_toward_ℒ ↑, basin_entropy
 
 As a refinement of core operators and practices:
 - **Grace** provides the gifted belonging that makes turning possible.
+- **Justification** anchors the new identity in grace before performance; belonging precedes growth.
 - **Faith** is the trustful reliance that consents to the turn.
+- **Regeneration** names the interior re-animation that accompanies the turning: new life arises within the existing person.
 - **Baptism** is the public, embodied initiation of this new orientation.
 - **Metanoia** is the ongoing repair of attractor topology that deepens the turn.
+- **Lament** is often part of conversion: honest grief for what the old life cost, held without shame in grace.
 - **Sanctification** is the iterative convergence over time that stabilises the new orientation.
 
 **Explicit distinctions**

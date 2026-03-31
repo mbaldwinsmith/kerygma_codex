@@ -22,6 +22,10 @@ Election refines:
 - **Apostolicity** by grounding sent-ness as service for others.
 - **Koinonia** by sharing burdens, not privileges.
 - **Atonement** by participating in Christ’s reconciling work.
+- **Hope** by anchoring vocation in the promise of healed communion rather than present achievement.
+- **Justice** by directing election outward toward repair, protection of the poor, and care for the wounded.
+
+Election does not exempt the chosen from **Suffering** — it sends them into it, alongside and for others. The elected are called to carry **Lament** with those who grieve, not to stand apart from it in protected security. Truth-telling (**Truth**) belongs to the vocation: the chosen witness truly, or they distort the mission.
 
 ---
 
@@ -31,6 +35,10 @@ Election refines:
 - Christ’s sending and self-giving mission
 - Communal discernment and consented commissioning (**Discernment / Diakrisis**)
 - Practices of mercy, justice, intercession, and witness
+- Willingness to enter the suffering of others without exemption (**Suffering**)
+- Capacity to grieve honestly with those in pain (**Lament**)
+- Truth-telling that refuses distortion or self-serving narrative (**Truth**)
+- Hope for the mission's ultimate completion in Christ (**Hope**)
 - Safeguarding, rest, and creaturely limits
 
 ---
@@ -41,6 +49,9 @@ Election refines:
 - Outward-expanding grace field through service
 - Deeper participation in Christ’s reconciling life
 - Strengthened communal burden-bearing and shared mission (**Koinonia**)
+- Hope anchored in God's promised completion, sustaining mission under pressure (**Hope**)
+- Lament carried for and with the suffering world (**Lament**)
+- Justice pursued as the concrete form of election's outward orientation (**Justice**)
 
 ---
 

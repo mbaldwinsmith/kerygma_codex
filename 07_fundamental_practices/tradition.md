@@ -23,6 +23,8 @@ Tradition refines and stabilises:
 - **Sanctification** by slow, intergenerational formation toward Christ.
 - **Faith** by entrusting reliance on God through inherited testimony.
 - **Authority** by guarding transmission without coercion or domination.
+- **Lament** by preserving the Church's honest grief as part of its memory — lament psalms, martyrologies, liturgies of penitence, and honest reckoning with past failures are all part of living tradition, not threats to it.
+- **Suffering** by carrying memory of those who have suffered — martyrs, the persecuted, the poor — so that their witness forms each generation rather than being forgotten.
 
 ---
 
@@ -44,7 +46,8 @@ Tradition refines and stabilises:
 - Resilience against drift, amnesia, and novelty-driven distortion
 - Reality-aligned witness that protects conscience and consent (**Truth**)
 - Increased trust in received wisdom without suppressing conscience (**Conscience / Synderesis**)
-- A durable memory field that holds grief, repentance, and hope
+- A durable memory field that holds grief, lament, repentance, and hope (**Lament**)
+- Memory of those who suffered carried faithfully across generations (**Suffering**)
 - Perseverance across generations without burnout (**Hope**)
 
 ---

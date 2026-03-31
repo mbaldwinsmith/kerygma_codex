@@ -20,7 +20,7 @@ where
 - P₍divine₎ = divine presence shared in peace
 - 𝒦₍heaven₎ = stable communion-habitat (no threat, no fracture)
 
-Heaven is **habitat, not hierarchy**; **communion, not compensation**; **restoration, not escape**.
+Heaven is **habitat, not hierarchy**; **communion, not compensation**; **restoration, not escape**. Heaven holds **Lament** within it — God does not erase grief but receives and heals it; the wounds of the saints are not erased but transfigured. And it answers **Suffering** — those who have suffered are not compensated but healed; the experience of pain is received into the healing life of God.
 
 ---
 
@@ -40,6 +40,8 @@ Heaven is **habitat, not hierarchy**; **communion, not compensation**; **restora
 - Joy without scarcity
 - Peace without fear (**Peace** completed)
 - Fully healed social ecology (repair ecology at full coherence)
+- Grief received and healed, not erased or bypassed (**Lament**)
+- Suffering answered by healing communion, not compensation or explanation (**Suffering**)
 - Participation in divine life (**Theosis** and **Glorification** completed)
 
 ---
@@ -90,8 +92,9 @@ Heaven is **habitat, not hierarchy**; **communion, not compensation**; **restora
 ---
 
 ## Trauma-aware safeguarding
-- Protection from spiritual bypass: grief and lament are honoured, not corrected.
+- Protection from spiritual bypass: grief and **lament** are honoured, not corrected (**Lament**).
 - Permission to grieve without “at least they’re in heaven” pressure.
+- Acknowledgement that suffering is real and not a lesson; heaven is healing, not explanation (**Suffering**).
 - Refusal of sentimental denial; no demand for quick consolation.
 - Affirmation of embodied hope: creation and bodies are destined for healing, not discard.
 - Respect for consent, timing, and nervous-system limits in hope language.

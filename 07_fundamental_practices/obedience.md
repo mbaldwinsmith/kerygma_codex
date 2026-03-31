@@ -1,9 +1,9 @@
 # Obedience (Ὑπακοή / Obedientia)
 
-### One-Line Definition
+## One-Line Definition
 Obedience is consented, truth-responsive alignment to Christ that protects conscience and agency while enacting faithful love under pressure.
 
-### Formal Operator
+## Formal Operator
 Grounded in **Truth** and **Discernment (Diakrisis)** and bounded by **Conscience / Synderesis**, obedience is a coherence-preserving alignment operator that coordinates desire, conscience, and action with the Logos grammar (ℒ) under pressure, without coercion or domination. It is ordered toward **Peace (Eirene)** as the stable, justice-compatible fruit of consented alignment.
 
 Obedience = align(desire, conscience, action) → ℒ under consent, safeguarding, and truth-testing
@@ -16,7 +16,7 @@ Formally: H = (G, L, P, A)
 
 As a refinement of **Faith**, **Nepsis**, **Koinonia**, and **Ascesis**, Obedience expresses trust in action, sustains discernment under pressure, embraces shared accountability without domination, and gently trains desire toward Christ.
 
-### Inputs
+## Inputs
 - Consent freely given and revocable
 - A discerned call of Christ (**Scripture**, **Prayer**, conscience, and wise counsel)
 - Reality-aligned naming of limits and motives (**Truth**)
@@ -24,7 +24,7 @@ As a refinement of **Faith**, **Nepsis**, **Koinonia**, and **Ascesis**, Obedien
 - Awareness of limits, trauma history, and embodied signals
 - The human system H = (G, L, P, A)
 
-### Outputs
+## Outputs
 - Truthful alignment between belief, desire, and action
 - Strengthened conscience and moral clarity
 - Greater freedom to love under pressure
@@ -33,21 +33,21 @@ As a refinement of **Faith**, **Nepsis**, **Koinonia**, and **Ascesis**, Obedien
 - Reality-aligned clarity that protects consent (**Truth**)
 - Stabilised peace through consented alignment (**Peace / Eirene**)
 
-### Layer Effects
+## Layer Effects
 | Layer | Healthy use | Misuse mode |
 |------|-------------|------------|
 | Ground (G) | ↑ | ↓ (fear, coerced compliance) |
 | Logos (L)  | ↑ | ↓ (silenced conscience) |
 | Presence (P) | ↑ | ↓ (domination, relational harm) |
 
-### What It Heals
+## What It Heals
 - Split between conviction and action
 - Fear-driven reactivity that bypasses truth
 - Isolation that refuses accountability or counsel
 - Confusion between God’s will and human control
 - Disordered desire that cannot sustain love under pressure
 
-### What It Can Damage (If Misused)
+## What It Can Damage (If Misused)
 - Coercive compliance and leader-mediated domination
 - Silencing of conscience or suppression of honest dissent
 - Spiritual abuse framed as “submission”
@@ -62,20 +62,20 @@ As a refinement of **Faith**, **Nepsis**, **Koinonia**, and **Ascesis**, Obedien
 - If fear, shame, or pressure rises, the practice pauses and returns to prayer, rest, and safeguarding.
 - If obedience destroys peace or safety, it has become coercive compliance and must be refused.
 
-### What it looks like in practice
+## What it looks like in practice
 - A person discerns a call in prayer and Scripture, and freely chooses a concrete act of love.
 - A community invites accountability with clear consent and exit paths, without threats or penalties.
 - A leader encourages discernment and protects freedom, refusing to override conscience.
 - Obedience is expressed as trust-in-action: keeping a promise, telling the truth, serving the vulnerable.
 - When uncertainty is high, the person seeks counsel and tests the call without rushing or forcing.
 
-### Patristic Resonance
+## Patristic Resonance
 - **St John Cassian** framed obedience as a school of humility that must be gentle and discerning.
 - **St Basil the Great** emphasised communal discernment and charity over authoritarian control.
 - **St John Climacus** described obedience as freedom from self-will only when rooted in love.
 - **St Isaac the Syrian** insisted that obedience without mercy becomes distortion.
 
-### Fails the Cross If…
+## Fails the Cross If…
 Obedience becomes coerced compliance, spiritual abuse, or suppression of conscience — rather than consented alignment to Christ that preserves agency, protects the vulnerable, and bears truthful love under pressure.
 
 ---

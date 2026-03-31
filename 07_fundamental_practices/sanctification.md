@@ -1,16 +1,16 @@
 # Sanctification (Ἁγιασμός / Sanctificatio)
 
-### One-Line Definition
+## One-Line Definition
 Sanctification is grace-led, iterative convergence toward the Christ-pattern that stabilises healed coherence over time without turning formation into a merit ladder.
 
-### Formal Operator
+## Formal Operator
 Sanctification is an iterative convergence operator in **Grace** and **Truth**, stabilised by **Hope**, that repeatedly aligns the human system with the Logos grammar, deepening stability in truthful love under pressure and stabilising **Peace (Eirene)** as healed coherence.
 
 xₙ₊₁ = ℒ(xₙ),  σ (signal-to-noise ratio) ↑,  attractor_stability ↑,  coherence ↑
 
 Sanctification integrates and stabilises: **Justification** (Ground anchoring in gift), **Metanoia** (attractor repair), **Nepsis** (distortion-gradient damping), **Ascesis** (gentle habit re-training), and **Confession** (relational clearing and truth-telling). These are not prerequisites to earn growth but grace-formed supports that keep convergence safe, slow, and cruciform.
 
-### Inputs
+## Inputs
 - The human system H = (G, L, P, A)
 - Justifying grace received as gift
 - Ongoing metanoia and honest truth-telling
@@ -21,7 +21,7 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - Long-arc patience for slow healing (**Hope**)
 - Time, rest, and pastoral/communal support
 
-### Outputs
+## Outputs
 - Increasing stability of coherent love under pressure
 - Reduced volatility in attractor basins and shame loops
 - Greater freedom to choose truth, repair, and mercy
@@ -31,21 +31,21 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - A durable pattern of humble, consented growth
 - Perseverance without burnout or despair (**Hope**)
 
-### Layer Effects
+## Layer Effects
 | Layer | Healthy use | Misuse mode |
 |------|-------------|------------|
 | Ground (G) | ↑ | ↓ (shame, performance pressure) |
 | Logos (L)  | ↑ | ↓ (legalism, distortion) |
 | Presence (P) | ↑ | ↓ (coercion, withdrawal) |
 
-### What It Heals
+## What It Heals
 - Fragmented growth that oscillates between zeal and collapse
 - Shame-driven striving that destabilises identity
 - Drift toward moralism or despair when progress is slow
 - Reactive patterns that break under pressure
 - Disconnection between belief, practice, and presence
 
-### What It Can Damage (If Misused)
+## What It Can Damage (If Misused)
 - Perfectionism and merit-based spiritual laddering
 - Comparison, ranking, and competitive holiness
 - Shame-based formation and fear-driven compliance
@@ -62,25 +62,25 @@ Sanctification integrates and stabilises: **Justification** (Ground anchoring in
 - If formation destroys peace, it has left the Christ-pattern and must be corrected.
 - If hope collapses, return to **Hope** and gentle pacing.
 
-### What it looks like in practice
+## What it looks like in practice
 - Returning to Justification when shame or fear reappears
 - Practicing small, sustainable disciplines without self-violence
 - Naming misalignments in confession with consent and safety
 - Using nepsis to notice distortion gently and early
 - Choosing repair over performance in community life
 
-**Trauma-aware safeguarding**
+## Trauma-aware safeguarding
 - Consent is required at every step; no one is pressured to disclose, perform, or “grow.”
 - Pace is slow and titrated; rest and Sabbath are part of faithfulness.
 - Trauma history, neurodivergence, illness, and grief are honoured and never treated as spiritual failure.
 - Pastoral care does not replace professional support; referral is welcomed when needed.
 - Practices are always optional; safety and dignity take precedence over intensity.
 
-### Patristic Resonance
+## Patristic Resonance
 - **St Gregory of Nyssa** described growth as unending ascent in grace (epektasis) without competitive ranking.
 - **St Maximus the Confessor** emphasised transformation through participation in Christ’s life rather than self-made achievement.
 - **St John Chrysostom** taught progress as mercy-led healing, not fear-driven striving.
 - **St Isaac the Syrian** emphasised tenderness and patience in the soul’s healing journey.
 
-### Fails the Cross If…
+## Fails the Cross If…
 Sanctification is used to measure worth, compare souls, enforce targets, or bypass consent and rest, rather than to cultivate humble, grace-led stability in truthful love under pressure.

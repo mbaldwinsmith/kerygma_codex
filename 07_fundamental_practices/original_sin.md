@@ -26,6 +26,9 @@ Original Sin therefore refines the need for:
 - **Baptism** — initiation into healed convergence and a new field of belonging.
 - **Metanoia** — local attractor repair of disordered desire and attention.
 - **Sanctification** — slow terrain re-formation over time.
+- **Hope** — Original Sin does not foreclose healing; it clarifies the depth of the gift required.
+- **Conscience / Synderesis** — the inherited deformation dims but does not extinguish the interior witness to truth; conscience remains a site where grace can work.
+- **Lament** — honest naming of the shared wound of inherited distortion is a form of lament, held in grace rather than collapsed into shame or blame.
 
 ---
 

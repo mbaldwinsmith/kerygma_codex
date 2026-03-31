@@ -1,9 +1,9 @@
 # Theosis (Θέωσις / Deificatio)
 
-### One-Line Definition
+## One-Line Definition
 Theosis is grace-given participation in the life of God through Christ, deepening healed resonance with the Logos while preserving the Creator–creature distinction and creaturely limits.
 
-### Formal Operator
+## Formal Operator
 Theosis is the high-order participation operator, grounded in **Truth** and stabilised by **Hope**, in which the human system is drawn, by grace, into cruciform resonance with the Logos grammar without absorption or identity erasure, stabilising **Peace (Eirene)** as healed participation under pressure.
 
 Θ(H) : H → H′
@@ -25,7 +25,7 @@ Theosis is always mediated in Christ and given by grace; it is participation, no
 - **Koinonia:** shared participation where communion deepens without domination.
 - **Glorification:** fixed-point completion of participation in Christ’s life.
 
-### Inputs
+## Inputs
 - The human system H = (G, L, P, A) held in grace
 - The Logos grammar ℒ as the Christ-pattern
 - Incarnational mediation in Christ (no theosis apart from Christ)
@@ -36,7 +36,7 @@ Theosis is always mediated in Christ and given by grace; it is participation, no
 - Long-arc patience for deep participation (**Hope**)
 - Time, rest, and safeguarding that honour creaturely limits
 
-### Outputs
+## Outputs
 - Deepened participation in divine life through cruciform love
 - Stabilised, healed attractor landscapes and reduced distortion
 - Expanded relational presence marked by mercy, truth, and patience
@@ -46,21 +46,21 @@ Theosis is always mediated in Christ and given by grace; it is participation, no
 - Greater capacity for communion that protects the vulnerable
 - Perseverance in the long arc of participation (**Hope**)
 
-### Layer Effects
+## Layer Effects
 | Layer | Healthy use | Misuse mode |
 |------|-------------|------------|
 | Ground (G) | ↑ | ↓ (identity erasure, fear) |
 | Logos (L)  | ↑ | ↓ (guru distortions, elitism) |
 | Presence (P) | ↑ | ↓ (coerced intimacy, boundary loss) |
 
-### What It Heals
+## What It Heals
 - Separation framed as distance from God that breeds shame or despair
 - Reduction of salvation to legal status without living participation
 - Fragmentation between belief, practice, and relational presence
 - Fear of intimacy with God due to unhealed distortion
 - Isolation that refuses shared communion
 
-### What It Can Damage (If Misused)
+## What It Can Damage (If Misused)
 - Spiritual superiority or elitist “enlightenment” hierarchies
 - Identity erasure or absorption language that denies creaturely limits
 - Bypass of suffering, consent, or safeguarding in the name of “union”
@@ -77,26 +77,26 @@ Theosis is always mediated in Christ and given by grace; it is participation, no
 - Any claim of theosis that destroys peace or relational safety is false and must be refused.
 - If urgency or despair appears, return to **Hope** and gentle pacing.
 
-### What it looks like in practice
+## What it looks like in practice
 - Quiet, thankful prayer that receives God’s gift without striving
 - Mercy toward others that grows from God’s mercy toward us
 - Embodied care for the weak and wounded as participation in Christ’s love
 - Gentle perseverance in sanctification without comparing progress
 - Shared koinonia that deepens communion without coercion
 
-**Trauma-aware safeguarding**
+## Trauma-aware safeguarding
 - Participation is gentle and paced; no one is pressured to perform or “ascend.”
 - Suffering, illness, neurodivergence, and grief are honoured and never treated as spiritual failure.
 - Theosis language never bypasses therapy, medicine, or safeguarding; care is integrated.
 - Bodily limits are respected; rest is part of faithful participation.
 - Leadership is accountable; power is transparent and protective of the vulnerable.
 
-### Patristic Resonance
+## Patristic Resonance
 - **St Athanasius** described the Incarnation as the ground of participation in divine life.
 - **St Irenaeus** taught recapitulation: Christ gathers and heals humanity into true life with God.
 - **St Gregory of Nyssa** emphasised participation as endless growth in love without hierarchy.
 - **St Maximus the Confessor** framed theosis as union in love that preserves distinction.
 - **St Gregory Palamas** spoke of participation in God’s energies by grace, not God’s essence.
 
-### Fails the Cross If…
+## Fails the Cross If…
 Theosis becomes spiritual elitism, bypasses suffering or consent, erases creaturely limits, or replaces cruciform love with power, status, or guru-mediated control.
