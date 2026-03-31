@@ -23,6 +23,8 @@ Apostolicity refines and stabilises:
 - **Koinonia** by aligning communal mission and shared witness.
 - **Sanctification** by forming faithful, outward-facing witness over time.
 - **Faith** by entrusting reliance on God within a public, accountable gospel.
+- **Lament** by holding the Church's own failures honestly — authentic apostolic witness includes truthful grief over where the Church has betrayed its sending, not triumphalist self-presentation.
+- **Suffering** by orienting mission toward those who suffer rather than around them — apostolic sending follows Christ into grief and pain, not past it.
 
 ---
 
@@ -45,6 +47,8 @@ Apostolicity refines and stabilises:
 - Resilience against drift, distortion, and private gospels
 - Reality-aligned witness that protects consent and conscience (**Truth**)
 - Strengthened communal trust in the public Gospel (**Koinonia**)
+- Honest grief over the Church's failures as part of faithful witness (**Lament**)
+- Mission oriented toward those who suffer, not past them (**Suffering**)
 - Perseverance in mission without burnout (**Hope**)
 
 ---

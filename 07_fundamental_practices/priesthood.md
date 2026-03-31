@@ -24,6 +24,9 @@ Priesthood refines and stabilises:
 - **Confession** by ensuring safe truth-telling and absolution without extraction.
 - **Koinonia** by protecting shared coherence and mercy.
 - **Sanctification** by stabilising formation within safe communal boundaries.
+- **Kenosis** by enacting cruciform self-emptying — priesthood is service that empties itself of status and power for the sake of others' healing, not rank that accumulates them.
+- **Lament** by bearing communal grief without rushing it — the priest stands with those who mourn, holds what cannot yet be resolved, and makes space for honest sorrow before God.
+- **Suffering** by accompanying those in pain without spiritualising or resolving prematurely — the bearing of others' suffering is central to the office, not incidental to it.
 
 ---
 
@@ -44,6 +47,9 @@ Priesthood refines and stabilises:
 - Protected access to sacramental mercy and reconciliation (**Eucharist**, **Confession**)
 - Reality-aligned safeguarding that limits power and prevents denial (**Truth**)
 - Stabilised communal formation and truthful love under pressure
+- Cruciform self-emptying of rank and status in service of others (**Kenosis**)
+- Held communal grief and honest lament before God (**Lament**)
+- Accompanied suffering without spiritualising or rushing toward resolution (**Suffering**)
 - Strengthened safety and dignity for the vulnerable
 
 ---
@@ -90,6 +96,16 @@ Priesthood refines and stabilises:
 - Sacramental life is protected as mercy for the weak, not a reward for the strong.
 - The vulnerable are defended; boundaries are maintained to prevent harm and secrecy.
 - Pastoral presence remains humble, accountable, and transparent.
+
+---
+
+## Trauma-aware safeguarding
+- Consent is explicit and revocable at every stage of sacramental interaction; no one is pressured to confess, receive, or participate.
+- The priest is never the sole confidant; external accountability, therapeutic, legal, and safeguarding pathways are always supported and never overridden.
+- Those harmed by priestly abuse — spiritual, sexual, emotional — are believed, protected, and advocated for without delay.
+- Confession must be genuinely free; any coercion, leverage, or surveillance of confession is a betrayal of the office and must be reported.
+- Neurodivergence, trauma responses (freeze, fawn, dissociation), illness, and grief are met with patience and flexibility, never performance expectations.
+- The priest's own wellbeing, supervision, and accountability are necessary; unchecked isolation and unsupported priestly ministry are safeguarding risks.
 
 ---
 
