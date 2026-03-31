@@ -14,7 +14,7 @@ C(H) : (G, L, P, A) → (G′, L′, P′, A′) where
 - relational rupture ↓
 - alignment with mercy ↑
 
-As a refinement of **Justification**, **Metanoia**, and **Koinonia**, Confession receives belonging first (Justification), names misalignment and turns toward repair (Metanoia), and restores mutual trust and communion when safely shared (Koinonia).
+As a refinement of **Justification**, **Metanoia**, and **Koinonia**, Confession receives belonging first (Justification), names misalignment and turns toward repair (Metanoia), and restores mutual trust and communion when safely shared (Koinonia). It is prepared by **Nepsis** (watchful sobriety that notices distortion early and gently) and often accompanied by **Lament** (truthful grief for what has been broken).
 
 ---
 

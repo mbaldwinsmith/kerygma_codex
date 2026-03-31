@@ -5,9 +5,9 @@ Sophia is divine Wisdom as the living coherence of God’s own life (*Divine Sop
 
 ---
 
-## Formal Operator  
+## Formal Operator
 
-Sophia names the Logos-expressed coherence of divine life and its creaturely manifestation in creation.
+Sophia names the Logos-expressed coherence of divine life and its creaturely manifestation in creation. Grounded in **Truth** and ordered toward **Koinonia**, Sophia is the participatory coherence-field in which the Logos operator ℒ draws persons and creation toward their healed telos in Christ.
 
 **Divine Sophia**
 Sophia_divine = Coherence_of_Divine_Life_in_Logos
@@ -15,19 +15,23 @@ Sophia_divine = Coherence_of_Divine_Life_in_Logos
 **Created Sophia**
 Creation ⊂ Sophia_created(Logos)
 
+Formally: Sophia_created(H) : H → H′ where
+- H′ participates more fully in the intelligibility and order of the Logos
+- creation’s inner truth becomes legible and oriented toward communion
+- σ (signal-to-noise ratio) ↑ as created disorder yields to Logos coherence
 
 Meaning:
 
-• Divine Sophia is God’s own living Wisdom — the inner coherence of divine life.  
-• Created Sophia is the world as it exists *in* and *through* that Wisdom — creation’s creaturely form of divine coherence.
+- Divine Sophia is God’s own living Wisdom — the inner coherence of divine life.
+- Created Sophia is the world as it exists *in* and *through* that Wisdom — creation’s creaturely form of divine coherence.
 
 Sophia is therefore:
 
-- not a fourth hypostasis  
-- not a metaphysical substance  
-- not an impersonal cosmic force  
+- not a fourth hypostasis
+- not a metaphysical substance
+- not an impersonal cosmic force
 
-but the **Logos-expressed coherence of divine life and its creaturely manifestation** — creation’s inner truth in Christ, clarified by **Truth**.
+but the **Logos-expressed coherence of divine life and its creaturely manifestation** — creation’s inner truth in Christ, clarified by **Truth**. It encompasses the full arc of wisdom: the discernment of the **Conscience / Synderesis**, the communal testing of **Discernment (Diakrisis)**, and the lament and longing that arise when creation groans for its healed telos (**Lament**).
 
 ---
 
@@ -79,10 +83,12 @@ but the **Logos-expressed coherence of divine life and its creaturely manifestat
 - Impersonal spiritual cosmologies that erase communion
 
 **Misuse-prevention notes**
-- Divine Sophia and Created Sophia must never be collapsed.  
-- Sophia is never separable from the Logos.  
-- Creation is not God, but exists *within* God’s Wisdom.
+- Divine Sophia and Created Sophia must never be collapsed; creation is not God.
+- Sophia is never separable from the Logos; wisdom claims that ignore Christ are not Sophia.
+- Romanticism about nature or creation must not bypass justice, truth-telling, or the groaning of the suffering (**Justice**, **Lament**).
+- Sophia does not override the claims of the wounded; wisdom that silences grief or harm is distorted.
 - Truth-telling must resist romanticised denial and protect the vulnerable from coercive narratives.
+- No spiritual teacher may claim exclusive access to divine Wisdom; Sophia is received in community and tested by **Discernment (Diakrisis)**.
 
 ---
 
@@ -96,11 +102,23 @@ but the **Logos-expressed coherence of divine life and its creaturely manifestat
 ---
 
 ## Relation to Core Operators
-- **Incarnation** — Christ enters created Sophia to heal it from within.  
-- **Atonement** — distortion is repaired inside created Sophia through cruciform love.  
-- **Sanctification** — convergence occurs inside the Sophia-field of creation.  
-- **Theosis** — created Sophia is transfigured into fuller participation in divine life.  
+- **Incarnation** — Christ enters created Sophia to heal it from within.
+- **Atonement** — distortion is repaired inside created Sophia through cruciform love.
+- **Sanctification** — convergence occurs inside the Sophia-field of creation.
+- **Theosis** — created Sophia is transfigured into fuller participation in divine life.
 - **Koinonia** — communion becomes possible because creation itself is Wisdom-formed.
+- **Justice** — Sophia does not transcend the wounded earth; it demands the repair of creation's broken social and ecological fabric.
+- **Lament** — creation's groaning (Rom 8:22) is itself Sophia's honest acknowledgement of unhealed distortion; lament is not a failure of wisdom but its truthful form under pressure.
+- **Conscience / Synderesis** and **Discernment (Diakrisis)** — the interior and communal testing of wisdom in concrete decisions.
+
+---
+
+## Trauma-aware safeguarding
+- Wisdom language must not be used to spiritualise harm or present suffering as secretly ordered; this is a form of bypass.
+- For those wounded by teachings that framed their suffering as "God's wise plan," approach creation-theology gently and with explicit permission.
+- Sophia does not require cheerful acceptance of disorder; lament is Wisdom's honest face under pressure.
+- No teacher may claim that their interpretation of divine Wisdom overrides the testimony of the wounded.
+- The groaning of creation (Rom 8:22) is an act of wisdom, not a failure of faith; it is honoured, not suppressed.
 
 ---
 
