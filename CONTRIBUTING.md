@@ -29,7 +29,7 @@ Additional contributor references:
 2. Draft new terms using `01_TERM_TEMPLATE.md`.
 3. Use the formalism in `02_FORMALISM.md` and the vocabulary in `03_GLOSSARY.md`.
 4. Apply guardrails from `04_PASTORAL_GUARDRAILS.md`.
-5. Ensure all invariants in `06_TESTS_AND_INVARIANTS.md` are met.
+5. Ensure all invariants in `06_TESTS_AND_INVARIANTS.md` are met. Use the review checklist at the end of that file before submitting.
 6. Update indexes, cross-references, and the glossary as needed.
 7. Update `TASKS.md` to reflect completed work.
 
@@ -39,19 +39,42 @@ Additional contributor references:
 - Case studies belong in `case_studies/`.
 
 ## Required Sections for New Terms
-Every new term must include:
+Every new term must include, in this order:
 - One-Line Definition
 - Formal Operator
 - Inputs and Outputs
-- Layer Effects (use an approved format)
+- Layer Effects (use an approved format — see `01_TERM_TEMPLATE.md`)
 - What It Heals
-- What It Can Damage (If Misused)
+- What It Can Damage (If Misused) — followed immediately by **Misuse-prevention notes** (bold block, ≥4 bullets)
 - What it looks like in practice
+- **Trauma-aware safeguarding** (section heading `##`, ≥4 bullets; consent, access, professional-care invariants required)
 - Patristic Resonance
-- Fails the Cross If...
+- Fails the Cross If…
+
+A complete worked example is in `01_TERM_TEMPLATE.md` (Mercy entry). Use it as a reference before drafting.
 
 ## Layer Effects Convention
 You must use one of the approved Layer Effects formats. Unqualified up arrows are not allowed. See `01_TERM_TEMPLATE.md`.
+
+## When to Use Formal Notation
+
+The Codex uses mathematical notation analogically — as a pastoral grammar, not as a claim to precision. The following guidance helps decide when notation adds clarity and when it obscures.
+
+**Use formal notation (H → H′, operator tables, layer effects) when:**
+- The entry is a fundamental operator with clear layer-level effects (e.g. Grace, Mercy, Authority)
+- The transformation is multi-person and the community form `{Hᵢ} → {Hᵢ′}` is needed (e.g. Koinonia, Liturgy, Tradition)
+- The entry has significant misuse risk that the notation helps encode explicitly (e.g. Confession, Obedience)
+- The entry refines or stabilises several other operators and the formal list clarifies the relationships
+
+**Plain language is sufficient (or preferable) when:**
+- The entry is a dispositional or attitudinal term (e.g. Patience, Gratitude) where layer effects are diffuse
+- The entry is a relational or communal practice where the transformation is better described in prose
+- Adding notation would make the entry feel clinical rather than pastoral
+
+**In either case:**
+- Never treat the notation as more than analogy; it is a clarity tool, not a theological claim
+- If notation is used, it must be accompanied by plain-language explanation of what it means
+- When in doubt, use the Mercy worked example in `01_TERM_TEMPLATE.md` as the baseline
 
 ## Safeguarding and Trauma-Awareness
 - Never pressure spiritual practice.
