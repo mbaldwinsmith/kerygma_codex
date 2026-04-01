@@ -262,15 +262,88 @@ Never used to dismiss present suffering, grief, or the unfinished work of healin
 Operators can be composed, refined, and stabilised by practices.
 
 ### How practices refine operators
-Fundamental practices make the grammar lived, safe, and embodied:
 
-- **Nepsis** and **Hesychia** stabilise attention and reduce noise.
-- **Ascesis** and **Fasting** provide bounded, consented training that reduces entropy.
-- **Confession** and **Eucharist** enact repair and communion.
-- **Liturgy**, **Scripture**, and **Tradition** sustain a shared reference field.
-- **Spiritual Direction** and **Discernment** ensure consented pacing and safety.
+The 60+ fundamental practices are not separate from the core operators — they make the operators lived, embodied, and pastorally safe. Each practice refines one or more core operators by specifying how the transformation works in a particular mode of human life.
 
 Practices are never ladders. They are **gentle participation** in a gift‑first ecology.
+
+### Practice Clusters
+
+The fundamental practices organise into seven natural clusters. Each cluster primarily refines the core operators shown, though many practices cross cluster boundaries.
+
+---
+
+**1. Foundational operators**
+*Primary refinement: Grace, Justification, Koinonia*
+
+Love / Agape, Faith, Grace, Hope, Justice, Mercy, Peace, Truth
+
+These are the root conditions of the grammar — the operators that must be in place before most other formation can begin safely. Grace and Justification anchor identity before behaviour; Love, Justice, and Mercy shape the quality of all other operators.
+
+---
+
+**2. Salvation and repair arc**
+*Primary refinement: Metanoia, Justification, Sanctification*
+
+Adoption, Atonement, Baptism, Conversion, Forgiveness, Hamartia / Sin, Metanoia, Propitiation, Regeneration
+
+These practices describe the arc of entry into repair: naming the damage (Hamartia, Original Sin), receiving the basis of healing (Atonement, Propitiation, Justification), and beginning the journey toward restored life (Metanoia, Conversion, Baptism, Regeneration, Adoption, Forgiveness).
+
+---
+
+**3. Contested doctrinal operators**
+*Primary refinement: Justification, Metanoia, Grace*
+
+Depravity, Election, Mortal Sin, Original Sin, Predestination
+
+These practices name the extent and nature of human damage and divine initiative. They require careful handling — each carries a significant misuse risk and must be read through the Cruciform Criterion (see individual practices for Misuse-prevention notes).
+
+---
+
+**4. Ascetical and formational practices**
+*Primary refinement: Sanctification, Nepsis*
+
+Ascesis, Celibacy, Conscience / Synderesis, Discernment / Diakrisis, Fasting, Nepsis, Obedience, Vigil, Virtue / Arete, Vocation, Waiting / Patientia
+
+These practices enact the iterative convergence of Sanctification in daily and embodied life. They reduce distortion, stabilise attractor topology, and sharpen discernment — always within creaturely limits and with explicit safeguarding against performance anxiety and coercive application.
+
+---
+
+**5. Prayer and contemplative operators**
+*Primary refinement: Kenosis, Theosis, Nepsis*
+
+Hesychia, Icon, Kenosis, Lament, Prayer, Scripture, Sophia / Wisdom, Suffering
+
+These practices mediate encounter with God through attention, stillness, Word, grief, and self-offering. Lament and Suffering are included here because honest grief before God is a constitutive contemplative act, not a departure from prayer.
+
+---
+
+**6. Sacramental and ecclesial operators**
+*Primary refinement: Koinonia, Grace, Kenosis*
+
+Confession, Eucharist, Icon (shared), Liturgy, Priesthood, Sacrifice
+
+These practices enact the Codex grammar in the gathered, embodied life of the Church. They are gift-field practices: they hold the grammar open for those who cannot yet carry it alone, and they protect communal coherence through consent, safeguarding, and truthful love.
+
+---
+
+**7. Social and institutional operators**
+*Primary refinement: Koinonia, Sanctification*
+
+Apostolicity, Authority, Church / Ekklesia, Koinonia, Marriage, Spiritual Direction, Tradition
+
+These practices describe the social and institutional structures that sustain formation across time and community. They are the most vulnerable to misuse — authority, tradition, and apostolicity each carry significant coercion risk — and their individual practices contain the most detailed misuse-prevention and trauma-aware safeguarding notes.
+
+---
+
+**8. Eschatological operators**
+*Primary refinement: Glorification, Hope*
+
+Death, Glorification, Heaven, Hell, Judgement / Krisis, New Creation, Resurrection, Theosis
+
+These practices name the telos of the grammar — what formation is moving toward. They are not speculative; they are the completion notes that anchor every other operator's trajectory. See `ESCHATOLOGICAL_COMPLETION.md` for how each core operator resolves toward this horizon.
+
+---
 
 ### How safeguarding is encoded
 Every operator and practice must include:
