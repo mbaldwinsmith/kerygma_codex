@@ -2,7 +2,23 @@
 
 ## Orientation
 
-This document is completion grammar, not end-times doctrine. It integrates the Codex core operators into a single convergence horizon toward Resurrection, Glorification, and New Creation. The intent is cruciform, consent-honoring, trauma-aware final hope: embodied restoration rather than escape, control, or speculation.
+### Why eschatology belongs in a formation grammar
+
+Every Codex operator is directional. Grace moves toward something. Justification, sanctification, metanoia, faith — each one is a transformation in progress, not a completed state. The question this document answers is: *toward what?*
+
+Without a horizon, formation collapses into one of two distortions. The first is moralism: formation as a self-improvement project where coherence is the goal and the practitioner is the engine, with God as optional accelerant. The second is escapism: formation as evacuation of creaturely life, where the body, history, grief, and particularity are burdens to be shed on the way to a disembodied elsewhere.
+
+The Codex rejects both. Formation is oriented toward *embodied restoration in God* — the healing and transfiguration of creaturely life, not its erasure. This means:
+
+- Every operator's work is **partial in this life** and that is not a failure; it is the nature of creaturely time.
+- Every operator's work is **eschatologically guaranteed** in a way no human effort can manufacture; the completion is gift, not achievement.
+- Every operator's work must be **held lightly under pressure** — the person who cannot pray, cannot forgive, cannot hope right now is not falling behind; they are still held within the horizon the operators point toward.
+
+This matters pastorally because people in extremity — those who are dying, those in irreversible grief, those whose healing will not arrive in this life — need to know whether the grammar still applies to them. It does. Not as demand, but as promise.
+
+### What this document is and is not
+
+This document is **completion grammar**, not end-times doctrine. It integrates the Codex core operators into a single convergence horizon toward Resurrection, Glorification, and New Creation. The intent is cruciform, consent-honoring, trauma-aware final hope: embodied restoration rather than escape, control, or speculation.
 
 These notes safeguard the vulnerable, refuse coercion, and keep hope shaped by truthful love under pressure. They do not predict timelines or provide countdowns; they describe the healing telos of the operator grammar.
 
@@ -168,6 +184,28 @@ New Creation is wielded to justify harm, silence conscience, or treat judgment a
 
 ---
 
-## The Shape of Final Hope in the Kerygma Codex
+## In Pastoral Practice: End-of-Life Accompaniment
+
+The following example shows how the completion notes function in a concrete pastoral encounter, not as a script but as a grammar that reorients the pastoral presence.
+
+---
+
+*Margaret is 74 and dying of cancer. She has been a faithful churchgoer for fifty years but tells her pastoral visitor, quietly, that she is afraid she has not done enough — that her faith was too weak, her repentance incomplete, her love too small. She is not asking for reassurance. She is asking a real question.*
+
+**Without the completion notes**, the pastoral response is likely to reach for comfort that bypasses the question: "Of course you've done enough. God loves you." This is well-intentioned but it does not answer what she is asking. It spiritually bypasses her genuine fear and offers a surface peace that does not bear her weight.
+
+**With the completion notes**, the pastoral grammar reframes the encounter:
+
+- **Justification's completion note** names that the final declaration of belonging is grounded in the Cross, not in the accumulated weight of her faithfulness. Her fear of "not enough" is met not with dismissal but with the promise that the verdict is not hers to produce.
+- **Faith's completion note** holds that faith completes in fulfilled trust, not in achieved certainty — and that doubt, grief, and exhaustion are not disqualifiers. Her weak faith is still faith.
+- **Sanctification's completion note** names that the mending of habits and the restoration of freedom are gift, not achievement — which means the incompleteness she feels is not condemnation but invitation.
+- **Resurrection's completion note** names that the repair includes trauma, illness, and the scars of a long life — that what is broken in her is not discarded but held within a promise of embodied restoration.
+- **Grace's completion note** holds that what cannot be self-repaired is met with mercy, not demand.
+
+The pastoral visitor does not recite these notes. They reorient the visitor's presence: less toward comfort and more toward honest companionship with someone at the edge of what the formation grammar can produce in a single life. The response becomes something like: *"I don't think God is holding a ledger. I think what you're feeling is real — and I think it's held."*
+
+The completion notes also prevent a different pastoral failure: using eschatological language coercively. The visitor does not say "you should have more hope" or "just trust God." The notes carry their own safeguards — they name what hope is moving toward, not what the dying person is required to perform.
+
+---
 
 Final hope in the Codex is cruciform and gentle: truthful love under pressure, embodied restoration, and consented communion. It rejects speculation, coercion, and fear as tools of formation. It promises that God’s healing does not erase persons, histories, or bonds, but transfigures them. The end is not escape, but repair: a universal horizon of reconciliation and renewed life where the vulnerable are safeguarded and the wounded are honored.
