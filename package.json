@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A gentle grammar for spiritual healing and coherence repair.",
   "private": true,
+  "type": "module",
   "scripts": {
     "prebuild": "node scripts/generate-frontmatter.js",
     "build": "eleventy --config=eleventy.config.js",

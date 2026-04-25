@@ -3,5 +3,5 @@
 
 # Website build artifacts
 _site/
-_generated/
+generated/
 node_modules/

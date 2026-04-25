@@ -4,7 +4,7 @@ This is the build workbench for the Kerygma Codex website. It mirrors the phase/
 
 **Stack:** Eleventy (11ty) · Nunjucks templates · Vanilla CSS (modular) · Vanilla JS · GitHub Actions → GitHub Pages
 
-**Build model:** A pre-build script (`scripts/generate-frontmatter.js`) programmatically injects YAML frontmatter into copies of the content markdown files, writing them to `_generated/`. Eleventy reads `_generated/` and `src/pages/`. Original `content/` files are never modified.
+**Build model:** A pre-build script (`scripts/generate-frontmatter.js`) programmatically injects YAML frontmatter into copies of the content markdown files, writing them to `generated/`. Eleventy reads `generated/` and `src/pages/`. Original `content/` files are never modified.
 
 ---
 
@@ -34,7 +34,7 @@ kerygma_codex/
 │   ├── site.js                           # Site-wide metadata (title, baseUrl, etc.)
 │   └── navigation.js                     # Top-level nav items array
 │
-├── _generated/                           # git-ignored; temp copies with injected frontmatter
+├── generated/                           # git-ignored; temp copies with injected frontmatter
 │   └── content/                          # Mirrors content/ structure
 │
 ├── _site/                                # git-ignored; Eleventy build output
@@ -78,7 +78,7 @@ kerygma_codex/
 │           └── index.njk               # About, license, contributing
 │
 ├── scripts/
-│   └── generate-frontmatter.js          # Pre-build script: reads content/, writes _generated/
+│   └── generate-frontmatter.js          # Pre-build script: reads content/, writes generated/
 │
 ├── content/                             # EXISTING — NEVER MODIFIED
 ├── eleventy.config.js                   # Eleventy configuration
@@ -126,7 +126,7 @@ Run `npm init -y` at the project root, then configure scripts:
 Append:
 ```
 _site/
-_generated/
+generated/
 node_modules/
 ```
 
@@ -135,7 +135,7 @@ node_modules/
 ---
 
 ### 1.3 — Create directory skeleton
-Create all directories listed in the target structure. Touch `.gitkeep` files in empty leaf directories (`_generated/`, `src/assets/images/illustrations/hero/`, etc.) so git tracks them.
+Create all directories listed in the target structure. Touch `.gitkeep` files in empty leaf directories (`generated/`, `src/assets/images/illustrations/hero/`, etc.) so git tracks them.
 
 **Status:** [x] Complete
 
@@ -146,7 +146,7 @@ Create all directories listed in the target structure. Touch `.gitkeep` files in
 ### 2.1 — Write generate-frontmatter.js
 **File:** `scripts/generate-frontmatter.js`
 
-This script reads every relevant markdown file under `content/`, infers metadata from the file path and first `# ` heading, and writes a copy with injected YAML frontmatter to `_generated/`, preserving the relative directory structure.
+This script reads every relevant markdown file under `content/`, infers metadata from the file path and first `# ` heading, and writes a copy with injected YAML frontmatter to `generated/`, preserving the relative directory structure.
 
 **Frontmatter injected per content type:**
 
@@ -177,19 +177,19 @@ This script reads every relevant markdown file under `content/`, infers metadata
 2. Filter against the exclusion list above
 3. For each file: read content, strip any pre-existing frontmatter with `gray-matter`, parse first `# ` heading as `title`
 4. Resolve `section` and `layout` from the file path using the table above
-5. Prepend YAML frontmatter block, write to `_generated/<same relative path>`
+5. Prepend YAML frontmatter block, write to `generated/<same relative path>`
 6. Also rewrite relative markdown links from `content/` paths to their site URLs (e.g. `[03_GLOSSARY.md](../03_GLOSSARY.md)` → `/foundation/glossary/`) — see Phase 11.3 for full link mapping
 
 > **User task:** Review the exclusion list above. Are there any files in `content/` that should appear on the site that are not listed in the frontmatter table? Are there any listed that should be hidden?
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
 ### 2.2 — Verify script output
 After writing the script, run `node scripts/generate-frontmatter.js` and spot-check five generated files — one practice, one foundation doc, one case study, one Rule of Life, one edge case — to confirm frontmatter injection and title parsing are correct.
 
-**Status:** [ ] Not started
+**Status:** [x] Complete — 88 files processed, 6 excluded. Link rewriting verified.
 
 ---
 
@@ -202,15 +202,15 @@ Key configuration:
 - Input dir: project root (`.`)
 - Output dir: `_site`
 - Ignored paths: `content/` (raw source), `node_modules/`, `README.md`, `AGENTS.md`, `WEBSITETASKS.md`, `IMAGEPROMPTS.md`, `TASKS.md`, `CHANGELOG.md`, `CONTRIBUTING.md`, `ETHICAL_USE_ADDENDUM.md`, `LICENSE.md`
-- Processed paths: `_generated/**/*.md` (content pages), `src/pages/**/*.njk` (static pages)
+- Processed paths: `generated/**/*.md` (content pages), `src/pages/**/*.njk` (static pages)
 - Template language: Nunjucks for `.njk`, Markdown for `.md`
 - Passthrough copy: `src/assets/` → `assets/`, `Infographic.png`
 
 **Collections to define:**
-- `practices` — all items from `_generated/content/07_fundamental_practices/`, sorted alphabetically by `data.title`
-- `foundations` — all items from `_generated/content/` where `data.section === "foundation"`, sorted by `inputPath` (preserves 00–06 numeric order)
-- `caseStudies` — all items from `_generated/content/case_studies/`, sorted by `data.title`
-- `ruleOfLife` — all items from `_generated/content/Rule_of_Life/`
+- `practices` — all items from `generated/content/07_fundamental_practices/`, sorted alphabetically by `data.title`
+- `foundations` — all items from `generated/content/` where `data.section === "foundation"`, sorted by `inputPath` (preserves 00–06 numeric order)
+- `caseStudies` — all items from `generated/content/case_studies/`, sorted by `data.title`
+- `ruleOfLife` — all items from `generated/content/Rule_of_Life/`
 
 **Filters to add:**
 - `readableDate` — format ISO date as `D MMMM YYYY`
@@ -222,7 +222,7 @@ Key configuration:
 - `html: true` — allow HTML in markdown
 - `linkify: true`
 
-**Status:** [ ] Not started
+**Status:** [x] Complete — `setUseGitIgnore(false)` required; stub layouts added to unblock build.
 
 ---
 
@@ -252,7 +252,7 @@ module.exports = [
 
 > **User task:** Confirm the GitHub username. Based on git config the username appears to be `mbaldwinsmith` — verify this matches your GitHub account so the `baseUrl` and `githubUrl` resolve correctly. Update both when you acquire a custom domain.
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
