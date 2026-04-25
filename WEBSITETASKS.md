@@ -323,7 +323,7 @@ module.exports = [
 }
 ```
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
@@ -347,7 +347,7 @@ Define:
 - `strong`: Inter 500
 - Mathematical Unicode (`↑ ↓ → ′ σ Φ`): inherits body font — no special treatment needed; verify rendering in Phase 11.4
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
@@ -372,7 +372,7 @@ Responsive breakpoints (mobile-first):
 - `1024px` — full layout with sidebar
 - `1280px` — max-width caps kick in
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
@@ -439,7 +439,7 @@ Define the following components:
 - Bottom bar: smaller text, GitHub link, copyright
 - Cross-divider SVG sits directly above `.footer`
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
@@ -496,7 +496,7 @@ All animations must be wrapped in a `prefers-reduced-motion` guard:
 `.card` hover transitions
 - Defined in `components.css` — `transition: box-shadow var(--transition-base), transform var(--transition-base);`
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
@@ -513,7 +513,7 @@ All animations must be wrapped in a `prefers-reduced-motion` guard:
 
 No styles of its own. Import order matters: tokens must load first.
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
