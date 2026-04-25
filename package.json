@@ -1,0 +1,21 @@
+{
+  "name": "kerygma-codex",
+  "version": "1.0.0",
+  "description": "A gentle grammar for spiritual healing and coherence repair.",
+  "private": true,
+  "scripts": {
+    "prebuild": "node scripts/generate-frontmatter.js",
+    "build": "eleventy --config=eleventy.config.js",
+    "prestart": "node scripts/generate-frontmatter.js",
+    "start": "eleventy --config=eleventy.config.js --serve",
+    "clean": "rimraf _generated _site"
+  },
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.5",
+    "glob": "^13.0.6",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.1",
+    "rimraf": "^6.1.3"
+  }
+}

@@ -1,2 +1,7 @@
 # Claude Code local config
 .claude/settings.local.json
+
+# Website build artifacts
+_site/
+_generated/
+node_modules/

@@ -116,7 +116,7 @@ Run `npm init -y` at the project root, then configure scripts:
 - `glob` — file matching in pre-build script
 - `markdown-it` — Eleventy's markdown renderer (configure directly in eleventy.config.js)
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
@@ -130,14 +130,14 @@ _generated/
 node_modules/
 ```
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
 ### 1.3 — Create directory skeleton
 Create all directories listed in the target structure. Touch `.gitkeep` files in empty leaf directories (`_generated/`, `src/assets/images/illustrations/hero/`, etc.) so git tracks them.
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
