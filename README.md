@@ -100,6 +100,27 @@ See `CONTRIBUTING.md` for getting started!
 
 ---
 
+## Website
+
+The Codex is published as a static website via [GitHub Pages](https://mbaldwinsmith.github.io/kerygma_codex), built with [Eleventy](https://www.11ty.dev).
+
+**Prerequisites:** [Node.js](https://nodejs.org) v20 or later.
+
+```bash
+npm install        # Install dependencies (first time only)
+npm start          # Build site and serve at http://localhost:8080
+npm run build      # Production build to _site/
+npm run clean      # Remove _generated/ and _site/
+```
+
+The build step programmatically generates frontmatter for all content files — the originals in `content/` are never modified. Output is written to `_site/` (git-ignored).
+
+Pushing to `main` triggers a GitHub Actions workflow (`.github/workflows/deploy.yml`) that builds the site and publishes it to the `gh-pages` branch automatically.
+
+See `WEBSITETASKS.md` for the full build plan, illustration prompts, and pending tasks.
+
+---
+
 *May this grammar serve healing, not harm.  
 May it widen mercy, not narrow belonging.  
 May it remain gentle, even when truth remains firm.*
