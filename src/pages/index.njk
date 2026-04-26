@@ -47,7 +47,7 @@ permalink: /
     <h2 class="reveal" style="margin-bottom: var(--space-8);">Three ways in</h2>
     <div class="grid-cards">
 
-      <a href="{{ '/practices/' | url }}" class="card reveal">
+      <a href="{{ '/practices/' | url }}" class="card">
         <img
           src="{{ '/assets/images/illustrations/sections/practices.png' | url }}"
           alt=""
@@ -60,7 +60,7 @@ permalink: /
         <p class="card__excerpt">{{ collections.practices | length }} healing practices drawn from the grammar of the Codex — embodied ways of participating in repair.</p>
       </a>
 
-      <a href="{{ '/case-studies/' | url }}" class="card reveal">
+      <a href="{{ '/case-studies/' | url }}" class="card">
         <img
           src="{{ '/assets/images/illustrations/sections/case-studies.png' | url }}"
           alt=""
@@ -73,7 +73,7 @@ permalink: /
         <p class="card__excerpt">{{ collections.caseStudies | length }} pastoral reflections on spiritual healing across diverse human stories and circumstances.</p>
       </a>
 
-      <a href="{{ '/rule-of-life/' | url }}" class="card reveal">
+      <a href="{{ '/rule-of-life/' | url }}" class="card">
         <img
           src="{{ '/assets/images/illustrations/sections/rule-of-life.png' | url }}"
           alt=""
@@ -125,7 +125,7 @@ permalink: /
     </div>
     <div class="grid-cards">
       {% for doc in collections.foundations %}
-        <a href="{{ doc.url | url }}" class="card reveal">
+        <a href="{{ doc.url | url }}" class="card">
           <h3 class="card__title" style="font-size: var(--size-base);">{{ doc.data.title }}</h3>
           <p class="card__excerpt">{{ doc.templateContent | excerpt }}</p>
         </a>
