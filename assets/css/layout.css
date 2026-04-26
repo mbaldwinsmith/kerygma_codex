@@ -1,0 +1,204 @@
+/* --- Containers --- */
+
+.container {
+  max-width: var(--max-reading);
+  margin-inline: auto;
+  padding-inline: var(--space-6);
+}
+
+.container--wide {
+  max-width: var(--max-content);
+  margin-inline: auto;
+  padding-inline: var(--space-8);
+}
+
+.container--full {
+  max-width: var(--max-wide);
+  margin-inline: auto;
+  padding-inline: var(--space-8);
+}
+
+/* --- Page shell --- */
+
+.page {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.page-content { flex: 1; }
+
+/* --- Sections --- */
+
+.section {
+  padding-block: var(--space-24);
+}
+
+.section--sm {
+  padding-block: var(--space-12);
+}
+
+.section--flush {
+  padding-block: 0;
+}
+
+/* --- Grid layouts --- */
+
+.grid-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--space-6);
+}
+
+.grid-two {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-8);
+  align-items: start;
+}
+
+.grid-three {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-6);
+}
+
+/* --- Prose wrapper --- */
+
+.prose {
+  max-width: var(--max-reading);
+}
+
+.prose > * + * {
+  margin-block-start: var(--space-4);
+}
+
+/* --- Page-header (used in all content layouts) --- */
+
+.page-header {
+  padding-block: var(--space-16) var(--space-12);
+  border-bottom: 1px solid var(--color-border);
+  margin-bottom: var(--space-12);
+}
+
+.page-header h1 {
+  margin-bottom: var(--space-2);
+}
+
+/* --- Breadcrumb --- */
+
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-family: var(--font-body);
+  font-size: var(--size-xs);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--color-mid);
+  margin-bottom: var(--space-6);
+  list-style: none;
+  padding: 0;
+}
+
+.breadcrumb li + li::before {
+  content: '/';
+  color: var(--color-border);
+  margin-right: var(--space-2);
+}
+
+.breadcrumb a {
+  color: var(--color-mid);
+  text-decoration: none;
+}
+
+.breadcrumb a:hover { color: var(--color-gold); }
+
+/* --- Skip link (accessibility) --- */
+
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: var(--space-4);
+  padding: var(--space-2) var(--space-6);
+  background: var(--color-charcoal);
+  color: var(--color-cream);
+  font-size: var(--size-sm);
+  font-weight: 500;
+  border-radius: var(--radius-sm);
+  z-index: var(--z-overlay);
+  text-decoration: none;
+  transition: top var(--transition-fast);
+}
+
+.skip-link:focus { top: var(--space-4); }
+
+/* --- Two-column content + sidebar --- */
+
+.content-with-sidebar {
+  display: grid;
+  grid-template-columns: 1fr 240px;
+  gap: var(--space-12);
+  align-items: start;
+}
+
+.sidebar {
+  position: sticky;
+  top: calc(var(--space-16) + var(--space-8));
+  font-size: var(--size-sm);
+}
+
+/* --- Prev/next navigation --- */
+
+.page-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-4);
+  padding-top: var(--space-12);
+  margin-top: var(--space-12);
+  border-top: 1px solid var(--color-border);
+}
+
+.page-nav__link {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  max-width: 45%;
+}
+
+.page-nav__link--next { text-align: right; margin-left: auto; }
+
+.page-nav__label {
+  font-size: var(--size-xs);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-mid);
+}
+
+/* --- Responsive breakpoints --- */
+
+@media (max-width: 1024px) {
+  .content-with-sidebar {
+    grid-template-columns: 1fr;
+  }
+  .sidebar { display: none; }
+}
+
+@media (max-width: 768px) {
+  .grid-two,
+  .grid-three {
+    grid-template-columns: 1fr;
+  }
+
+  .container,
+  .container--wide,
+  .container--full {
+    padding-inline: var(--space-4);
+  }
+
+  .section { padding-block: var(--space-16); }
+  .section--sm { padding-block: var(--space-8); }
+  .page-header { padding-block: var(--space-12) var(--space-8); }
+}

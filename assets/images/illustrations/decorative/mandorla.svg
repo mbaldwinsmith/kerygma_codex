@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" width="400" height="80">
+  <!-- Background -->
+  <rect width="400" height="80" fill="#FAF7F2"/>
+
+  <!-- Horizontal rules -->
+  <line x1="20"  y1="40" x2="145" y2="40" stroke="#E5DED3" stroke-width="1"/>
+  <line x1="255" y1="40" x2="380" y2="40" stroke="#E5DED3" stroke-width="1"/>
+
+  <!-- Mandorla (horizontal vesica piscis) -->
+  <path d="M 200 16 Q 240 40 200 64 Q 160 40 200 16 Z"
+        fill="none" stroke="#C28840" stroke-width="1.5" opacity="0.40"/>
+  <path d="M 200 22 Q 232 40 200 58 Q 168 40 200 22 Z"
+        fill="#C28840" opacity="0.07"/>
+
+  <!-- Centre dot -->
+  <circle cx="200" cy="40" r="3" fill="#C28840" opacity="0.35"/>
+</svg>
