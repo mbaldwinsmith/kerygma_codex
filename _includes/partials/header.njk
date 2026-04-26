@@ -1,0 +1,18 @@
+<header class="nav" id="site-header">
+  <a class="nav__wordmark" href="{{ '/' | url }}">Kerygma Codex</a>
+
+  {% include "partials/nav.njk" %}
+
+  {% include "partials/search-bar.njk" %}
+
+  <button
+    class="nav__hamburger"
+    aria-label="Toggle navigation"
+    aria-expanded="false"
+    aria-controls="nav-links"
+  >
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
+</header>

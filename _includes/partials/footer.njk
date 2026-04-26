@@ -1,0 +1,44 @@
+<footer class="footer">
+  <div class="container--wide">
+
+    <div class="footer__grid">
+
+      <!-- Wordmark + tagline -->
+      <div>
+        <a class="footer__wordmark" href="{{ '/' | url }}">Kerygma Codex</a>
+        <p class="footer__tagline">{{ site.description }}</p>
+      </div>
+
+      <!-- Navigation -->
+      <div>
+        <p class="footer__heading">Navigate</p>
+        <ul class="footer__links" role="list">
+          {% for item in navigation %}
+            <li>
+              <a class="footer__link" href="{{ item.url | url }}">{{ item.label }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <!-- License -->
+      <div>
+        <p class="footer__heading">License</p>
+        <p class="footer__tagline">{{ site.license }} · Ethical Use Addendum applies.</p>
+        <a
+          class="footer__link"
+          href="{{ site.githubUrl }}"
+          target="_blank"
+          rel="noopener noreferrer"
+        >View on GitHub ↗</a>
+      </div>
+
+    </div>
+
+    <div class="footer__bar">
+      <span>Kerygma Codex Contributors</span>
+      <a href="{{ site.githubUrl }}" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+    </div>
+
+  </div>
+</footer>

@@ -534,7 +534,7 @@ Full HTML5 shell. Include:
 - Before `</body>`: `<script src="/assets/js/ui.js" defer></script>`, `<script src="/assets/js/search.js" defer></script>`
 - Skip-to-main link for accessibility: `<a class="skip-link" href="#main">Skip to content</a>`
 
-**Status:** [ ] Not started
+**Status:** [x] Complete — also added OG tags, lunr CDN, pathPrefix-aware hrefs.
 
 ---
 
@@ -552,7 +552,7 @@ Structure:
 </header>
 ```
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
@@ -563,7 +563,7 @@ Iterate `navigation` global data. Mark active item by comparing `page.url` again
 
 Include a hamburger `<button>` (hidden on desktop, visible on mobile) that toggles a `.nav__drawer--open` class via `ui.js`.
 
-**Status:** [ ] Not started
+**Status:** [x] Complete — section-level active detection via `item.url in page.url`.
 
 ---
 
@@ -586,7 +586,7 @@ Include a hamburger `<button>` (hidden on desktop, visible on mobile) that toggl
 </footer>
 ```
 
-**Status:** [ ] Not started
+**Status:** [x] Complete — cross-divider SVG deferred to Phase 8.
 
 ---
 
@@ -602,7 +602,7 @@ Include a hamburger `<button>` (hidden on desktop, visible on mobile) that toggl
 
 `search.js` handles all binding and rendering.
 
-**Status:** [ ] Not started
+**Status:** [x] Complete — also created ui.js and search.js stubs to prevent 404s.
 
 ---
 

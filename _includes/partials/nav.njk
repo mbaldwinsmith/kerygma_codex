@@ -1,0 +1,13 @@
+<nav aria-label="Main navigation">
+  <ul class="nav__links" id="nav-links" role="list">
+    {% for item in navigation %}
+      <li>
+        <a
+          class="nav__link"
+          href="{{ item.url | url }}"
+          {% if item.url in page.url %}aria-current="page"{% endif %}
+        >{{ item.label }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
