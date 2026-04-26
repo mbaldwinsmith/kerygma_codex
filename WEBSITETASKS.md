@@ -811,7 +811,7 @@ Template outputs `[]` placeholder with `permalink: /search-index.json`. The real
 ## Phase 10: GitHub Actions
 
 ### 10.1 — Deployment workflow
-**File:** `.github/workflows/deploy.yml`
+**File:** [.github/workflows/deploy.yml](.github/workflows/deploy.yml)
 
 ```yaml
 name: Build and Deploy
@@ -847,9 +847,9 @@ jobs:
 
 `workflow_dispatch` allows manual re-runs from the GitHub Actions UI.
 
-> **User task:** After pushing this workflow for the first time, go to your GitHub repo → **Settings** → **Pages** → **Source**, and set it to `Deploy from a branch` → `gh-pages` → `/ (root)`. The workflow creates the `gh-pages` branch on first run. Your site will then be live at `https://mbaldwinsmith.github.io/kerygma_codex`.
+> **User task:** After this push, go to your GitHub repo → **Settings** → **Pages** → **Source** and set it to `Deploy from a branch` → `gh-pages` → `/ (root)`. The workflow creates the `gh-pages` branch on its first run. Your site will then be live at `https://mbaldwinsmith.github.io/kerygma_codex`.
 
-**Status:** [ ] Not started
+**Status:** [x] Complete — workflow file written and pushed; awaiting GitHub Pages configuration
 
 ---
 
