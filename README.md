@@ -117,8 +117,6 @@ The build step programmatically generates frontmatter for all content files — 
 
 Pushing to `main` triggers a GitHub Actions workflow (`.github/workflows/deploy.yml`) that builds the site and publishes it to the `gh-pages` branch automatically.
 
-See `WEBSITETASKS.md` for the full build plan, illustration prompts, and pending tasks.
-
 ---
 
 *May this grammar serve healing, not harm.  
