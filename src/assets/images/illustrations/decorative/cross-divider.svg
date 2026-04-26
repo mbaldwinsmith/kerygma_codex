@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" width="400" height="80">
+  <!-- Background -->
+  <rect width="400" height="80" fill="#FAF7F2"/>
+
+  <!-- Horizontal rules -->
+  <line x1="20"  y1="40" x2="180" y2="40" stroke="#E5DED3" stroke-width="1"/>
+  <line x1="220" y1="40" x2="380" y2="40" stroke="#E5DED3" stroke-width="1"/>
+
+  <!-- Thin cross -->
+  <rect x="195" y="22" width="10" height="36" fill="#C28840" opacity="0.30" rx="1"/>
+  <rect x="180" y="35" width="40" height="10" fill="#C28840" opacity="0.30" rx="1"/>
+</svg>

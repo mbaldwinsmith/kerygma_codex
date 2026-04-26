@@ -753,37 +753,22 @@ Uses `base` layout. Sections: what the Codex is, CC BY-SA 4.0 licence summary, E
 ## Phase 8: Illustrations & IMAGEPROMPTS.md
 
 ### 8.1 — Placeholder SVGs
-**Files:** all 8 illustration slots listed in the directory structure
+**Files:** all 8 illustration slots
 
-For each slot, create a minimal SVG placeholder:
-- ViewBox `0 0 800 500` (hero), `0 0 600 400` (sections), `0 0 400 100` (decorative)
-- Background rect: `fill="#FAF7F2"`
-- Centred gold cross motif (two overlapping rects): `fill="#C28840"`, 10% opacity
-- Text label: filename in small `var(--color-mid)` — so you know which placeholder is which while building
+Each SVG uses: cream background, concentric circles + cross motif in gold at low opacity, section-specific geometry (mandorla/vesica piscis, Byzantine arch, arcs, spiral, trefoil), and a small label. All pass through to `_site/assets/images/illustrations/`.
 
-**Status:** [ ] Not started
+**Status:** [x] Complete — 8 SVGs; passthrough copy count 12 → 20
 
 ---
 
 ### 8.2 — Write IMAGEPROMPTS.md
-**File:** `IMAGEPROMPTS.md`
+**File:** [IMAGEPROMPTS.md](IMAGEPROMPTS.md)
 
-For each of the 8 illustration slots, provide:
-1. Target filename and intended dimensions
-2. Role on the site (where it appears, what mood it should carry)
-3. A detailed ChatGPT/DALL-E image generation prompt in the Codex's visual register
+Contains: base style preamble (Byzantine geometry, sacred geometry, cream/gold/sage/rose palette, no figures, no text), then for each of the 8 slots: dimensions, site role, mood, and a full DALL-E / Midjourney prompt. Includes generation tips for consistency and SVG output.
 
-**Visual register for all prompts:**
-- Style: Abstract, contemplative, illustrative — not photographic, not figurative
-- Motifs: Byzantine geometry, golden-ratio spirals, mandorla / vesica piscis, concentric circles, cross forms, radiant light without a source
-- Palette: warm cream, deep charcoal, warm gold and amber, muted sage, dusty rose — no harsh primaries
-- Mood: Still, healing, inviting — never austere or cold
-- No human figures, no text, no letterforms
-- SVG or high-resolution PNG output (1600px minimum width)
+> **User task:** Generate each image using ChatGPT (DALL-E), Midjourney, or Ideogram. Save to the corresponding `src/assets/images/illustrations/` subdirectory, replacing the placeholder SVG. Filename must match exactly. SVG preferred; PNG (1600 px min) acceptable.
 
-> **User task:** Once `IMAGEPROMPTS.md` is written, generate each image using ChatGPT (DALL-E) or another tool of your choice. Save the output to the corresponding `illustrations/` subdirectory, replacing the placeholder SVG. Name files exactly as specified. SVG is preferred; PNG is acceptable.
-
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
