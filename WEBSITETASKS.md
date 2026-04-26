@@ -775,36 +775,36 @@ Contains: base style preamble (Byzantine geometry, sacred geometry, cream/gold/s
 ## Phase 9: Search
 
 ### 9.1 — Search index file
-**File:** `src/search-index.njk`
+**File:** [src/search-index.njk](src/search-index.njk)
 
-A dedicated Eleventy page that outputs `/search-index.json` at build time (set `permalink: /search-index.json` in frontmatter, `templateEngineOverride: njk`).
+Template outputs `[]` placeholder with `permalink: /search-index.json`. The real 88-item index is written by an `eleventy.after` hook in `eleventy.config.js` once all pages are rendered (using their `<main>` HTML, which avoids the `TemplateContentPrematureUseError` that hits filter-based approaches). Each item: `{title, section, url, body}`.
 
-The template iterates all four collections and emits a JSON array:
-```json
-[
-  { "title": "...", "section": "...", "url": "...", "body": "..." },
-  ...
-]
-```
-
-`body` is the content stripped of markdown syntax (first 400 chars). The `lunr` index is built client-side from this file at runtime (simpler than a pre-built index for this content volume).
-
-**Status:** [ ] Not started
+**Status:** [x] Complete — 88 items; body extracted from `<main>` tag; pathPrefix applied
 
 ---
 
 ### 9.2 — Search UI script
-**File:** `src/assets/js/search.js`
+**File:** [src/assets/js/search.js](src/assets/js/search.js)
 
-- On `DOMContentLoaded`: fetch `/search-index.json`, build a `lunr` index, store in module scope
-- On `#search-input` `input` event (debounced 200ms): query index, render top 8 results into `#search-results`
-- Each result: `<a>` wrapping title + section tag + URL
-- Close results: on `Escape`, on click outside `#search-results`, on result click
-- Load `lunr` from CDN (add to `base.njk` before `search.js`)
+- Fetches `basePath + /search-index.json` (basePath from `<meta name="base-path">` in base.njk)
+- Builds lunr index on DOMContentLoaded; `title` field boosted 10×
+- Debounced (200 ms) input handler; wildcard suffix for partial matching
+- Renders top 8 results with section tag; closes on Escape, outside click, result click
+- lunr loaded from CDN (already in base.njk)
 
-> **Note:** lunr.js CDN link goes in `base.njk`. Do not bundle — keeps build simple.
+**Status:** [x] Complete
 
-**Status:** [ ] Not started
+---
+
+### 9.3 — UI script
+**File:** [src/assets/js/ui.js](src/assets/js/ui.js)
+
+- **Scroll reveal**: IntersectionObserver (threshold 0.15) adds `.reveal--visible` to `.reveal` elements; falls back to immediate show
+- **Hamburger**: click toggles `.nav--open` on `.nav` + `aria-expanded`; Escape closes
+- **TOC**: reads `h2` headings from `.prose`, slugifies them into IDs, populates `#toc-list`; second IntersectionObserver highlights active link as user scrolls
+- **Layer table**: finds `.prose table` whose first `th` contains "Layer"; adds `.layer-up` / `.layer-down` / `.layer-zero` to cells containing `↑` / `↓` / `0`
+
+**Status:** [x] Complete
 
 ---
 

@@ -1,4 +1,6 @@
 import markdownIt from 'markdown-it';
+import { writeFile } from 'fs/promises';
+import { join }      from 'path';
 
 export default function (eleventyConfig) {
 
@@ -94,6 +96,49 @@ export default function (eleventyConfig) {
     return new Date(dateStr).toLocaleDateString('en-GB', {
       day: 'numeric', month: 'long', year: 'numeric',
     });
+  });
+
+  // --- Search index (written after all pages are rendered) --------------------
+  // Uses eleventy.after so templateContent is fully available on every page.
+  eleventyConfig.on('eleventy.after', async ({ dir, results }) => {
+    const pathPrefix = '/kerygma_codex'; // update when switching to custom domain
+
+    const stripHtml = (html) => (html ?? '')
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'")
+      .replace(/\s+/g, ' ')
+      .trim()
+      .slice(0, 400);
+
+    const sectionOf = (url) => {
+      if (url.startsWith('/practices/')  && url !== '/practices/')  return 'practices';
+      if (url.startsWith('/foundation/') && url !== '/foundation/') return 'foundation';
+      if (url.startsWith('/case-studies/') && url !== '/case-studies/') return 'case-studies';
+      if (url.startsWith('/rule-of-life/') && url !== '/rule-of-life/') return 'rule-of-life';
+      return null;
+    };
+
+    const items = results
+      .filter(({ url }) => url && sectionOf(url))
+      .map(({ url, content }) => {
+        const section = sectionOf(url);
+        const html    = content ?? '';
+
+        // Extract title from the first <h1> in the page
+        const titleMatch = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
+        const title = titleMatch
+          ? titleMatch[1].replace(/<[^>]+>/g, '').trim()
+          : '';
+
+        // Use only the <main> region so nav/footer text is excluded
+        const mainMatch = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i);
+        const body = stripHtml(mainMatch ? mainMatch[1] : html);
+
+        return { title, section, url: pathPrefix + url, body };
+      })
+      .filter(({ title }) => title);
+
+    await writeFile(join(dir.output, 'search-index.json'), JSON.stringify(items));
   });
 
   // --- Config ------------------------------------------------------------------
