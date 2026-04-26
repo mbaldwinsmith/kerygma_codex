@@ -3,7 +3,7 @@
 html {
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth is gated in animations.css behind prefers-reduced-motion */
 }
 
 body {
@@ -70,7 +70,7 @@ p {
 /* --- Links --- */
 
 a {
-  color: var(--color-gold);
+  color: var(--color-gold-text);
   text-decoration: none;
   transition: color var(--transition-fast);
 }

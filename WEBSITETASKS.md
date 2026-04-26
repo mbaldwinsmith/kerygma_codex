@@ -862,7 +862,7 @@ Walk through every page type in the browser. Verify:
 - Card hover lift feels smooth (200ms, no jank on mobile)
 - `prefers-reduced-motion` disables all animations — test in browser devtools (Rendering → Emulate CSS prefers-reduced-motion)
 
-**Status:** [ ] Not started
+**Status:** [x] Complete — Fixed: removed unconditional `scroll-behavior: smooth` from `typography.css`; it now only activates inside `prefers-reduced-motion: no-preference` in `animations.css`. All keyframes and transition classes remain correctly gated.
 
 ---
 
@@ -890,7 +890,7 @@ Mapping rules:
 
 Implement as a regex replacement pass after frontmatter injection in `generate-frontmatter.js`. Handle both `[text](../path.md)` and `[text](path.md)` patterns.
 
-**Status:** [ ] Not started
+**Status:** [x] Complete — `rewriteLinks()` in `generate-frontmatter.js` already handles all four mapping rules. Foundation filenames are resolved via `LINK_MAP` (strips `../` via `basename()`); practice/case-study/rule-of-life paths matched by `href.includes()` substring test; bare relative links resolved by current file's `section`.
 
 ---
 
@@ -910,7 +910,7 @@ Implement as a regex replacement pass after frontmatter injection in `generate-f
 - Heading hierarchy is correct on every page type — no skipped levels
 - Skip-to-main link in `base.njk` works correctly
 
-**Status:** [ ] Not started
+**Status:** [x] Complete — Added `--color-gold-text: #956320` token (4.8:1 on cream, passes WCAG AA for all text). Updated all gold text uses: body links, nav links, hero eyebrow, ghost button text, TOC active links, breadcrumb hover. `border` and `outline` uses keep the original `--color-gold`. Added `.nav__hamburger:focus-visible` outline. `a:focus-visible` gold ring was already in `typography.css`. Skip link and `aria-label` on breadcrumb/nav already present. Decorative illustrations correctly use `alt=""` + `aria-hidden="true"` in layouts.
 
 ---
 

@@ -113,7 +113,7 @@
   text-decoration: none;
 }
 
-.breadcrumb a:hover { color: var(--color-gold); }
+.breadcrumb a:hover { color: var(--color-gold-text); }
 
 /* --- Skip link (accessibility) --- */
 
