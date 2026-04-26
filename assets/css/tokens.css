@@ -9,6 +9,7 @@ img, svg { max-width: 100%; height: auto; display: block; }
   --color-charcoal:   #1C1F2A;
   --color-gold:       #C28840;
   --color-gold-light: #E8C98A;
+  --color-gold-text:  #956320;   /* AA-compliant: 4.8:1 on --color-cream */
   --color-sage:       #7A9E9F;
   --color-rose:       #C4A99A;
   --color-mid:        #6B7180;
