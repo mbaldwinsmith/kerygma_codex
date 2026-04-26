@@ -609,7 +609,7 @@ Include a hamburger `<button>` (hidden on desktop, visible on mobile) that toggl
 ## Phase 6: Page-Specific Layouts
 
 ### 6.1 — Practice layout
-**File:** `_includes/layouts/practice.njk`
+**File:** [_includes/layouts/practice.njk](_includes/layouts/practice.njk)
 
 Extends `base.njk` via `{% extends "layouts/base.njk" %}`.
 
@@ -621,12 +621,12 @@ Structure:
 5. `.layer-table` class automatically applied to any `<table>` within `.practice-header + .prose` via CSS `:has()` or a JS pass in `ui.js`
 6. Bottom nav: Previous / Next practice links (alphabetical by title, from `collections.practices`)
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
 ### 6.2 — Foundation layout
-**File:** `_includes/layouts/foundation.njk`
+**File:** [_includes/layouts/foundation.njk](_includes/layouts/foundation.njk)
 
 Like practice layout but:
 - No sidebar TOC (foundation docs are denser and shorter)
@@ -635,12 +635,12 @@ Like practice layout but:
 - Bottom nav: Previous / Next in `collections.foundations` (numeric 00→06 order)
 - Wider reading column — these are reference docs, not long-form prose
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
 ### 6.3 — Case study layout
-**File:** `_includes/layouts/case-study.njk`
+**File:** [_includes/layouts/case-study.njk](_includes/layouts/case-study.njk)
 
 - Breadcrumb: Home / Case Studies / [title]
 - Section illustration: `sections/case-studies.svg`
@@ -648,23 +648,23 @@ Like practice layout but:
 - First blockquote in the file pulled into a styled `.pastoral-callout` aside (above the main content)
 - No bottom prev/next nav — case studies are stand-alone
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
 ### 6.4 — Rule of Life layout
-**File:** `_includes/layouts/rule-of-life.njk`
+**File:** [_includes/layouts/rule-of-life.njk](_includes/layouts/rule-of-life.njk)
 
 - Breadcrumb: Home / Rule of Life / [title]
 - Section illustration: `sections/rule-of-life.svg`
 - `@media print` styles: remove nav, footer, sidebar; expand to full width; clean serif type only; suitable for printing and personal use
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
 ### 6.5 — Listing layout
-**File:** `_includes/layouts/listing.njk`
+**File:** [_includes/layouts/listing.njk](_includes/layouts/listing.njk)
 
 Extends `base.njk`. Used for all index pages.
 
@@ -676,7 +676,7 @@ Structure:
 
 For the Practices listing only: add alphabetical letter headings (`A`, `B`, `C`…) and a small alphabetical jump-nav at the top.
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 

@@ -2,11 +2,55 @@
 layout: base
 ---
 <article class="foundation">
-  <header class="page-header">
-    <span class="tag tag--foundation">Foundation</span>
-    <h1>{{ title }}</h1>
-  </header>
-  <div class="prose container">
-    {{ content | safe }}
+
+  {# ── Header ─────────────────────────────────────────────────────────────── #}
+  <div class="page-header">
+    <div class="container--wide">
+
+      <nav aria-label="Breadcrumb">
+        <ol class="breadcrumb">
+          <li><a href="{{ '/' | url }}">Home</a></li>
+          <li><a href="{{ '/foundation/' | url }}">Foundation</a></li>
+          <li aria-current="page">{{ title }}</li>
+        </ol>
+      </nav>
+
+      <span class="tag tag--foundation">Foundation</span>
+      <h1>{{ title }}</h1>
+
+    </div>
   </div>
+
+  {# ── Body ────────────────────────────────────────────────────────────────── #}
+  <div class="section--sm">
+    <div class="container--wide">
+
+      {# Foundation docs are denser reference material — wider reading width, no sidebar #}
+      <div class="prose reveal">
+        {{ content | safe }}
+      </div>
+
+      {# ── Prev / Next ───────────────────────────────────────────────────── #}
+      {% set prevItem = collections.foundations | getPreviousCollectionItem(page) %}
+      {% set nextItem = collections.foundations | getNextCollectionItem(page) %}
+      {% if prevItem or nextItem %}
+        <nav class="page-nav" aria-label="Browse foundation documents">
+          {% if prevItem %}
+            <div class="page-nav__link page-nav__link--prev">
+              <span class="page-nav__label">← Previous</span>
+              <a href="{{ prevItem.url | url }}">{{ prevItem.data.title }}</a>
+            </div>
+          {% endif %}
+          {% if nextItem %}
+            <div class="page-nav__link page-nav__link--next">
+              <span class="page-nav__label">Next →</span>
+              <a href="{{ nextItem.url | url }}">{{ nextItem.data.title }}</a>
+            </div>
+          {% endif %}
+        </nav>
+      {% endif %}
+
+    </div>
+  </div>
+
 </article>

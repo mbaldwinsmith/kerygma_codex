@@ -2,11 +2,59 @@
 layout: base
 ---
 <article class="rule-of-life">
-  <header class="page-header">
-    <span class="tag tag--rule-of-life">Rule of Life</span>
-    <h1>{{ title }}</h1>
-  </header>
-  <div class="prose container">
-    {{ content | safe }}
+
+  {# ── Header ─────────────────────────────────────────────────────────────── #}
+  <div class="page-header">
+    <div class="container--wide">
+
+      <nav aria-label="Breadcrumb">
+        <ol class="breadcrumb">
+          <li><a href="{{ '/' | url }}">Home</a></li>
+          <li><a href="{{ '/rule-of-life/' | url }}">Rule of Life</a></li>
+          <li aria-current="page">{{ title }}</li>
+        </ol>
+      </nav>
+
+      <div class="grid-two">
+        <div>
+          <span class="tag tag--rule-of-life">Rule of Life</span>
+          <h1>{{ title }}</h1>
+        </div>
+        <div aria-hidden="true">
+          <img
+            src="{{ '/assets/images/illustrations/sections/rule-of-life.svg' | url }}"
+            alt=""
+            class="float"
+            width="480"
+            height="320"
+          >
+        </div>
+      </div>
+
+    </div>
   </div>
+
+  {# ── Body ────────────────────────────────────────────────────────────────── #}
+  <div class="section--sm">
+    <div class="container">
+      <div class="prose reveal">
+        {{ content | safe }}
+      </div>
+    </div>
+  </div>
+
 </article>
+
+{# ── Print styles ────────────────────────────────────────────────────────── #}
+<style>
+  @media print {
+    .nav, .skip-link, .breadcrumb, .footer, .page-header .grid-two > :last-child { display: none !important; }
+    .page-header { padding-block: 1rem; border-bottom: 1px solid #ccc; }
+    .page-header h1 { font-size: 1.75rem; }
+    .prose { max-width: 100%; font-size: 11pt; line-height: 1.6; }
+    h2 { font-size: 14pt; margin-top: 1.5em; }
+    h3 { font-size: 11pt; }
+    a { color: inherit; text-decoration: none; }
+    blockquote { border-left: 2px solid #999; padding-left: 1em; font-style: italic; }
+  }
+</style>

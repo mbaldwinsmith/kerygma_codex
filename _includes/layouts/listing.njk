@@ -2,10 +2,44 @@
 layout: base
 ---
 <section class="listing">
-  <header class="page-header">
-    <h1>{{ title }}</h1>
-  </header>
-  <div class="container">
-    {{ content | safe }}
+
+  {# ── Hero ────────────────────────────────────────────────────────────────── #}
+  <div class="listing__hero section--sm" style="background: radial-gradient(ellipse at 65% 50%, var(--color-surface) 0%, var(--color-cream) 70%);">
+    <div class="container--wide">
+      <div class="grid-two" style="align-items: center;">
+
+        <div>
+          {% if tag %}
+            <span class="tag {{ tagClass }}">{{ tag }}</span>
+          {% endif %}
+          <h1 style="margin-top: var(--space-3);">{{ title }}</h1>
+          {% if description %}
+            <p class="hero__tagline">{{ description }}</p>
+          {% endif %}
+          {% if itemCount %}
+            <span class="count-badge">{{ itemCount }} {{ tag | lower or "items" }}</span>
+          {% endif %}
+        </div>
+
+        <div aria-hidden="true">
+          <img
+            src="{{ '/assets/images/illustrations/sections/' + (sectionSlug or 'practices') + '.svg' | url }}"
+            alt=""
+            class="float"
+            width="480"
+            height="320"
+          >
+        </div>
+
+      </div>
+    </div>
   </div>
+
+  {# ── Content (card grid injected by each static page) ─────────────────── #}
+  <div class="section--sm">
+    <div class="container--wide">
+      {{ content | safe }}
+    </div>
+  </div>
+
 </section>

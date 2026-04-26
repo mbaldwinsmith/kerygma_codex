@@ -2,11 +2,50 @@
 layout: base
 ---
 <article class="case-study">
-  <header class="page-header">
-    <span class="tag tag--case-studies">Case Study</span>
-    <h1>{{ title }}</h1>
-  </header>
-  <div class="prose container">
-    {{ content | safe }}
+
+  {# ── Header ─────────────────────────────────────────────────────────────── #}
+  <div class="page-header">
+    <div class="container--wide">
+
+      <nav aria-label="Breadcrumb">
+        <ol class="breadcrumb">
+          <li><a href="{{ '/' | url }}">Home</a></li>
+          <li><a href="{{ '/case-studies/' | url }}">Case Studies</a></li>
+          <li aria-current="page">{{ title }}</li>
+        </ol>
+      </nav>
+
+      <div class="grid-two case-study-header__grid">
+        <div>
+          <span class="tag tag--case-studies">Case Study</span>
+          <h1>{{ title }}</h1>
+          <p class="hero__tagline">
+            A pastoral reflection on spiritual healing and coherence repair.
+          </p>
+        </div>
+        <div class="case-study-header__illustration" aria-hidden="true">
+          <img
+            src="{{ '/assets/images/illustrations/sections/case-studies.svg' | url }}"
+            alt=""
+            class="float"
+            width="480"
+            height="320"
+          >
+        </div>
+      </div>
+
+    </div>
   </div>
+
+  {# ── Body ────────────────────────────────────────────────────────────────── #}
+  <div class="section--sm">
+    <div class="container">
+      {# Narrower reading column — case studies read as narrative #}
+      {# First blockquote in the content is styled as a pastoral callout via CSS #}
+      <div class="prose case-study__prose reveal">
+        {{ content | safe }}
+      </div>
+    </div>
+  </div>
+
 </article>
