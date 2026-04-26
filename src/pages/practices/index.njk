@@ -1,0 +1,33 @@
+---
+layout: listing
+title: Practices
+description: "Healing participation practices from the grammar of the Codex — embodied ways of engaging in spiritual repair."
+tag: Practices
+tagClass: tag--practices
+sectionSlug: practices
+collectionName: practices
+permalink: /practices/
+---
+
+{# Alpha jump nav #}
+{% set letters = collections.practices | uniqueFirstLetters %}
+<nav class="alpha-nav" aria-label="Jump to letter">
+  {% for letter in letters %}
+    <a class="alpha-nav__link" href="#letter-{{ letter }}">{{ letter }}</a>
+  {% endfor %}
+</nav>
+
+{# Cards grouped by letter — alpha-group__letter spans the full grid width #}
+<div class="grid-cards">
+  {% for practice in collections.practices %}
+    {% set letter = practice.data.title[0] | upper %}
+    {% if loop.first or collections.practices[loop.index0 - 1].data.title[0] | upper != letter %}
+      <h2 class="alpha-group__letter" id="letter-{{ letter }}">{{ letter }}</h2>
+    {% endif %}
+    <a href="{{ practice.url | url }}" class="card">
+      <span class="tag tag--practices card__tag">Practice</span>
+      <h3 class="card__title">{{ practice.data.title }}</h3>
+      <p class="card__excerpt">{{ practice.templateContent | excerpt }}</p>
+    </a>
+  {% endfor %}
+</div>

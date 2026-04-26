@@ -683,82 +683,70 @@ For the Practices listing only: add alphabetical letter headings (`A`, `B`, `C`�
 ## Phase 7: Static Pages
 
 ### 7.1 — Home page
-**File:** `src/pages/index.njk`
+**File:** [src/pages/index.njk](src/pages/index.njk)
 
 Sections (top to bottom):
-1. **Hero**: "Kerygma Codex" display title, tagline drawn from `README.md` ("A gentle grammar for spiritual healing and coherence repair"), home-hero.svg illustration, two CTA buttons — "Begin with a practice" (`/practices/`) and "Read the Introduction" (`/foundation/`)
-2. **Welcome**: Short paragraph (~80 words), drawn from `README.md` Welcome section — warm, consent-based, honouring AGENTS.md tone rules (analogical not mechanistic, no hype, genuinely pastoral)
-3. **Three entry points**: Large cards for Practices, Case Studies, Rule of Life — with section illustrations, item counts, and short descriptions
-4. **Covenant of Posture**: Styled blockquote block, drawn verbatim from the README covenant list — not paraphrased
-5. **Foundation Documents**: Compact grid of the 00–06 docs with titles and one-line descriptions
+1. **Hero**: "Kerygma Codex" display title, tagline, home-hero.svg illustration, two CTA buttons
+2. **Welcome**: Short paragraph drawn from `README.md` / `INTRODUCTION.md`, honouring AGENTS.md tone rules
+3. **Three entry points**: Cards for Practices, Case Studies, Rule of Life — with section illustrations and dynamic counts
+4. **Covenant of Posture**: Verbatim covenant list from README with gold-border `.covenant-list` styling
+5. **Foundation Documents**: Card grid iterating `collections.foundations` with `excerpt` filter
 
-> **User task:** Claude will draft home page body copy from `README.md` and `content/INTRODUCTION.md`, honouring AGENTS.md tone rules. Please review the draft before the Phase 7 PR is merged — especially the Welcome paragraph and three-entry-point descriptions. Approve, adjust, or rewrite as needed.
+> **User task:** Please review the home page Welcome paragraph and three-entry-point descriptions. Approve, adjust, or rewrite as needed.
 
-**Status:** [ ] Not started
+**Status:** [x] Complete — 94 files built; count badges dynamic via `collectionName` frontmatter
 
 ---
 
 ### 7.2 — Practices index
-**File:** `src/pages/practices/index.njk`
+**File:** [src/pages/practices/index.njk](src/pages/practices/index.njk)
 
-- Uses `listing` layout
-- Iterates `collections.practices` sorted alphabetically by `data.title`
-- Alphabetical letter group headers (A, B, C…) with anchor links
-- Count badge: "N practices" total
+- Uses `listing` layout with alpha jump-nav (`uniqueFirstLetters` filter) and letter-grouped `.grid-cards`
+- Count badge: "64 practices" (dynamic)
 - Illustration: `sections/practices.svg`
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
 ### 7.3 — Foundation index
-**File:** `src/pages/foundation/index.njk`
+**File:** [src/pages/foundation/index.njk](src/pages/foundation/index.njk)
 
-- Uses `listing` layout
-- Iterates `collections.foundations` in numeric order (00→06 + INTRODUCTION + MANIFESTO)
-- Brief one-sentence description for each doc (either from frontmatter `description` field added in a future pass, or hard-coded in the template for these ~8 items)
+- Uses `listing` layout; iterates `collections.foundations` with `excerpt` filter descriptions
+- Count badge: "8 foundation" (dynamic)
 - Illustration: `sections/foundation.svg`
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
 ### 7.4 — Case studies index
-**File:** `src/pages/case-studies/index.njk`
+**File:** [src/pages/case-studies/index.njk](src/pages/case-studies/index.njk)
 
-- Uses `listing` layout
-- Iterates `collections.caseStudies` sorted alphabetically by `data.title`
+- Uses `listing` layout; iterates `collections.caseStudies` alphabetically
+- Count badge: "14 case studies" (dynamic)
 - Illustration: `sections/case-studies.svg`
 
-> **Note:** Case study titles come from the first `# ` heading in each file. Spot-check during Phase 2.2 that these headings are expressive and human-readable (e.g. "The Ashamed Addict") rather than filename-style.
-
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
 ### 7.5 — Rule of Life index
-**File:** `src/pages/rule-of-life/index.njk`
+**File:** [src/pages/rule-of-life/index.njk](src/pages/rule-of-life/index.njk)
 
-- Uses `listing` layout
-- Two entries: Monthly Attractor Discernment + The Coherent Gardener
-- Direct links with short descriptions (hard-code descriptions in template — only two items)
+- Uses `listing` layout; iterates `collections.ruleOfLife` (2 items with `.card--large`)
 - Illustration: `sections/rule-of-life.svg`
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 
 ### 7.6 — About
-**File:** `src/pages/about/index.njk`
+**File:** [src/pages/about/index.njk](src/pages/about/index.njk)
 
-Uses `base` layout. Sections:
-- What the Codex is (drawn from README — brief, no duplication of home page)
-- License: CC BY-SA 4.0 with plain-English summary
-- Ethical Use Addendum: key principle excerpts + link to full `ETHICAL_USE_ADDENDUM.md` on GitHub
-- How to Contribute: link to `CONTRIBUTING.md` on GitHub
-- GitHub repository link
+Uses `base` layout. Sections: what the Codex is, CC BY-SA 4.0 licence summary, Ethical Use Addendum principles + GitHub link, Contributing guidelines link, repository link, benediction.
 
-**Status:** [ ] Not started
+**Status:** [x] Complete
 
 ---
 

@@ -1,0 +1,20 @@
+---
+layout: listing
+title: Foundation
+description: "The structural grammar of the Kerygma Codex — from theological posture and definitions to pastoral safeguards and coherence tests."
+tag: Foundation
+tagClass: tag--foundation
+sectionSlug: foundation
+collectionName: foundations
+permalink: /foundation/
+---
+
+<div class="grid-cards">
+  {% for doc in collections.foundations %}
+    <a href="{{ doc.url | url }}" class="card">
+      <span class="tag tag--foundation card__tag">Foundation</span>
+      <h3 class="card__title">{{ doc.data.title }}</h3>
+      <p class="card__excerpt">{{ doc.templateContent | excerpt }}</p>
+    </a>
+  {% endfor %}
+</div>

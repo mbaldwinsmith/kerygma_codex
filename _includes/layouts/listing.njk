@@ -18,6 +18,8 @@ layout: base
           {% endif %}
           {% if itemCount %}
             <span class="count-badge">{{ itemCount }} {{ tag | lower or "items" }}</span>
+          {% elif collectionName and collections[collectionName] %}
+            <span class="count-badge">{{ collections[collectionName] | length }} {{ tag | lower or "items" }}</span>
           {% endif %}
         </div>
 

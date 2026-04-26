@@ -1,0 +1,20 @@
+---
+layout: listing
+title: Rule of Life
+description: "Gentle frameworks for cultivating an integrated, coherent spiritual life — rhythms of repair for everyday living."
+tag: Rule of Life
+tagClass: tag--rule-of-life
+sectionSlug: rule-of-life
+collectionName: ruleOfLife
+permalink: /rule-of-life/
+---
+
+<div class="grid-cards">
+  {% for item in collections.ruleOfLife %}
+    <a href="{{ item.url | url }}" class="card card--large">
+      <span class="tag tag--rule-of-life card__tag">Rule of Life</span>
+      <h3 class="card__title">{{ item.data.title }}</h3>
+      <p class="card__excerpt">{{ item.templateContent | excerpt }}</p>
+    </a>
+  {% endfor %}
+</div>

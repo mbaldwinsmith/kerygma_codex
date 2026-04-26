@@ -68,16 +68,26 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addFilter('excerpt', (content) => {
     const plain = (content ?? '')
-      .replace(/^#{1,6}\s+.+$/gm, '')          // headings
-      .replace(/\*\*([^*]+)\*\*/g, '$1')        // bold
-      .replace(/\*([^*]+)\*/g, '$1')            // italic
-      .replace(/`[^`]+`/g, '')                  // inline code
-      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // links
-      .replace(/^\s*[-*+|>]{1,2}\s*/gm, '')    // list items, blockquotes, table rows
-      .replace(/\n+/g, ' ')
+      .replace(/<[^>]+>/g, ' ')                  // strip HTML tags (templateContent)
+      .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'") // decode entities
+      .replace(/^#{1,6}\s+.+$/gm, '')            // markdown headings
+      .replace(/\*\*([^*]+)\*\*/g, '$1')         // bold
+      .replace(/\*([^*]+)\*/g, '$1')             // italic
+      .replace(/`[^`]+`/g, '')                   // inline code
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')  // links
+      .replace(/^\s*[-*+|>]{1,2}\s*/gm, '')     // list items, blockquotes, table rows
+      .replace(/\s+/g, ' ')
       .trim();
     return plain.slice(0, 160).trim();
   });
+
+  eleventyConfig.addFilter('uniqueFirstLetters', (collection) =>
+    [...new Set(
+      (collection ?? [])
+        .map(item => (item.data?.title ?? '')[0]?.toUpperCase())
+        .filter(Boolean)
+    )].sort()
+  );
 
   eleventyConfig.addFilter('readableDate', (dateStr) => {
     if (!dateStr) return '';

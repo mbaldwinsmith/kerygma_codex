@@ -1,0 +1,20 @@
+---
+layout: listing
+title: Case Studies
+description: "Pastoral reflections on spiritual healing across diverse human stories — practice in narrative form."
+tag: Case Studies
+tagClass: tag--case-studies
+sectionSlug: case-studies
+collectionName: caseStudies
+permalink: /case-studies/
+---
+
+<div class="grid-cards">
+  {% for study in collections.caseStudies %}
+    <a href="{{ study.url | url }}" class="card">
+      <span class="tag tag--case-studies card__tag">Case Study</span>
+      <h3 class="card__title">{{ study.data.title }}</h3>
+      <p class="card__excerpt">{{ study.templateContent | excerpt }}</p>
+    </a>
+  {% endfor %}
+</div>
