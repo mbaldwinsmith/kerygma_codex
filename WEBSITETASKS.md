@@ -920,8 +920,8 @@ Implement as a regex replacement pass after frontmatter injection in `generate-f
 |---|---|---|---|
 | 1 | Confirm which `content/` files to exclude from the site | User | Exclude TASKS.md |
 | 2 | Confirm GitHub username is `mbaldwinsmith` for `baseUrl` | User | Yes |
-| 3 | Review and approve home page copy draft (Phase 7.1) | User | Awaiting Phase 7 |
-| 4 | Generate illustrations from IMAGEPROMPTS.md prompts | User | Awaiting Phase 8 |
-| 5 | Enable GitHub Pages in repo settings after first workflow push | User | Awaiting Phase 10 |
-| 6 | Verify mathematical notation rendering (Phase 11.4) | User | Awaiting Phase 11 |
+| 3 | Review and approve home page copy draft (Phase 7.1) | User | Done |
+| 4 | Generate illustrations from IMAGEPROMPTS.md prompts | User | Done |
+| 5 | Enable GitHub Pages in repo settings after first workflow push | User | Done |
+| 6 | Verify mathematical notation rendering (Phase 11.4) | User | Done |
 | 7 | Acquire and configure custom domain (planned next month) | User | Future |
