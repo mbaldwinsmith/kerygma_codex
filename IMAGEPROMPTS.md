@@ -138,6 +138,23 @@ A very wide, very narrow composition (landscape strip format, 5:1 ratio). Centre
 
 ---
 
+## 9. Favicon
+
+**File:** `src/assets/images/favicon.svg`
+**Dimensions:** 512 × 512 px (square — browser scales to 16 × 16, 32 × 32, 180 × 180 as needed)
+**Used on:** Browser tab, bookmark bar, home screen shortcut, PWA icon
+**Mood:** Concentrated essence. Immediate recognition at thumbnail scale.
+
+### Prompt
+
+[Base style preamble above, then:]
+
+A perfectly square composition on a deep charcoal (#1C1F2A) background. Centred: a mandorla (vesica piscis) formed by two overlapping circles, rendered as clean gold (#C28840) filled shapes with the overlap region in brighter amber (#E8C98A). Within the mandorla's central overlap: a small, fine equal-armed cross in charcoal — negative space cut from the amber fill. No other elements. No border, no rings, no corner ornament. The entire composition should resolve to a legible warm-gold lens with a cross at its heart even at 16 × 16 px. Maximum simplicity: three tones only (charcoal background, gold outer arcs, amber inner vesica). Square format, equal padding on all sides.
+
+> **Note:** After generating, test legibility by viewing at 32 × 32 px and 16 × 16 px in a browser tab. If the cross disappears at small sizes, widen its arms slightly and regenerate. Also produce a 180 × 180 px Apple Touch Icon version (same composition, slightly more padding) saved as `src/assets/images/apple-touch-icon.png`.
+
+---
+
 ## Generation Tips
 
 - **For SVG output:** Ask the tool to generate clean, geometric SVG code with minimal paths and no embedded rasters. Ideogram and some versions of ChatGPT can output SVG directly.
