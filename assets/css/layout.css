@@ -115,6 +115,15 @@
 
 .breadcrumb a:hover { color: var(--color-gold-text); }
 
+/* --- Decorative section divider --- */
+
+.section-divider {
+  display: flex;
+  justify-content: center;
+  padding-block: var(--space-6);
+  opacity: 0.5;
+}
+
 /* --- Skip link (accessibility) --- */
 
 .skip-link {
