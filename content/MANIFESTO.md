@@ -1,7 +1,7 @@
 # A Manifesto for Generative Systems Theology  
 ## The Kerygma Codex
 
-![Kerygma Codex Infographic](Infographic.png)
+![Kerygma Codex Infographic](/kerygma_codex/Infographic.png)
 
 ---
 
