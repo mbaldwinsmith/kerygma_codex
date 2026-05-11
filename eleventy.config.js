@@ -54,11 +54,7 @@ export default function (eleventyConfig) {
       .sort((a, b) => (a.data.title ?? '').localeCompare(b.data.title ?? ''))
   );
 
-  eleventyConfig.addCollection('ruleOfLife', (api) =>
-    api.getFilteredByGlob('generated/content/Rule_of_Life/*.md')
-  );
-
-  // --- Filters -----------------------------------------------------------------
+// --- Filters -----------------------------------------------------------------
   eleventyConfig.addFilter('slugify', (str) =>
     (str ?? '')
       .toLowerCase()
@@ -114,8 +110,7 @@ export default function (eleventyConfig) {
       if (url.startsWith('/practices/')  && url !== '/practices/')  return 'practices';
       if (url.startsWith('/foundation/') && url !== '/foundation/') return 'foundation';
       if (url.startsWith('/case-studies/') && url !== '/case-studies/') return 'case-studies';
-      if (url.startsWith('/rule-of-life/') && url !== '/rule-of-life/') return 'rule-of-life';
-      return null;
+return null;
     };
 
     const items = results
