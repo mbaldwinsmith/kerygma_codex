@@ -44,15 +44,13 @@ const LINK_MAP = {
 function resolveSection(filePath) {
   if (filePath.includes('07_fundamental_practices')) return 'practices';
   if (filePath.includes('case_studies'))             return 'case-studies';
-  if (filePath.includes('Rule_of_Life'))             return 'rule-of-life';
-  return 'foundation';
+return 'foundation';
 }
 
 const LAYOUT_MAP = {
   'practices':    'practice',
   'case-studies': 'case-study',
-  'rule-of-life': 'rule-of-life',
-  'foundation':   'foundation',
+'foundation':   'foundation',
 };
 
 function resolvePermalink(filePath, section) {
@@ -90,12 +88,7 @@ function rewriteLinks(content, section) {
       const slug = basename(name, '.md').replace(/_/g, '-').toLowerCase();
       return `[${text}](/case-studies/${slug}/${suffix})`;
     }
-    if (href.includes('Rule_of_Life')) {
-      const slug = basename(name, '.md').replace(/_/g, '-').toLowerCase();
-      return `[${text}](/rule-of-life/${slug}/${suffix})`;
-    }
-
-    // Bare relative link (no path prefix) — infer destination from current file's section
+// Bare relative link (no path prefix) — infer destination from current file's section
     const stem = basename(name, '.md');
     if (section === 'practices') {
       return `[${text}](/practices/${stem.replace(/_/g, '-').toLowerCase()}/${suffix})`;
@@ -103,10 +96,7 @@ function rewriteLinks(content, section) {
     if (section === 'case-studies') {
       return `[${text}](/case-studies/${stem.replace(/_/g, '-').toLowerCase()}/${suffix})`;
     }
-    if (section === 'rule-of-life') {
-      return `[${text}](/rule-of-life/${stem.replace(/_/g, '-').toLowerCase()}/${suffix})`;
-    }
-    if (section === 'foundation') {
+if (section === 'foundation') {
       const slug = FOUNDATION_SLUGS[stem] ?? stem.toLowerCase().replace(/_/g, '-');
       return `[${text}](/foundation/${slug}/${suffix})`;
     }
