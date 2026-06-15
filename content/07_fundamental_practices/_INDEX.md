@@ -44,6 +44,8 @@ This is a garden of chapels, not a rulebook.
 | Faith (Pistis) | `faith_pistis.md` |
 | Fasting | `fasting.md` |
 | Forgiveness | `forgiveness.md` |
+| Friendship (Philia) | `friendship_philia.md` |
+| Generosity / Almsgiving (Eleemosyne) | `generosity_eleemosyne.md` |
 | Glorification | `glorification.md` |
 | Grace | `grace.md` |
 | Hamartia (Sin) | `hamartia_sin.md` |
@@ -97,6 +99,7 @@ This is a garden of chapels, not a rulebook.
 | Vigil | `vigil.md` |
 | Waiting (Patientia) | `waiting_patientia.md` |
 | Witness (Martyria) | `witness_martyria.md` |
+| Work / Labour (Ergon) | `work_ergon.md` |
 
 ### File Naming Convention
 
