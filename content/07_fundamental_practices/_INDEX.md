@@ -49,10 +49,13 @@ This is a garden of chapels, not a rulebook.
 | Hamartia (Sin) | `hamartia_sin.md` |
 | Heaven | `heaven.md` |
 | Hell | `hell.md` |
+| Healing (Iasis) | `healing_iasis.md` |
 | Hesychia (Stillness) | `hesychia.md` |
 | Hope (Elpis) | `hope.md` |
+| Hospitality (Philoxenia) | `hospitality_philoxenia.md` |
 | Icon | `icon.md` |
 | Incarnation | `incarnation.md` |
+| Intercession (Enteuxis) | `intercession_enteuxis.md` |
 | Judgement (Krisis) | `judgement_krisis.md` |
 | Justification | `justification.md` |
 | Justice | `justice.md` |
@@ -74,10 +77,13 @@ This is a garden of chapels, not a rulebook.
 | Priesthood | `priesthood.md` |
 | Propitiation | `propitiation.md` |
 | Regeneration | `regeneration.md` |
+| Reconciliation (Katallage) | `reconciliation_katallage.md` |
 | Resurrection | `resurrection.md` |
+| Rest (Anapausis) | `rest_anapausis.md` |
 | Sacrifice | `sacrifice.md` |
 | Sanctification | `sanctification.md` |
 | Scripture | `scripture.md` |
+| Shame | `shame.md` |
 | Suffering | `suffering.md` |
 | Sophia (Wisdom) | `sophia_wisdom.md` |
 | Spiritual Direction | `spiritual_direction.md` |
@@ -90,6 +96,7 @@ This is a garden of chapels, not a rulebook.
 | Virtue (Arete) | `virtue_arete.md` |
 | Vigil | `vigil.md` |
 | Waiting (Patientia) | `waiting_patientia.md` |
+| Witness (Martyria) | `witness_martyria.md` |
 
 ### File Naming Convention
 
