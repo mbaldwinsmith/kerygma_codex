@@ -55,6 +55,7 @@ This is a garden of chapels, not a rulebook.
 | Hesychia (Stillness) | `hesychia.md` |
 | Hope (Elpis) | `hope.md` |
 | Hospitality (Philoxenia) | `hospitality_philoxenia.md` |
+| Humility (Tapeinosis) | `humility_tapeinosis.md` |
 | Icon | `icon.md` |
 | Incarnation | `incarnation.md` |
 | Intercession (Enteuxis) | `intercession_enteuxis.md` |
