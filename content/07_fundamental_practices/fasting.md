@@ -57,7 +57,7 @@ As a refinement of **Ascesis**, fasting applies a consented, time-limited constr
 ## What it looks like in practice
 - Choosing short, gentle fasts with clear start and end times
 - Prioritising hydration, rest, and lightness rather than intensity
-- Pairing fasting with prayer, almsgiving, and gratitude
+- Pairing fasting with **Prayer**, **Generosity / Almsgiving**, and gratitude — the classic triad of Matthew 6
 - Breaking the fast with care, humility, and embodied kindness
 - Substituting a non-food fast (media, shopping, noise) when food restriction is unsafe
 

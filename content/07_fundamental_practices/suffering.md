@@ -43,7 +43,7 @@ Suffering happens to persons; it is never demanded of them. Suffering is not voc
 - Reduction of shame and isolation (**Mercy**, **Love**)
 - Stabilisation of Ground (safety, belonging) (**Peace**)
 - Permission to rest and receive care (creaturely limits honoured)
-- Pathways to healing (not timelines)
+- Pathways to healing, not timelines — whole-person restoration that does not require cure (**Healing**)
 - Truthful lament and hope without bypass (**Lament**, **Hope**)
 - Restoration of agency over time (consent-respecting)
 
@@ -101,7 +101,7 @@ Suffering happens to persons; it is never demanded of them. Suffering is not voc
 - **Right to protection:** immediate safety is the first response.
 - **Right to rest:** reduced capacity is honoured without shame.
 - **Right to medical/legal help:** professional care and legal protection are welcomed.
-- **Right to speak truth:** testimony and lament are protected, not silenced.
+- **Right to speak truth:** testimony and lament are protected, not silenced (**Witness**, **Lament**).
 - **Right to leave unsafe situations:** exit is always permitted and supported.
 - **Non-judgment of slow or hidden healing:** timelines are consented and gentle.
 - **Clear escalation:** if harm is present, activate safeguarding, legal reporting obligations, and trusted advocates without delay.

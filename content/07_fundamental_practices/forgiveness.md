@@ -6,7 +6,7 @@ Forgiveness is the grace-governed release of retaliatory binding and relational 
 ---
 
 ## Formal Operator
-Grounded in **Grace**, governed by **Mercy** and **Truth**, secured by **Justification**, clarified by **Judgement (Krisis)** and **Discernment (Diakrisis)**, and paced by **Peace**, forgiveness is a debt-release and vengeance-unbinding operator that restores non-retaliatory coherence while preserving safety, dignity, and accountability. It is oriented toward **Sanctification**, **Koinonia**, and **Hope**, and interpreted through the Cross as truthful love under pressure.
+Grounded in **Grace**, governed by **Mercy** and **Truth**, secured by **Justification**, clarified by **Judgement (Krisis)** and **Discernment (Diakrisis)**, and paced by **Peace**, forgiveness is a debt-release and vengeance-unbinding operator that restores non-retaliatory coherence while preserving safety, dignity, and accountability. It is oriented toward **Sanctification**, **Koinonia**, and **Hope**, and interpreted through the Cross as truthful love under pressure. Forgiveness is distinct from **Reconciliation (Katallage)**: forgiveness releases retaliatory binding and may be given unilaterally, whereas reconciliation is the relational restoration that may follow only where truth, safety, accountability, and consent are genuinely present. Forgiveness can be complete while reconciliation remains impossible or unsafe; the two must never be collapsed.
 
 F(H) : H = (G, L, P, A) -> H' where
 - debt release: relational_debt_binding -> released without harm denial
@@ -75,7 +75,7 @@ F(H) : H = (G, L, P, A) -> H' where
 **Misuse-prevention notes**
 - Forgiveness is never a command to stay in harm or remain silent.
 - Mercy never erases truth; justice and accountability are preserved.
-- Reconciliation is optional, consented, and safety-first.
+- Reconciliation is optional, consented, and safety-first (**Reconciliation (Katallage)**).
 - If forgiveness language increases fear, shame, or pressure, return to **Peace**, **Truth**, and **Spiritual Direction**.
 - Exit rights are protected; community accountability remains active.
 

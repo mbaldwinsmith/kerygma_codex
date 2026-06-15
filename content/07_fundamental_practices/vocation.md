@@ -298,69 +298,13 @@ This sub-domain measures worth by productivity, shames slowness or dependency, t
 
 ### Rest, Sabbath, and Limits — Vocational Sub-Domain
 
-#### One-Line Definition
-A creaturely-boundary, renewal, and coherence-preservation vocational placement where rest, Sabbath, slowness, and limits are received as holy design — not failure — and are kept by **Grace**, **Peace**, **Mercy**, **Conscience**, and **Sophia** as the form of **Vocation** itself.
+**Operator summary:** A creaturely-boundary and renewal configuration (R ⊂ V) in which rest, Sabbath, sleep, slowness, and limits are received as holy design rather than failure — the form within which vocation is kept truthful, gentle, and sustainable under the Cross.
 
-#### Formal Operator
-This sub-domain is a creaturely-boundary, renewal, and coherence-preservation operator grounded in **Grace**, governed by **Peace**, sheltered by **Mercy**, clarified by **Conscience**, ordered by **Sophia**, and stabilised in **Prayer** and **Hesychia** for the sake of long-term **Sanctification** within **Vocation**.
+**Grounding in vocation:** Rest is not a pause from vocation but part of its shape; it orders work rather than interrupting it, and guards against burnout, which is a systems signal of mis-sized load, never proof of holiness.
 
-R ⊂ V: R(H, t) → (H′, E′) where
-- H = (G, L, P, A)
-- boundary-honouring: limits are received as God-given, not obstacles
-- renewal: rest, sleep, Sabbath, and slowness restore coherence
-- non-productivity: time without measurable output is protected as holy
-- peace-governed pacing: rhythms are sized to consent and capacity
-- vocation-form: limits are part of vocation’s shape, not a detour from it
+**Status safeguard:** Rest is a creaturely right, not a reward for sufficient output; it is protected for all, and especially for the weary, ill, disabled, grieving, and neurodivergent, who are never shamed for their limits.
 
-**In ordinary words:**
-Rest and Sabbath are not pauses from vocation; they are how vocation is kept truthful, gentle, and sustainable under the Cross.
-
-#### Inputs
-- The human system H = (G, L, P, A)
-- Physical, emotional, neurological, and spiritual limits
-- Fatigue, illness, trauma, grief, and seasons of reduced capacity
-- Non-productive time and non-measurable life rhythms
-- The need for Sabbath, sleep, slowness, and restoration
-- Grace-anchored belonging that precedes output (**Grace**)
-- Peace-governed pacing and relinquishment of control (**Peace**, **Hesychia**)
-- Mercy that protects the weary and the weak (**Mercy**)
-- Conscience-based permission to rest and say no (**Conscience**)
-- Wisdom for timing, seasons, and sustainable rhythms (**Sophia**)
-- Prayerful consent and communal discernment (**Prayer**, **Koinonia**)
-
-#### Outputs
-- Preserved coherence and long-term sustainability
-- Reduced burnout, collapse, and spiritual injury
-- Increased peace and groundedness (**Peace**)
-- Restored nervous system stability
-- Renewed capacity for love, prayer, and service (**Prayer**)
-- Long-term sanctifying convergence without self-destruction (**Sanctification**)
-- Vocation kept within creaturely limits rather than driven by pressure (**Vocation**)
-
-#### Layer Effects
-| Layer | Healthy use | Misuse mode |
-|------|-------------|------------|
-| Ground (G) | ↑ (safety, embodied stability) | ↓ (exhaustion, worth collapse) |
-| Logos (L)  | ↑ (truth that limits are holy) | ↓ (shame for limits, productivity idolatry) |
-| Presence (P) | ↑ (gentle availability, regulated presence) | ↓ (burnout martyrdom, spiritual bypass) |
-
-#### Misuse-Prevention (Critical)
-- Rejects treating rest as laziness or a lack of faith.
-- Rejects praising exhaustion as holiness or calling burnout “obedience.”
-- Rejects collapsing worth into productivity, output, or visibility.
-- Rejects coercing people beyond capacity or shaming them for limits.
-- Rejects bypassing illness, trauma, grief, or disability with spiritual language.
-- Requires communal protection of Sabbath space and consented pacing.
-
-#### Fails the Cross If…
-Rest is framed as disobedience, burnout is treated as proof of faithfulness, exhaustion is spiritualised, or creaturely limits are denied in the name of vocation.
-
-#### Trauma-Aware Safeguarding
-- Right to rest without guilt or suspicion.
-- Right to say no, slow down, and step back.
-- Protection for ill, disabled, grieving, and neurodivergent persons.
-- Communal responsibility to safeguard Sabbath space and protect limits.
-- Affirmation that God’s mercy receives limitation as holy, not as failure.
+**See full term:** [`rest_anapausis.md`](rest_anapausis.md)
 
 ---
 
@@ -688,56 +632,15 @@ Pastoral service treats control as shepherding, exposure as healing, pressure as
 
 ---
 
-## Work (Ἔργον / Labor)
+## Work (Ἔργον / Labor) — Vocational Configuration
 
-### Formal Operator (Work)
-Work is a micro-ecology operator that stabilises vocation through concrete, repeatable acts of provision, service, and participation in communal repair. It is grounded in **Grace**, governed by **Peace**, and stabilised in **Koinonia** as a subordinate expression of **Vocation**, never an independent identity engine.
+**Operator summary:** Work is the embodied, daily exercise of human capacity — making, tending, serving — through which a person participates in God's creative and sustaining activity. Within vocation it is a subordinate configuration (W ⊂ V): concrete, repeatable faithfulness rather than an independent identity engine.
 
-W ⊂ V: W(H, E, t) → (H′, E′) where
-- daily micro-convergence: small, repeatable faithfulness rather than heroic output
-- entropy-reduction: provision and care dampen fragmentation in the local repair ecology
-- non-competitive participation: contribution without rivalry, status, or scarcity logic
-- dignity detached from productivity: worth remains anchored in grace and justification
-- consented pacing: work is sized to capacity, rest, and Sabbath rhythms
+**Grounding in vocation:** Work does not assign or confer vocation; it gives calling its embodied, daily expression. Its dignity is intrinsic to the worker as image-bearer, never derived from output, status, or pay.
 
-### Inputs (Work)
-- Embodied limits and creaturely finitude
-- Consent and freedom from coercion
-- Energy capacity and recovery bandwidth
-- Life season and changing responsibilities
-- Caregiving / illness / unemployment / disability realities
-- Real-world constraint awareness (finances, schedules, access)
-- Community confirmation and shared wisdom (**Koinonia**, **Discernment**, **Conscience**)
-- Grounding in **Grace** and **Peace** with support from **Spiritual Direction**
+**Status safeguard:** Work is never the measure of the person; worth is anchored in grace and justification, and is undiminished by unemployment, illness, or incapacity. Work is ordered by **Rest**, with which it forms a single rhythm.
 
-### Outputs (Work)
-- Dignified participation without performance pressure
-- Material provision and shared care
-- Contribution to the repair ecology
-- Reduced shame and comparison anxiety
-- Increased communal resilience and mutual support (**Koinonia**)
-- Protection of rest and Sabbath rhythms (**Peace**)
-- Incremental sanctifying stability through daily faithfulness (**Sanctification**)
-
-### Layer Effects (Work)
-| Layer | Healthy use | Misuse mode |
-|------|-------------|------------|
-| Ground (G) | ↑ | ↓ (worth collapse into productivity) |
-| Logos (L)  | ↑ | ↓ (hustle theology, merit logic) |
-| Presence (P) | ↑ | ↓ (burnout, commodification of self) |
-
-### Misuse-Prevention (Critical)
-- Rejects hustle culture, productivity righteousness, and prosperity theology.
-- Rejects identity = job and any shame toward unemployment or underemployment.
-- Rejects coercive labour expectations and spiritualised burnout.
-- Affirms unemployment does not reduce dignity.
-- Affirms rest is not laziness; Sabbath is obedience to Peace.
-- Affirms withdrawal from harmful labour can be faithful, not failure.
-- Keeps Work subordinated to Vocation and bounded by **Grace**, **Mercy**, and **Conscience**.
-- Returns discernment to **Peace**, **Discernment**, and **Spiritual Direction** when pressure rises.
-
-### Safeguarding (Work)
-Work is consented, paced, reversible, and adaptable to illness, disability, trauma, caregiving, and economic instability. It is never institutionally coercive and must be re-evaluated in light of **Grace**, **Mercy**, **Koinonia**, and **Peace**.
+**See full term:** [`work_ergon.md`](work_ergon.md)
 
 ---
 

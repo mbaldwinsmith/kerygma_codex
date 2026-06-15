@@ -44,6 +44,8 @@ Koinonia refines and stabilises:
 - Reality-aligned clarity that resists denial and bypass (**Truth**)
 - Shared discernment and wiser decision-making
 - A repair ecology where grace is received and extended
+- Particular, face-to-face bonds of **Friendship** within the communal whole
+- **Hospitality** that extends communion beyond the familiar circle to the stranger
 - Stabilised peace in community life (**Peace / Eirene**)
 - Perseverance in communion without burnout (**Hope**)
 
@@ -88,10 +90,10 @@ Koinonia refines and stabilises:
 ---
 
 ## What it looks like in practice
-- Shared prayer and meals that welcome the weak
+- Shared **Prayer**, meals, and **Hospitality** that welcome the weak
 - Mutual care for those in grief, illness, or scarcity
 - Listening circles with clear boundaries and opt-out freedom
-- Practical generosity without publicity or pressure
+- Practical **Generosity / Almsgiving** without publicity or pressure
 - Repair conversations held gently, privately, and with consent
 
 ---

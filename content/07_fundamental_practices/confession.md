@@ -54,7 +54,7 @@ As a refinement of **Justification**, **Metanoia**, and **Koinonia**, Confession
 
 ## What It Heals
 - Hiddenness that fractures conscience
-- Shame-based identity loops
+- Shame-based identity loops (see **Shame**, which is met by belonging and mercy, not confession)
 - Distorted self-justification or denial
 - Relational rupture through secrecy
 - Fear of being known by God or others

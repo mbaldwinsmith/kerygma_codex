@@ -6,7 +6,7 @@ Prayer is conscious, consenting presence with God that iteratively aligns the hu
 ---
 
 ## Formal Operator
-Grounded in **Grace** (gift-field) and refined by **Love (Agape)**, prayer is an iterative convergence operator that couples the human system to the Logos grammar, and may intentionally extend that coupling toward others in intercession, participating in the ongoing mediation of Christ for the world. It encompasses the full range of honest speech — petition, thanksgiving, and **Lament** — and is deepened by **Hesychia** (quieted attention) and **Nepsis** (watchful sobriety).
+Grounded in **Grace** (gift-field) and refined by **Love (Agape)**, prayer is an iterative convergence operator that couples the human system to the Logos grammar, and may intentionally extend that coupling toward others in **Intercession**, participating in the ongoing mediation of Christ for the world. It encompasses the full range of honest speech — petition, thanksgiving, and **Lament** — and is deepened by **Hesychia** (quieted attention) and **Nepsis** (watchful sobriety).
 
 xₙ₊₁ = ℒ(xₙ)
 
